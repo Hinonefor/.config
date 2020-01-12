@@ -9,8 +9,8 @@
   <Global>
     <ExtraData>
       <ExtraDataItem name="GUI/Details/Elements" value="general,system,preview,display,storage,audio,network,usb,sharedFolders,description"/>
-      <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL,m=708b0af3-71de-42c1-869e-9c33f2b4244a"/>
-      <ExtraDataItem name="GUI/LastItemSelected" value="m=Arch Linux"/>
+      <ExtraDataItem name="GUI/GroupDefinitions/" value="n=GLOBAL"/>
+      <ExtraDataItem name="GUI/LastItemSelected" value="n=GLOBAL"/>
       <ExtraDataItem name="GUI/LastWindowPosition" value="534,293,874,560"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/run/media/harold/D4FA828F299D817A/somesystems"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/run/media/harold/D4FA828F299D817A/somesystems/archlinux-2020.01.01-x86_64.iso,/home/harold/Downloads/manjaro-gnome-18.1.5-191229-linux54.iso,/home/harold/Downloads/manjaro-openbox-18.1.0-stable-190916-linux52-x86_64.iso,/home/harold/Documents/archlinux-2019.12.01-x86_64.iso"/>
@@ -18,12 +18,10 @@
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture"/>
       <ExtraDataItem name="GUI/Toolbar" value="false"/>
       <ExtraDataItem name="GUI/Tools/LastItemsSelected" value="Welcome,Details"/>
-      <ExtraDataItem name="GUI/UpdateCheckCount" value="7"/>
-      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2020-01-12, stable, 6.1.0"/>
+      <ExtraDataItem name="GUI/UpdateCheckCount" value="8"/>
+      <ExtraDataItem name="GUI/UpdateDate" value="1 d, 2020-01-13, stable, 6.1.0"/>
     </ExtraData>
-    <MachineRegistry>
-      <MachineEntry uuid="{708b0af3-71de-42c1-869e-9c33f2b4244a}" src="/home/harold/VirtualBox VMs/Arch Linux/Arch Linux.vbox"/>
-    </MachineRegistry>
+    <MachineRegistry/>
     <NetserviceRegistry>
       <DHCPServers>
         <DHCPServer networkName="HostInterfaceNetworking-vboxnet0" IPAddress="192.168.56.100" networkMask="255.255.255.0" lowerIP="192.168.56.101" upperIP="192.168.56.254" enabled="1"/>

@@ -11,16 +11,8 @@ Width 1902=888
 Width 1920=833
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/blur-grub2_fullhd/blur-grub2-fullhd/background.png
-File2[$e]=$HOME/Downloads/grub2-theme-breeze-5.13.1/icons.png
-File3[$e]=$HOME/Downloads/grub2-theme-breeze-5.13.1/preview03.png
-File4[$e]=$HOME/Downloads/Pop_OS-GrubTheme/background.png
-File5[$e]=$HOME/Downloads/Pop_OS-GrubTheme/selected_item_c.png
-Name1[$e]=background.png
-Name2[$e]=icons.png
-Name3[$e]=preview03.png
-Name4[$e]=background.png
-Name5[$e]=selected_item_c.png
+File1[$e]=$HOME/Pictures/壁纸A/bilibili(1).jpg
+Name1[$e]=bilibili(1).jpg
 
 [SideBar]
 SideBarSplitterSizes=242,588

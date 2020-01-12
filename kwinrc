@@ -78,4 +78,4 @@ ButtonsOnRight=IAX
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Canta-dark
+theme=__aurorae__svg__Arc-Dark

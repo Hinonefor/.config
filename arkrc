@@ -15,4 +15,6 @@ splitterSizes=426,213
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/sth.tar.gz
+File2[$e]=/run/media/harold/D4FA828F299D817A/Arch/Arch.zip
 Name1[$e]=sth.tar.gz
+Name2[$e]=Arch.zip

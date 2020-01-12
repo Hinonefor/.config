@@ -1,19 +1,9 @@
-2020/01/12-12:58:19.522 1a6b Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/12-12:58:19.522 1a6b Recovering log #570
-2020/01/12-12:58:19.573 1a6b Level-0 table #573: started
-2020/01/12-12:58:19.683 1a6b Level-0 table #573: 5142080 bytes OK
-2020/01/12-12:58:19.687 1a6b Delete type=0 #570
-2020/01/12-12:58:19.689 1b4f Compacting 4@0 + 2@1 files
-2020/01/12-12:58:19.890 1b4f Generated table #575@0: 1 keys, 5141818 bytes
-2020/01/12-12:58:19.894 1b4f Generated table #576@0: 5 keys, 443 bytes
-2020/01/12-12:58:19.894 1b4f Compacted 4@0 + 2@1 files => 5142261 bytes
-2020/01/12-12:58:19.896 1b4f compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/01/12-12:59:20.657 1b4f Level-0 table #578: started
-2020/01/12-12:59:20.726 1b4f Level-0 table #578: 5141825 bytes OK
-2020/01/12-12:59:20.729 1b4f Delete type=0 #574
-2020/01/12-12:59:20.729 1b4f Delete type=2 #564
-2020/01/12-12:59:20.729 1b4f Delete type=2 #573
-2020/01/12-12:59:20.729 1b4f Delete type=2 #571
-2020/01/12-12:59:20.729 1b4f Delete type=2 #568
-2020/01/12-12:59:20.729 1b4f Delete type=2 #566
-2020/01/12-12:59:20.729 1b4f Delete type=2 #563
+2020/01/12-13:58:43.690 3704 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/12-13:58:43.690 3704 Recovering log #586
+2020/01/12-13:58:43.690 3704 Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000586.log 
+2020/01/12-13:59:44.906 3c66 Level-0 table #591: started
+2020/01/12-13:59:44.979 3c66 Level-0 table #591: 5141899 bytes OK
+2020/01/12-13:59:44.982 3c66 Delete type=0 #586
+2020/01/12-13:59:47.858 3c66 Level-0 table #593: started
+2020/01/12-13:59:47.928 3c66 Level-0 table #593: 5142089 bytes OK
+2020/01/12-13:59:47.931 3c66 Delete type=0 #590

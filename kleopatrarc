@@ -1,0 +1,16 @@
+[DeleteCertificatesDialog]
+Size=600,400
+
+[KeyTreeView_default]
+ColumnOrder=0,1,2,3,4,5,6,7,8,9,10,11,12
+ColumnVisibility=true,true,true,true,true,false,true,false,false,false,false,false,false
+ColumnWidths=260,260,86,116,116,0,160,0,0,0,0,0,0
+SortAscending=1
+SortColumn=0
+
+[MainWindow]
+Height 1080=500
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAGzAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1024

@@ -2,38 +2,38 @@
 update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar
 
 [ColorEffects:Disabled]
-Color=112,111,110
+Color=56,56,56
 ColorAmount=0
 ColorEffect=0
-ContrastAmount=0.65
+ContrastAmount=0.65000000000000002
 ContrastEffect=1
-IntensityAmount=0.1
-IntensityEffect=0
+IntensityAmount=0.10000000000000001
+IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
 Color=112,111,110
-ColorAmount=0.025
+ColorAmount=0.025000000000000001
 ColorEffect=2
-ContrastAmount=0.1
+ContrastAmount=0.10000000000000001
 ContrastEffect=2
-Enable=true
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=49,51,56
-BackgroundNormal=54,57,62
-DecorationFocus=255,172,0
-DecorationHover=0,206,153
-ForegroundActive=255,128,224
-ForegroundInactive=153,153,153
-ForegroundLink=66,133,244
-ForegroundNegative=191,3,3
-ForegroundNeutral=176,128,0
-ForegroundNormal=234,234,234
-ForegroundPositive=0,110,40
-ForegroundVisited=224,64,251
+BackgroundAlternate=64,69,82
+BackgroundNormal=65,72,87
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
 
 [Colors:Complementary]
 BackgroundAlternate=54,57,62
@@ -50,69 +50,69 @@ ForegroundPositive=46,204,113
 ForegroundVisited=61,174,230
 
 [Colors:Selection]
-BackgroundAlternate=82,148,226
-BackgroundNormal=0,206,153
-DecorationFocus=255,172,0
-DecorationHover=54,214,180
-ForegroundActive=255,128,224
-ForegroundInactive=142,203,233
-ForegroundLink=66,133,244
-ForegroundNegative=156,14,14
-ForegroundNeutral=255,221,0
-ForegroundNormal=255,255,255
-ForegroundPositive=128,255,128
-ForegroundVisited=224,64,251
+BackgroundAlternate=29,153,243
+BackgroundNormal=82,148,226
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=252,252,252
+ForegroundInactive=211,218,227
+ForegroundLink=253,188,75
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=54,57,62
-BackgroundNormal=33,35,41
-DecorationFocus=255,172,0
-DecorationHover=0,206,153
-ForegroundActive=255,128,224
-ForegroundInactive=153,153,153
-ForegroundLink=66,133,244
-ForegroundNegative=191,3,3
-ForegroundNeutral=176,128,0
-ForegroundNormal=221,221,221
-ForegroundPositive=0,110,40
-ForegroundVisited=224,64,251
+BackgroundAlternate=47,52,63
+BackgroundNormal=53,57,69
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
 
 [Colors:View]
-BackgroundAlternate=54,56,62
-BackgroundNormal=49,51,56
-DecorationFocus=255,172,0
-DecorationHover=0,206,153
-ForegroundActive=255,128,224
-ForegroundInactive=153,153,153
-ForegroundLink=66,133,244
-ForegroundNegative=191,3,3
-ForegroundNeutral=176,128,0
-ForegroundNormal=234,234,234
-ForegroundPositive=0,110,40
-ForegroundVisited=224,64,251
+BackgroundAlternate=64,69,82
+BackgroundNormal=64,69,82
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
 
 [Colors:Window]
-BackgroundAlternate=54,56,62
-BackgroundNormal=44,46,51
-DecorationFocus=255,172,0
-DecorationHover=0,206,153
-ForegroundActive=255,128,224
-ForegroundInactive=153,153,153
-ForegroundLink=66,133,244
-ForegroundNegative=191,3,3
-ForegroundNeutral=176,128,0
-ForegroundNormal=234,234,234
-ForegroundPositive=0,110,40
-ForegroundVisited=224,64,251
+BackgroundAlternate=47,52,63
+BackgroundNormal=47,52,63
+DecorationFocus=82,148,226
+DecorationHover=82,148,226
+ForegroundActive=61,174,233
+ForegroundInactive=102,106,115
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=211,218,227
+ForegroundPositive=39,174,96
+ForegroundVisited=82,148,226
 
 [DirSelect Dialog]
 DirSelectDialog Size=804,605
 History Items[$e]=file:///run/media/harold/D4FA828F299D817A/Minecraft wai/.minecraft/,file:///run/media/harold/D4FA828F299D817A/Minecraft wai/,file:///run/media/harold/D4FA828F299D817A/Minecraft wai/.minecraft/versions,file:///run/media/harold/D4FA828F299D817A/Minecraft wai/.minecraft
 
 [General]
-ColorScheme=Cantadark
+ColorScheme=ArcDark
 Name[zh_CN]=微风
-Name=Cantadark
+Name=Arc Dark
 XftHintStyle=hintslight
 XftSubPixel=rgb
 fixed=Source Code Pro Medium,9,-1,5,57,0,0,0,0,0,Regular
@@ -128,12 +128,12 @@ Theme=Numix-Circle
 
 [KDE]
 ColorScheme=Breeze
-LookAndFeelPackage=com.github.vinceliuice.Canta-dark
+LookAndFeelPackage=com.github.varlesh.arc-dark
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=true
-contrast=0
-widgetStyle=kvantum
+contrast=4
+widgetStyle=breeze
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -166,10 +166,10 @@ ToolButtonStyle=TextBesideIcon
 ToolButtonStyleOtherToolbars=TextBesideIcon
 
 [WM]
-activeBackground=54,56,62
-activeBlend=59,62,68
+activeBackground=47,52,63
+activeBlend=47,52,63
 activeFont=Source Code Pro Medium,10,-1,5,57,0,0,0,0,0,Regular
-activeForeground=221,221,221
-inactiveBackground=62,65,71
-inactiveBlend=67,71,77
-inactiveForeground=120,120,120
+activeForeground=211,218,227
+inactiveBackground=47,52,63
+inactiveBlend=47,52,63
+inactiveForeground=102,106,115
