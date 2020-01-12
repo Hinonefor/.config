@@ -1,9 +1,14 @@
+/etc/default/grub
+/sys/power/resume
+/etc/mkinitcpio.conf
+/etc/suspend.conf
+/etc/systemd/system/systemd-hibernate.service.d/override.conf
+/boot/grub/grub.cfg
 /home/harold/.zshrc
 /home/harold/.config/nvim/init.vim
 /home/harold/.xinitrc
 /home/harold/.config/i3/config
 /etc/fstab
-/boot/grub/grub.cfg
 /etc/bash.bashrc
 /etx/bash.bashrc
 /home/harold/.config/conky/conky.conf

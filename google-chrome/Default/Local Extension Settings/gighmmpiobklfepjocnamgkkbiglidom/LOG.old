@@ -1,9 +1,20 @@
-2020/01/12-13:58:43.690 3704 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/12-13:58:43.690 3704 Recovering log #586
-2020/01/12-13:58:43.690 3704 Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000586.log 
-2020/01/12-13:59:44.906 3c66 Level-0 table #591: started
-2020/01/12-13:59:44.979 3c66 Level-0 table #591: 5141899 bytes OK
-2020/01/12-13:59:44.982 3c66 Delete type=0 #586
-2020/01/12-13:59:47.858 3c66 Level-0 table #593: started
-2020/01/12-13:59:47.928 3c66 Level-0 table #593: 5142089 bytes OK
-2020/01/12-13:59:47.931 3c66 Delete type=0 #590
+2020/01/12-15:26:37.896 67f Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/12-15:26:37.896 67f Recovering log #627
+2020/01/12-15:26:37.896 67f Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000627.log 
+2020/01/12-15:27:38.993 948 Level-0 table #631: started
+2020/01/12-15:27:39.057 948 Level-0 table #631: 5141929 bytes OK
+2020/01/12-15:27:39.060 948 Delete type=0 #627
+2020/01/12-15:31:27.140 948 Level-0 table #633: started
+2020/01/12-15:31:27.280 948 Level-0 table #633: 5142081 bytes OK
+2020/01/12-15:31:27.284 948 Delete type=0 #630
+2020/01/12-15:31:27.287 948 Compacting 4@0 + 2@1 files
+2020/01/12-15:31:27.553 948 Generated table #634@0: 1 keys, 5141819 bytes
+2020/01/12-15:31:27.561 948 Generated table #635@0: 5 keys, 445 bytes
+2020/01/12-15:31:27.561 948 Compacted 4@0 + 2@1 files => 5142264 bytes
+2020/01/12-15:31:27.563 948 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/12-15:31:27.564 948 Delete type=2 #622
+2020/01/12-15:31:27.564 948 Delete type=2 #631
+2020/01/12-15:31:27.564 948 Delete type=2 #628
+2020/01/12-15:31:27.564 948 Delete type=2 #626
+2020/01/12-15:31:27.564 948 Delete type=2 #633
+2020/01/12-15:31:27.564 948 Delete type=2 #623

@@ -1,3 +1,6 @@
-2020/01/12-14:00:43.112 3da2 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/01/12-14:00:43.113 3da2 Recovering log #10
-2020/01/12-14:00:43.113 3da2 Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000010.log 
+2020/01/12-15:45:26.224 79e Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/12-15:45:26.224 79e Recovering log #60
+2020/01/12-15:45:26.225 79e Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000060.log 
+2020/01/12-15:45:38.622 94f Level-0 table #64: started
+2020/01/12-15:45:38.633 94f Level-0 table #64: 50425 bytes OK
+2020/01/12-15:45:38.636 94f Delete type=0 #60

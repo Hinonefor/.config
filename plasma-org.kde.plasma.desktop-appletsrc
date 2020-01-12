@@ -31,7 +31,7 @@ positions=1,16,desktop:/steam.desktop,0,0
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/harold/.config/variety/wallpaper/wallpaper-clock-7d1bf04b7d39528461ef1ac63116abb8.jpg
+Image=file:///home/harold/.config/variety/wallpaper/wallpaper-clock-68f07b49266e420fadac0f9e1225e176.jpg
 
 [Containments][18]
 activityId=
@@ -54,7 +54,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][18][Applets][20][Configuration]
-PreloadWeight=100
+PreloadWeight=84
 
 [Containments][18][Applets][20][Configuration][ConfigDialog]
 DialogHeight=540
@@ -217,7 +217,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][25][Applets][27][Configuration]
-PreloadWeight=5
+PreloadWeight=0
 
 [Containments][25][Applets][28][Configuration]
 PreloadWeight=10
@@ -297,4 +297,4 @@ knownItems=org.kde.plasma.mediacontroller,org.kde.ktp-contactlist,org.kde.plasma
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/Arch Linux,0,desktop:/steam.desktop,0
+screenMapping=desktop:/steam.desktop,0,desktop:/Arch Linux,0
