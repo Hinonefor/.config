@@ -1,0 +1,28 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "addGa.js", "background.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "content-script.js" ],
+      "matches": [ "https://pan.baidu.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com https://www.googletagmanager.com; object-src 'self'",
+   "description": "ENFI下载器助手 - 加速下载百度网盘资源",
+   "externally_connectable": {
+      "matches": [ "*://pan.baidu.com/*" ]
+   },
+   "icons": {
+      "128": "static/img/ext-icons/icon_128.png",
+      "16": "static/img/ext-icons/icon_16.png",
+      "48": "static/img/ext-icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoem/ylmo2Js8OzxnzzJd8i0/Wxc2OV4KQBK2W9qvKmeFOo6bMuVUuC3hk93LHVV+dSG1uozWeCdbTmIC5CwW3uptI6mmOKZtq9hp2aXItlVWbMDYBcEGrlsKqsA5M2UL9fROQGHxHwAwKXbRM1SRyMb+jkyr8WuJfZMSU9T68to5xK9Oke2fOOr82f+sRowJMGlQnQnTjsesBnzUpuONzpFeCp5kY5KFGtv4EXQ0t5LxTlfAmFZmkDp54Bw2g+tb42otwwtiM0V0YBlak0wSfVvfKRErowU7X0b2xS83+4tel8ETB4fJAps8sAB12ORWUglDiEMmWyBDPG4PIUy4MQIDAQAB",
+   "manifest_version": 2,
+   "name": "ENFI下载器助手",
+   "permissions": [ "activeTab", "cookies", "http://*.baidu.com/", "https://*.baidu.com/" ],
+   "short_name": "ENFI助手",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.4"
+}

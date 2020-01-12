@@ -1,0 +1,6 @@
+2020/01/12-12:58:19.271 1a6d Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/12-12:58:19.271 1a6d Recovering log #4
+2020/01/12-12:58:19.271 1a6d Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000004.log 
+2020/01/12-12:59:41.189 1fef Level-0 table #8: started
+2020/01/12-12:59:41.200 1fef Level-0 table #8: 48729 bytes OK
+2020/01/12-12:59:41.203 1fef Delete type=0 #4

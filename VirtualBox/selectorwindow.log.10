@@ -1,0 +1,18 @@
+00:00:00.779489 VirtualBox GUI VM Selector Window 6.1.0 r135406 linux.amd64 (Dec 12 2019 21:11:25) release log
+00:00:00.779492 Log opened 2019-12-31T17:14:37.059837000Z
+00:00:00.779493 Build Type: release
+00:00:00.779500 OS Product: Linux
+00:00:00.779502 OS Release: 5.4.6-arch3-1
+00:00:00.779503 OS Version: #1 SMP PREEMPT Tue, 24 Dec 2019 04:36:53 +0000
+00:00:00.779562 DMI Product Name: TM1709
+00:00:00.779572 DMI Product Version: Mi Laptop 15.6
+00:00:00.779583 Firmware type: UEFI
+00:00:00.780501 Secure Boot: Disabled
+00:00:00.780551 Host RAM: 7869MB (7.6GB) total, 6624MB (6.4GB) available
+00:00:00.780555 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.780555 Process ID: 3371
+00:00:00.780556 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.780660 Qt version: 5.14.0
+00:00:00.800826 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.800845 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.262121 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x38 x 1920x1042

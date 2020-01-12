@@ -1,0 +1,34 @@
+{
+   "author": "http://liujiacai.net",
+   "background": {
+      "page": "background/index.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "option/img/16.png",
+         "32": "option/img/32.png",
+         "48": "option/img/48.png"
+      },
+      "default_title": "Modify, block URLs & Headers"
+   },
+   "content_security_policy": "default-src 'unsafe-eval' 'self' http://localhost:8097; style-src http://* https://* 'unsafe-inline' 'unsafe-eval'; connect-src http://* http://localhost:* ws://localhost:* ; font-src https://*",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://github.com/jiacai2050/gooreplacer",
+   "icons": {
+      "16": "option/img/16.png",
+      "32": "option/img/32.png",
+      "48": "option/img/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm++gcyjNEFRit2CWB+0CJmxjSYUpLK/ck211rwWdhu7McQWsfeHWn6s8I7LfYExOfT/BzAvt0ePKz5ITOATu+IN9NjF5Tz/VoEtyFrwVcdSTy917krGeZeF+Ur06MK0zvMYdrMYymmTS8TOb40pXYFbqZnu9ktLgAKxD2Y1G5gfcnIjto31QCFKfssYEY+k1Vl3NLzn4lw/ICLqFLhw49Thdoksk6TrjlSCXgLr/Ce5+NVLgaYQV2T1cee3+mdtllNJNUOwt1eGZmHUkULTw0xJ5I6I7pHvOXD7pc9EWbfsY9b2b7SKPro1WFg4QPBi0LtBtum0EP/dkLCF+NPqo2wIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_ui": {
+      "chrome_style": false,
+      "open_in_tab": true,
+      "page": "option/index.html"
+   },
+   "permissions": [ "webRequest", "webRequestBlocking", "downloads", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.11.0"
+}

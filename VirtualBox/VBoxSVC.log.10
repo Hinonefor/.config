@@ -1,0 +1,49 @@
+00:00:00.002698 main     VirtualBox XPCOM Server 6.1.0 r135406 linux.amd64 (Dec 12 2019 21:11:25) release log
+00:00:00.002706 main     Log opened 2019-12-30T19:01:49.726322000Z
+00:00:00.002707 main     Build Type: release
+00:00:00.002715 main     OS Product: Linux
+00:00:00.002717 main     OS Release: 5.4.6-arch3-1
+00:00:00.002719 main     OS Version: #1 SMP PREEMPT Tue, 24 Dec 2019 04:36:53 +0000
+00:00:00.002822 main     DMI Product Name: TM1709
+00:00:00.002849 main     DMI Product Version: Mi Laptop 15.6
+00:00:00.002863 main     Firmware type: UEFI
+00:00:00.004007 main     Secure Boot: Disabled
+00:00:00.004093 main     Host RAM: 7869MB (7.6GB) total, 6927MB (6.7GB) available
+00:00:00.004099 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.004101 main     Process ID: 14056
+00:00:00.004102 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.006972 main     IPC socket path: /tmp/.vbox-harold-ipc/ipcd
+00:00:00.119578 nspr-2   VirtualBox: object creation starts
+00:00:00.119735 nspr-2   Home directory: '/home/harold/.config/VirtualBox'
+00:00:00.145023 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.147211 nspr-2   HostDnsMonitor: initializing
+00:00:00.147734 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.147770 nspr-2   NAT: resolv.conf: nameserver 192.168.0.1
+00:00:00.147798 nspr-2   HostDnsMonitor: updating information
+00:00:00.148341 nspr-2   HostDnsMonitor: old information
+00:00:00.148393 nspr-2     no server entries
+00:00:00.148412 nspr-2     no domain set
+00:00:00.148420 nspr-2     no search string entries
+00:00:00.148428 nspr-2   HostDnsMonitor: new information
+00:00:00.148435 nspr-2     server 1: 192.168.1.1
+00:00:00.148445 nspr-2     server 2: 192.168.0.1
+00:00:00.148453 nspr-2     no domain set
+00:00:00.148460 nspr-2     no search string entries
+00:00:00.157907 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.159219 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.161451 nspr-2   VirtualBox: object created
+00:00:02.742776 nspr-3   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.759081 nspr-2   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.358965 nspr-3   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.369267 nspr-2   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.376927 nspr-2   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.387970 nspr-3   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.395752 nspr-2   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.401882 nspr-3   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:40.409688 nspr-3   Saving settings file "/home/harold/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:45.935060 main     VirtualBox: object deletion starts
+00:01:45.935602 main     HostDnsMonitor: shutting down ...
+00:01:45.945259 main     HostDnsMonitor: shut down
+00:01:46.192206 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:50.945467 main     {00007fb6f80160e0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:01:50.946175 main     VirtualBox: object deleted

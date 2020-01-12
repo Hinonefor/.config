@@ -1,0 +1,31 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
+[DownloadDialog Settings]
+Height 1032=529
+Width 1902=700
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+Height 1032=522
+Width 1902=916
+
+[KFileDialog Settings]
+Recent Files[$e]=artist_waves_colorful_129158_1920x1080.jpg,file:$HOME/Pictures/壁纸A/artist_waves_colorful_129158_1920x1080.jpg
+Recent URLs[$e]=file:$HOME/Pictures/壁纸A/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1032=1000
+Height 1051=609
+Height 1079=1025
+Height 1080=580
+State=AAAA/wAAAAD9AAAAAAAAAnEAAAPpAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1902=951
+Width 1920=1054
+
+[Notification Messages]
+CloseAllTabs=true

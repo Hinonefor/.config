@@ -1,0 +1,227 @@
+[file:///boot/grub/themes/Vimix/theme.txt]
+Bookmarks=
+Checksum=c4b688274df528a7dbd8f997804138ca0e39a022
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,29,20,50,31
+URL=file:///boot/grub/themes/Vimix/theme.txt
+
+[file:///etc/bash.bashrc]
+Bookmarks=
+Checksum=01732cfd76bff114b3f27a4e4b50c3a564223953
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,11,11,24,57
+URL=file:///etc/bash.bashrc
+
+[file:///home/harold/.config/polybar/config]
+Bookmarks=
+Checksum=ffb2fab81a59082b347c762f6e21409f56539bbc
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,29,19,25,16
+URL=file:///home/harold/.config/polybar/config
+
+[file:///home/harold/.config/zsh/zshrc]
+Bookmarks=
+Checksum=44a46197d62878b6f0dd8e0e4c4241d8d23358ee
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,29,19,14,53
+URL=file:///home/harold/.config/zsh/zshrc
+
+[file:///home/harold/.gnupg/gpg.conf]
+Bookmarks=
+Checksum=8d1c8b69c3fce7bea45c73efd06983e3c419a92f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,29,18,38,54
+URL=file:///home/harold/.gnupg/gpg.conf
+
+[file:///home/harold/.zsh_history]
+Bookmarks=
+Checksum=3603dba92a9096a15d6e5b58bbd01495da6ecc80
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,31,21,53,39
+URL=file:///home/harold/.zsh_history
+
+[file:///home/harold/.zshrc]
+Bookmarks=
+Checksum=fc470c247e059712cc4a2ed4346495e9a31a2a62
+Encoding=UTF-8
+Highlighting=Zsh
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Zsh
+Mode Set By User=false
+Time=2019,12,31,22,0,4
+URL=file:///home/harold/.zshrc
+
+[file:///home/harold/Desktop/config/polybar/config]
+Bookmarks=
+Checksum=f7a9d455c485af8d6f5a3379d7d87d10b212f4a5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,29,19,25,16
+URL=file:///home/harold/Desktop/config/polybar/config
+
+[file:///home/harold/Documents/zshrc]
+Bookmarks=
+Checksum=5bcbe13a738273a39a6d700628b056ab4f41bcd1
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,31,21,57,43
+URL=file:///home/harold/Documents/zshrc
+
+[file:///home/harold/Downloads/Pop_OS-GrubTheme/theme.txt]
+Bookmarks=
+Checksum=5f7acdc8a64f0cd0fd44042da3f6c412b02bd337
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,5,13,21,47
+URL=file:///home/harold/Downloads/Pop_OS-GrubTheme/theme.txt
+
+[file:///home/harold/Downloads/ranger/scope.sh]
+Bookmarks=
+Checksum=6709bf9132c6c22b0299a9e0b835d08df3e50e51
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,5,15,8,6
+URL=file:///home/harold/Downloads/ranger/scope.sh
+
+[file:///home/harold/Downloads/说明.txt]
+Bookmarks=
+Checksum=d532aa19091c63fecc72b5a325d79d14b92f2163
+Encoding=GB18030
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,10,15,29,7
+URL=file:///home/harold/Downloads/说明.txt
+
+[file:///home/harold/Text File]
+Bookmarks=
+Checksum=f87cc1faf5828b014b91b1e3ad2f09e5f4c3668a
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,29,20,35,56
+URL=file:///home/harold/Text File
+
+[file:///home/harold/config.sh]
+Bookmarks=
+Checksum=b85a55d41a46f444c2e4a948160f119cd0474608
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,10,15,59,26
+URL=file:///home/harold/config.sh
+
+[file:///home/harold/default.txt]
+Bookmarks=
+Checksum=8b137891791fe96927ad78e64b0aad7bded08bdc
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2019,12,31,17,35,7
+URL=file:///home/harold/default.txt
+
+[file:///home/harold/scripts/i3exit]
+Bookmarks=
+Checksum=f2c4780bad38acf75027d652026387d439dcac79
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,9,18,49,14
+URL=file:///home/harold/scripts/i3exit
+
+[file:///home/harold/setup.sh]
+Bookmarks=
+Checksum=4c0b6b18901b0cbc9d993e2deb520c85e9b5776e
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,10,16,18,19
+URL=file:///home/harold/setup.sh
+
+[file:///home/harold/st/config.h]
+Bookmarks=
+Checksum=1abda4dc083c34a93152ff617750c8a2f5dae147
+Encoding=UTF-8
+Highlighting=C++
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=C++
+Mode Set By User=false
+Time=2020,1,5,15,24,54
+URL=file:///home/harold/st/config.h
+
+[file:///home/harold/zshrc]
+Bookmarks=
+Checksum=080361e88d2a61d8bd6cf51a99486e221a2050dd
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,5,14,46,33
+URL=file:///home/harold/zshrc

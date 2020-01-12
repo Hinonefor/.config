@@ -1,0 +1,89 @@
+[KFileDialog Settings]
+Recent Files[$e]=我爱祖国的蓝天-2019学年毓秀七(4)合唱.mp4,file:///run/media/harold/94DE2F1DDE2EF760/Users/e1801/Music/20419年毓秀七(4)合唱比赛/我爱祖国的蓝天_毛阿敏 音频已提取_1.wav,file:///run/media/harold/94DE2F1DDE2EF760/Users/e1801/Videos/我爱祖国的蓝天-2019学年毓秀七(4)合唱.mp4
+Recent URLs[$e]=file:///run/media/harold/94DE2F1DDE2EF760/Users/e1801/Music/20419年毓秀七(4)合唱比赛/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=489
+Width 1920=437
+
+[MainWindow]
+Height 1080=1012
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAeAAAACHPwBAAAADvsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAAYAEAAAP7AAAADgBsAGkAYgByAGEAcgB5AAAAAAD/////AAAAZAEAAAP7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAAYAEAAAP7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAawEAAAP7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAARkAAABgAQAAA/wAAAEaAAABGAAAAGAA////+gAAAAABAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAQAAAAD/////AAAAYAEAAAP7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAGABAAAD/AAAAjMAAAGXAAAAiwD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAEAQAAA/sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAQBAAAD/AAAA8sAAAO1AAABRAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFEAQAAA/sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABRAEAAAP7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAGABAAAD+wAAAAoAbQBpAHgAZQByAAAAAAD/////AAABDwEAAAP7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUAAAAAAP////8AAAEpAQAAA/sAAAAQAHcAYQB2AGUAZgBvAHIAbQAAAAAA/////wAAAJUBAAAD+wAAABQAcgBnAGIAXwBwAGEAcgBhAGQAZQAAAAAA/////wAAAJQBAAAD+wAAABIAaABpAHMAdABvAGcAcgBhAG0AAAAAAP////8AAAEaAQAAAwAAB4AAAAGQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAMj/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=/run/media/harold/94DE2F1DDE2EF760/Users/e1801/Music/20419年毓秀七(4)合唱比赛/,/run/media/harold/94DE2F1DDE2EF760/Users/e1801/Videos/,$HOME/Videos
+
+[Scope_Histogram]
+autoRefresh=true
+bEnabled=true
+gEnabled=true
+rEnabled=true
+realtime=false
+rec601=false
+sEnabled=false
+yEnabled=true
+
+[Scope_RGB Parade]
+autoRefresh=true
+axis=false
+gradref=false
+paintmode=0
+realtime=false
+
+[Scope_Vectorscope]
+75PBox=false
+autoRefresh=true
+axis=false
+backgroundmode=0
+colorspace_ypbpr=false
+gain=1
+iqlines=false
+paintmode=0
+realtime=false
+
+[Scope_Waveform]
+autoRefresh=true
+paintmode=0
+realtime=false
+rec601=false
+
+[UiSettings]
+ColorScheme=Breeze Dark
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAA4AAAAswAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAACzAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAADg=
+
+[capture]
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles
+rendererpath[$e]=/usr/bin/melt
+
+[timeline]
+trackheight=58
+
+[unmanaged]
+default_profile=atsc_1080p_25
+defaultrescaleheight=540
+defaultrescalewidth=960
+monitor_audio=false
+producerslist=pgm,xml,xml-string,xml-nogl,framebuffer,qimage,qtext,kdenlivetitle,decklink,avformat,avformat-novalidate,pango,pixbuf,blipflash,count,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,ladspa.1047,ladspa.1050,slowmotion,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone
+widgetstyle=Default
+
+[version]
+version=19.12.0

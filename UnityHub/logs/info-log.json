@@ -1,0 +1,56 @@
+{"moduleName":"App","level":"info","message":"[ 'Checking arguments for Windows custom URI scheme' ]","timestamp":"2020-01-11T21:41:02.060Z"}
+{"moduleName":"App","level":"info","message":"[ 'No custom URI argument found' ]","timestamp":"2020-01-11T21:41:02.061Z"}
+{"moduleName":"SystemInfo","level":"info","message":"[ 'Hub version: 2.1.1' ]","timestamp":"2020-01-11T21:41:02.068Z"}
+{"moduleName":"SystemInfo","level":"info","message":"[ 'Hub path: /home/harold/Downloads/UnityHub.AppImage' ]","timestamp":"2020-01-11T21:41:02.068Z"}
+{"moduleName":"SystemInfo","level":"info","message":"[ 'Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz; Linux (5.4.10-arch1-1)' ]","timestamp":"2020-01-11T21:41:02.085Z"}
+{"moduleName":"HubSettings","level":"info","message":"[ { cloudEnvironment: 'production',\n    accessTokenIntervalPeriod: 5000,\n    servicesUrlInterval: 900000,\n    hubConfigInterval: 3600000,\n    releasesRefreshInterval: 3600000,\n    recentProjectInterval: 60000,\n    downloadClusterInterval: 1000,\n    downloadEditorInterval: 1000,\n    refreshTokenValidity: 2592000000,\n    checkForUpdateInterval: 43200000,\n    sendAnalyticsEventsInterval: 60000,\n    maxSizeForAnalyticsQueue: 500,\n    downloadRequestTimeout: 30000,\n    globalConfigFolder: '/usr/share/unity3d/config' } ]","timestamp":"2020-01-11T21:41:02.098Z"}
+{"moduleName":"CloudConfig","level":"info","message":"[ 'Cloud Config endpoint: https://public-cdn.cloud.unity3d.com/config/production' ]","timestamp":"2020-01-11T21:41:02.099Z"}
+{"moduleName":"LocalConfig","level":"info","message":"[ 'Local Config endpoint: https://public-cdn.cloud.unitychina.cn/hub/prod/hubConfig.json' ]","timestamp":"2020-01-11T21:41:02.306Z"}
+{"moduleName":"AutoUpdater","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.310Z"}
+{"moduleName":"AutoUpdater","level":"info","message":"[ 'Look for Hub updates from app-update.yml -> url' ]","timestamp":"2020-01-11T21:41:02.311Z"}
+{"moduleName":"AutoUpdater","level":"info","message":"[ 'Checking for hub updates' ]","timestamp":"2020-01-11T21:41:02.312Z"}
+{"moduleName":"TokenManager","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.397Z"}
+{"moduleName":"AutoUpdater:EventHandler","level":"info","message":"[ 'Checking for update' ]","timestamp":"2020-01-11T21:41:02.399Z"}
+{"moduleName":"TokenManager","level":"warn","message":"[ 'Token storage is corrupted.',\n  Error: The name org.freedesktop.secrets was not provided by any .service files ]","timestamp":"2020-01-11T21:41:02.437Z"}
+{"moduleName":"Download","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.437Z"}
+{"moduleName":"EditorManager","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.438Z"}
+{"moduleName":"Releases","level":"info","message":"[ 'Releases endpoint: https://public-cdn.cloud.unitychina.cn/hub/prod/releases-linux.json' ]","timestamp":"2020-01-11T21:41:02.438Z"}
+{"moduleName":"EditorList","level":"info","message":"[ 'init' ]","timestamp":"2020-01-11T21:41:02.440Z"}
+{"moduleName":"customInstallLocation","level":"info","message":"[ 'Custom install path not present.' ]","timestamp":"2020-01-11T21:41:02.442Z"}
+{"moduleName":"EditorFolderScanner","level":"info","message":"[ '0 out of 0 valid paths found in path: /home/harold/Unity/Hub/Editor' ]","timestamp":"2020-01-11T21:41:02.448Z"}
+{"moduleName":"customInstallLocation","level":"info","message":"[ 'Cannot scan custom location (no path set).' ]","timestamp":"2020-01-11T21:41:02.448Z"}
+{"moduleName":"LocatedEditorStorage","level":"info","message":"[ '0 located Editors found in storage' ]","timestamp":"2020-01-11T21:41:02.453Z"}
+{"moduleName":"EditorApp","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.454Z"}
+{"moduleName":"Auth","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.454Z"}
+{"moduleName":"Auth","level":"info","message":"[ 'Both tokens are expired, user will be logged out' ]","timestamp":"2020-01-11T21:41:02.454Z"}
+{"moduleName":"Auth","level":"info","message":"[ 'Successfully logged out' ]","timestamp":"2020-01-11T21:41:02.461Z"}
+{"moduleName":"LicenseClient","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.471Z"}
+{"moduleName":"LicenseFSM","level":"info","message":"[ 'uninitialized --> initializing' ]","timestamp":"2020-01-11T21:41:02.471Z"}
+{"moduleName":"UnityLicenseCore","level":"warn","message":"[ 'License File is not available.' ]","timestamp":"2020-01-11T21:41:02.508Z"}
+{"moduleName":"LicenseClient","level":"info","message":"[ 'License initialized' ]","timestamp":"2020-01-11T21:41:02.509Z"}
+{"moduleName":"LicenseFSM","level":"info","message":"[ 'initializing --> notLogin' ]","timestamp":"2020-01-11T21:41:02.509Z"}
+{"moduleName":"learnContentService","level":"info","message":"[ 'Learn content endpoint: https://learn.unity.com/api/learn/hublist' ]","timestamp":"2020-01-11T21:41:02.509Z"}
+{"moduleName":"RestServer","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"RestEventRouter","level":"info","message":"[ 'subscribing to: license.change' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"RestEventRouter","level":"info","message":"[ 'subscribing to: project.opened' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"RestEventRouter","level":"info","message":"[ 'subscribing to: project.create' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"RestEventRouter","level":"info","message":"[ 'subscribing to: project.createTemp' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"RestEventRouter","level":"info","message":"[ 'subscribing to: project.openedFromCloud' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"RestEventRouter","level":"info","message":"[ 'subscribing to: main-window.change' ]","timestamp":"2020-01-11T21:41:02.510Z"}
+{"moduleName":"WebSocketService","level":"info","message":"[ 'starting listening for request' ]","timestamp":"2020-01-11T21:41:02.514Z"}
+{"moduleName":"HubIPCService","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.514Z"}
+{"moduleName":"UnityIPCServer","level":"info","message":"[ 'IPC Server /tmp/Unity-hubIPCService.sock started' ]","timestamp":"2020-01-11T21:41:02.518Z"}
+{"moduleName":"LocalProject","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.519Z"}
+{"moduleName":"WindowManager","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.520Z"}
+{"moduleName":"SignInWindow","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.520Z"}
+{"moduleName":"CloudAnalytics","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.520Z"}
+{"moduleName":"NetworkInterceptors","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.525Z"}
+{"moduleName":"TrayMenu","level":"info","message":"[ 'Init' ]","timestamp":"2020-01-11T21:41:02.525Z"}
+{"moduleName":"ApplicationRouteHelper","level":"info","message":"[ 'hadOnboarding is false' ]","timestamp":"2020-01-11T21:41:02.549Z"}
+{"moduleName":"ApplicationRouteHelper","level":"info","message":"[ 'Getting initial route for Main Window' ]","timestamp":"2020-01-11T21:41:02.549Z"}
+{"moduleName":"AutoUpdater:EventHandler","level":"info","message":"[ 'No update available' ]","timestamp":"2020-01-11T21:41:02.802Z"}
+{"moduleName":"EditorPrefLinux","level":"warn","message":"[ { Error: ENOENT: no such file or directory, open '/home/harold/.local/share/unity3d/prefs'\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/home/harold/.local/share/unity3d/prefs' } ]","timestamp":"2020-01-11T21:41:03.645Z"}
+{"moduleName":"UnityLicenseCore","level":"warn","message":"[ 'License File is not available.' ]","timestamp":"2020-01-11T21:41:10.804Z"}
+{"moduleName":"EditorPrefLinux","level":"warn","message":"[ { Error: ENOENT: no such file or directory, open '/home/harold/.local/share/unity3d/prefs'\n    errno: -2,\n    code: 'ENOENT',\n    syscall: 'open',\n    path: '/home/harold/.local/share/unity3d/prefs' } ]","timestamp":"2020-01-11T21:41:31.023Z"}
+{"moduleName":"UnityLicenseCore","level":"warn","message":"[ 'License File is not available.' ]","timestamp":"2020-01-11T21:41:41.968Z"}
+                                                                                                                                            

@@ -1,0 +1,3 @@
+2020/01/10-15:36:41.295 3131 Reusing MANIFEST /home/harold/.config/cocomusic/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/01/10-15:36:41.295 3131 Recovering log #3
+2020/01/10-15:36:41.295 3131 Reusing old log /home/harold/.config/cocomusic/IndexedDB/file__0.indexeddb.leveldb/000003.log 

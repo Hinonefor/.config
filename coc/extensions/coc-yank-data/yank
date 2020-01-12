@@ -1,0 +1,28 @@
+db5a580c9562158891c68af06ef642eb|file:///home/harold/.zshrc|10|1|V|zsh
+		URL="http://git.io/antigen"
+dab980b5c41a69ce730d224010741224|file:///home/harold/.zshrc|133|1|V|zsh
+	genie -s
+5df39d6af7867ab7b10813f4fce95ae0|file:///home/harold/.zshrc|131|1|V|zsh
+	#export DOTNET_ROOT="/opt/dotnet"
+e3bf8f661c9858e7c63b9b4e9fc1b798|file:///home/harold/.config/compton.conf|62|1|V|conf
+	clear-shadow = true;
+	
+	# Set if you want different colour shadows
+	shadow-red = 0.03;
+	shadow-green = 0.03;
+	shadow-blue = 0.04;
+a1793d721b31068d2617e5f6335e609b|file:///home/harold/.config/nvim/init.vim|23|1|v|vim
+	clear-s
+86bd85717154333bdd8621372a577c53|file:///home/harold/config/polybar/config|60|1|V|dosini
+	modules-right = xbacklight alsa network cpu temperature battery date
+d14fd4af455a8d4218d9de8aa10a6334|file:///home/harold/.config/i3/config|49|1|V|conf
+	# start dmenu (a program launcher)
+8ef7451f084c5bc083b24cee3ac98423|file:///home/harold/.config/i3/config|49|1|V|conf
+	bindsym $mod+d exec dmenu_run
+b9acce142d1d29d88c632143151849e7|file:///home/harold/.config/i3/config|49|1|v|conf
+	# There also is the (new) i3-dmenu-desktop which only displays applications
+	# shipping a .desktop file.
+85022c692f8b5dd384b851900fa5e964|file:///home/harold/zshrc|51|1|V|zsh
+	bindkey -M vicmd "=" vi-repeat-search
+d385fa8dba9616085b6b60cbf8118636|file:///home/harold/.config/nvim/init.vim|469|1|V|vim
+	"let g:ale_virtualtext_cursor = 1

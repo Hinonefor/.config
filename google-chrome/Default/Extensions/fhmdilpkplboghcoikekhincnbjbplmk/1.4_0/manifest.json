@@ -1,0 +1,32 @@
+{
+   "description": "Dog",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnEc4RvS6cRoGhJJChIdYXW3JAELW2TlrCk786OWTzoEJ9yuJGGBDOhnhO8u6blr5d01vs4JZv3DdXgfOcVFmymQNQMtQHc3P6wA3rVrZrIAd1z1pfHJ2OlBK7zbzx6lhPwkjUMQndAWS/54ncsmryS7e8W22WhXUf1RzAFQmo067GerGq+o41bdPXnCpgghUC7Z7XTYeSo2p7p5Pa/4vIWmD4+3RRdu/mJULes5gG7RrjnJGJIBbIE+eY4ZQ0oPxy5v6JqrgHn/Dh8F5BwnWfvnhDGtR0PQPTiANGWf33UwnAzc1j9td3gV/E5SyzzasJL5D2n+VwQ1HMNXLun1J1wIDAQAB",
+   "manifest_version": 2,
+   "name": "Dog",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 255, 202, 40 ],
+         "ntp_background": [ 255, 255, 255 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 255, 255, 255 ]
+      },
+      "images": {
+         "theme_ntp_background": "theme_ntp_background.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center",
+         "ntp_background_repeat": "repeat-x",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.4"
+}

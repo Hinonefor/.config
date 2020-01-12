@@ -1,0 +1,217 @@
+{
+   "appDesc": {
+      "message": "拦截/重定向 URL && 修改 Headers"
+   },
+   "appName": {
+      "message": "Gooreplacer"
+   },
+   "btnAdd": {
+      "message": "新增"
+   },
+   "btnClearAll": {
+      "message": "清除所有数据"
+   },
+   "btnExport": {
+      "message": "导出"
+   },
+   "btnHelp": {
+      "message": "帮助"
+   },
+   "btnHome": {
+      "message": "主页"
+   },
+   "btnImport": {
+      "message": "导入"
+   },
+   "btnSubmit": {
+      "message": "提交"
+   },
+   "btnTest": {
+      "message": "测试"
+   },
+   "btnUpdateNow": {
+      "message": "立刻更新"
+   },
+   "btnView": {
+      "message": "查看"
+   },
+   "cfmCase": {
+      "message": "不区分大小写"
+   },
+   "cfmDelete": {
+      "message": "真的要删除吗？"
+   },
+   "colAction": {
+      "message": "操作"
+   },
+   "colDst": {
+      "message": "目标地址"
+   },
+   "colEnable": {
+      "message": "是否开启"
+   },
+   "colHeaderName": {
+      "message": "键名"
+   },
+   "colHeaderValue": {
+      "message": "键值"
+   },
+   "colKind": {
+      "message": "匹配类型"
+   },
+   "colOperation": {
+      "message": "动作类型"
+   },
+   "colPurpose": {
+      "message": "规则类型"
+   },
+   "colSrc": {
+      "message": "匹配模式"
+   },
+   "kindRegexp": {
+      "message": "正则表达式"
+   },
+   "kindWildcard": {
+      "message": "通配符"
+   },
+   "opCancel": {
+      "message": "拦截"
+   },
+   "opModify": {
+      "message": "修改"
+   },
+   "tabCancelUrl": {
+      "message": "拦截"
+   },
+   "tabHeaders": {
+      "message": "请求/响应头"
+   },
+   "tabOnlineRule": {
+      "message": "在线规则"
+   },
+   "tabRedirectUrl": {
+      "message": "重定向"
+   },
+   "tabSandbox": {
+      "message": "沙箱测试"
+   },
+   "tabUrl": {
+      "message": "重定向/拦截"
+   },
+   "tipEdit": {
+      "message": "编辑"
+   },
+   "tipOk": {
+      "message": "确认"
+   },
+   "titleReqHeaders": {
+      "message": "请求头"
+   },
+   "titleRespHeaders": {
+      "message": "响应头"
+   },
+   "tmplBlock": {
+      "message": "匹配成功！$TEST_URL$ 已被拦截",
+      "placeholders": {
+         "test_url": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplChangeTo": {
+      "message": "改变为 $NEW_VAL$",
+      "placeholders": {
+         "new_val": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplDeleteFail": {
+      "message": "$OBJECT$ 删除失败。$CAUSE$",
+      "placeholders": {
+         "cause": {
+            "content": "$2"
+         },
+         "object": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplDeleteOk": {
+      "message": "$OBJECT$ 删除成功！",
+      "placeholders": {
+         "object": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplIgnore": {
+      "message": "如果动作类型是$OP_CANCEL$，这里可以为空",
+      "placeholders": {
+         "op_cancel": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplPagination": {
+      "message": "共 $TOTAL$ 条规则",
+      "placeholders": {
+         "total": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplRedirect": {
+      "message": "匹配成功！$TEST_URL$ 被重定向到 $REDIRECT_URL$",
+      "placeholders": {
+         "redirect_url": {
+            "content": "$2"
+         },
+         "test_url": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplRuleOff": {
+      "message": "$RULE_TYPE$ 没有开启！",
+      "placeholders": {
+         "rule_type": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplUpdateFail": {
+      "message": "$OBJECT$ 更新失败。$CAUSE$",
+      "placeholders": {
+         "cause": {
+            "content": "$2"
+         },
+         "object": {
+            "content": "$1"
+         }
+      }
+   },
+   "tmplUpdateOk": {
+      "message": "$OBJECT$ 更新成功！",
+      "placeholders": {
+         "object": {
+            "content": "$1"
+         }
+      }
+   },
+   "txtLastUpdate": {
+      "message": "上次更新"
+   },
+   "txtLoading": {
+      "message": "加载中..."
+   },
+   "txtNoMatch": {
+      "message": "囧，没有匹配到任何规则！"
+   },
+   "txtTestHelp": {
+      "message": "测试重定向/拦截规则. 目前不支持测试请求/响应头规则！"
+   },
+   "txtTestUrl": {
+      "message": "测试 URL"
+   }
+}
