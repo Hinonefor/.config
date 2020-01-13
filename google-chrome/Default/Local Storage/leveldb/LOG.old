@@ -1,18 +1,33 @@
-2020/01/12-15:26:37.669 65c Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/01/12-15:26:37.669 65c Recovering log #54
-2020/01/12-15:26:37.670 65c Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000054.log 
-2020/01/12-15:31:43.569 e65 Level-0 table #58: started
-2020/01/12-15:31:43.575 e65 Level-0 table #58: 84960 bytes OK
-2020/01/12-15:31:43.577 e65 Delete type=0 #54
-2020/01/12-15:31:43.577 e65 Compacting 4@0 + 1@1 files
-2020/01/12-15:31:43.582 e65 Generated table #59@0: 81 keys, 135667 bytes
-2020/01/12-15:31:43.582 e65 Compacted 4@0 + 1@1 files => 135667 bytes
-2020/01/12-15:31:43.585 e65 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/01/12-15:31:43.585 e65 Delete type=2 #48
-2020/01/12-15:31:43.585 e65 Delete type=2 #50
-2020/01/12-15:31:43.585 e65 Delete type=2 #53
-2020/01/12-15:31:43.585 e65 Delete type=2 #58
-2020/01/12-15:31:43.585 e65 Delete type=2 #55
-2020/01/12-15:33:36.884 e65 Level-0 table #61: started
-2020/01/12-15:33:36.887 e65 Level-0 table #61: 81864 bytes OK
-2020/01/12-15:33:36.893 e65 Delete type=0 #57
+2020/01/13-17:53:00.131 641e Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/13-17:53:00.131 641e Recovering log #3
+2020/01/13-17:53:00.131 641e Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2020/01/13-18:02:33.833 6f1f Level-0 table #5: started
+2020/01/13-18:02:33.845 6f1f Level-0 table #5: 54000 bytes OK
+2020/01/13-18:02:33.851 6f1f Delete type=0 #3
+2020/01/13-18:02:34.723 6f1f Level-0 table #7: started
+2020/01/13-18:02:34.728 6f1f Level-0 table #7: 44995 bytes OK
+2020/01/13-18:02:34.731 6f1f Delete type=0 #4
+2020/01/13-18:17:26.931 6f1f Level-0 table #9: started
+2020/01/13-18:17:26.941 6f1f Level-0 table #9: 85606 bytes OK
+2020/01/13-18:17:26.945 6f1f Delete type=0 #6
+2020/01/13-18:17:27.264 6f1f Level-0 table #11: started
+2020/01/13-18:17:27.273 6f1f Level-0 table #11: 79466 bytes OK
+2020/01/13-18:17:27.277 6f1f Delete type=0 #8
+2020/01/13-18:19:21.927 6f1f Level-0 table #13: started
+2020/01/13-18:19:21.938 6f1f Level-0 table #13: 80914 bytes OK
+2020/01/13-18:19:21.943 6f1f Delete type=0 #10
+2020/01/13-18:20:33.618 6f1f Level-0 table #15: started
+2020/01/13-18:20:33.628 6f1f Level-0 table #15: 80825 bytes OK
+2020/01/13-18:20:33.631 6f1f Delete type=0 #12
+2020/01/13-18:20:33.632 6f1f Compacting 4@0 + 1@1 files
+2020/01/13-18:20:33.644 6f1f Generated table #16@0: 91 keys, 367552 bytes
+2020/01/13-18:20:33.644 6f1f Compacted 4@0 + 1@1 files => 367552 bytes
+2020/01/13-18:20:33.647 6f1f compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/13-18:20:33.647 6f1f Delete type=2 #9
+2020/01/13-18:20:33.647 6f1f Delete type=2 #15
+2020/01/13-18:20:33.647 6f1f Delete type=2 #7
+2020/01/13-18:20:33.647 6f1f Delete type=2 #11
+2020/01/13-18:20:33.647 6f1f Delete type=2 #13
+2020/01/13-18:27:53.251 6f1f Level-0 table #18: started
+2020/01/13-18:27:53.261 6f1f Level-0 table #18: 58337 bytes OK
+2020/01/13-18:27:53.264 6f1f Delete type=0 #14

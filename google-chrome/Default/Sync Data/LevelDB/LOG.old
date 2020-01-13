@@ -1,3 +1,24 @@
-2020/01/12-15:26:37.026 654 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/01/12-15:26:37.026 654 Recovering log #23
-2020/01/12-15:26:37.028 654 Reusing old log /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/000023.log 
+2020/01/13-17:52:59.477 641d Reusing MANIFEST /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/01/13-17:52:59.478 641d Recovering log #65
+2020/01/13-17:52:59.479 641d Reusing old log /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/000065.log 
+2020/01/13-17:53:23.027 666d Level-0 table #69: started
+2020/01/13-17:53:23.039 666d Level-0 table #69: 95711 bytes OK
+2020/01/13-17:53:23.043 666d Delete type=0 #65
+2020/01/13-18:03:48.683 666d Level-0 table #71: started
+2020/01/13-18:03:48.691 666d Level-0 table #71: 98373 bytes OK
+2020/01/13-18:03:48.694 666d Delete type=0 #68
+2020/01/13-18:13:32.951 666d Level-0 table #73: started
+2020/01/13-18:13:32.960 666d Level-0 table #73: 116185 bytes OK
+2020/01/13-18:13:32.963 666d Delete type=0 #70
+2020/01/13-18:13:32.963 666d Compacting 4@0 + 1@1 files
+2020/01/13-18:13:32.972 666d Generated table #74@0: 909 keys, 153712 bytes
+2020/01/13-18:13:32.972 666d Compacted 4@0 + 1@1 files => 153712 bytes
+2020/01/13-18:13:32.975 666d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/13-18:13:32.975 666d Delete type=2 #71
+2020/01/13-18:13:32.975 666d Delete type=2 #64
+2020/01/13-18:13:32.975 666d Delete type=2 #69
+2020/01/13-18:13:32.975 666d Delete type=2 #73
+2020/01/13-18:13:32.975 666d Delete type=2 #66
+2020/01/13-18:32:37.002 666d Level-0 table #76: started
+2020/01/13-18:32:37.016 666d Level-0 table #76: 110638 bytes OK
+2020/01/13-18:32:37.019 666d Delete type=0 #72

@@ -178,6 +178,18 @@ Mode Set By User=false
 Time=2019,12,31,17,35,7
 URL=file:///home/harold/default.txt
 
+[file:///home/harold/github token]
+Bookmarks=
+Checksum=2b1c353f9696d057213a0e72de175cef58737a26
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,12,19,55,22
+URL=file:///home/harold/github token
+
 [file:///home/harold/scripts/i3exit]
 Bookmarks=
 Checksum=f2c4780bad38acf75027d652026387d439dcac79
@@ -223,5 +235,5 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2020,1,5,14,46,33
+Time=2020,1,12,15,56,23
 URL=file:///home/harold/zshrc

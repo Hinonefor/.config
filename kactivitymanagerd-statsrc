@@ -17,10 +17,10 @@ ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolp
 ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-4-47d7bdce-9a33-4332-b691-78ded8a0ff3a]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:org.manjaro.pamac.manager.desktop,applications:hmcl.desktop,applications:minecraft-launcher.desktop,applications:steam.desktop,applications:alacritty.desktop,applications:xdman.desktop
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:org.manjaro.pamac.manager.desktop,applications:hmcl.desktop,applications:minecraft-launcher.desktop,applications:steam.desktop,applications:alacritty.desktop,applications:xdman.desktop,applications:gridea.desktop
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-4-global]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:org.manjaro.pamac.manager.desktop,applications:hmcl.desktop,applications:minecraft-launcher.desktop,applications:steam.desktop,applications:alacritty.desktop,applications:xdman.desktop
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:org.manjaro.pamac.manager.desktop,applications:hmcl.desktop,applications:minecraft-launcher.desktop,applications:steam.desktop,applications:alacritty.desktop,applications:xdman.desktop,applications:gridea.desktop
 
 [Favorites-org.kde.plasma.kicker.favorites.instance-5-47d7bdce-9a33-4332-b691-78ded8a0ff3a]
 ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop,applications:alacritty.desktop,applications:st.desktop,applications:org.kde.konsole.desktop
@@ -29,10 +29,10 @@ ordering=preferred://browser,applications:systemsettings.desktop,applications:or
 ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.discover.desktop,applications:alacritty.desktop,applications:st.desktop,applications:org.kde.konsole.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-20-47d7bdce-9a33-4332-b691-78ded8a0ff3a]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:alacritty.desktop,applications:org.manjaro.pamac.manager.desktop,applications:minecraft-launcher.desktop,applications:hmcl.desktop,applications:steam.desktop,applications:xdman.desktop
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:alacritty.desktop,applications:org.manjaro.pamac.manager.desktop,applications:minecraft-launcher.desktop,applications:hmcl.desktop,applications:steam.desktop,applications:xdman.desktop,applications:gridea.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-20-global]
-ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:alacritty.desktop,applications:org.manjaro.pamac.manager.desktop,applications:minecraft-launcher.desktop,applications:hmcl.desktop,applications:steam.desktop,applications:xdman.desktop
+ordering=preferred://browser,applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.kate.desktop,applications:org.kde.konsole.desktop,applications:st.desktop,applications:alacritty.desktop,applications:org.manjaro.pamac.manager.desktop,applications:minecraft-launcher.desktop,applications:hmcl.desktop,applications:steam.desktop,applications:xdman.desktop,applications:gridea.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-47d7bdce-9a33-4332-b691-78ded8a0ff3a]
 ordering=preferred://browser,kontact.desktop,systemsettings.desktop,org.kde.dolphin.desktop,ktp-contactlist.desktop,org.kde.kate.desktop,org.kde.discover.desktop

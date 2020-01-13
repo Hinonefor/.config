@@ -1,9 +1,9 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Downloads/,$HOME/Desktop/
+DirHistory[$e]=$HOME/Pictures/,$HOME/Downloads/,$HOME/Desktop/
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Downloads/
+Recent URLs[$e]=file:$HOME/Pictures/
 detailViewIconSize=0
 
 [MainWindow]
@@ -16,5 +16,16 @@ splitterSizes=426,213
 [Recent Files]
 File1[$e]=$HOME/Downloads/sth.tar.gz
 File2[$e]=/run/media/harold/D4FA828F299D817A/Arch/Arch.zip
+File3[$e]=/run/media/harold/D4FA828F299D817A/文件夹/Win10美化必装包.zip
+File4[$e]=/run/media/harold/D4FA828F299D817A/文件夹/修改logo.zip
 Name1[$e]=sth.tar.gz
 Name2[$e]=Arch.zip
+Name3[$e]=Win10美化必装包.zip
+Name4[$e]=修改logo.zip
+
+[Viewer]
+Height 1080=158
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAVoAAAB3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=346

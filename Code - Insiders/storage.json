@@ -2,17 +2,19 @@
     "telemetry.machineId": "7b24b9d28d7f91a62ea7704d23ee820576abdad1581ab36add4818cf96fa1047",
     "openedPathsList": {
         "workspaces3": [],
-        "files2": []
+        "files2": [
+            "file:///home/harold/zshrc"
+        ]
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/harold/.config/Code - Insiders/Backups/1578778911811",
+            "backupPath": "/home/harold/.config/Code - Insiders/Backups/1578844615350",
             "uiState": {
                 "mode": 1,
-                "x": 965,
-                "y": 44,
-                "width": 945,
-                "height": 1026
+                "x": 422,
+                "y": 203,
+                "width": 963,
+                "height": 777
             }
         },
         "openedWindows": []
@@ -58,6 +60,20 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/harold/zshrc",
+                                        "path": "/home/harold/zshrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/zshrc"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.openRecent",
                                     "label": "&&More..."
                                 },
@@ -91,8 +107,7 @@
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As...",
-                        "enabled": false
+                        "label": "Save &&As..."
                     },
                     {
                         "id": "workbench.action.files.saveAll",

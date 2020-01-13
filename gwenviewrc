@@ -1,18 +1,31 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
+[General]
+LastTargetDir[$e]=file:$HOME/Pictures/修改logo/UefiLogo
+SideBarPage=operations
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/修改logo/UefiLogo/all.png,file:$HOME/Pictures/修改logo/UefiLogo/all.png
+Recent URLs[$e]=file:$HOME/Pictures/修改logo/UefiLogo/
+detailViewIconSize=0
+
 [MainWindow]
 Height 1032=480
-Height 1080=480
+Height 1080=732
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA0EAAAG5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA0EAAAK1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1902=888
 Width 1920=833
 
 [Recent Files]
 File1[$e]=$HOME/Pictures/壁纸A/bilibili(1).jpg
+File2[$e]=$HOME/Pictures/修改logo/UefiLogo/splash.bmp
+File3[$e]=$HOME/Pictures/修改logo/UefiLogo/all.jpg
 Name1[$e]=bilibili(1).jpg
+Name2[$e]=splash.bmp
+Name3[$e]=all.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,588

@@ -31,7 +31,7 @@ positions=1,16,desktop:/steam.desktop,0,0
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/harold/.config/variety/wallpaper/wallpaper-clock-39a7acec2581d52c1109dda467de8923.jpg
+Image=file:///home/harold/.config/variety/wallpaper/wallpaper-clock-1cad4572f9bc0935fbf5ef902ae4e922.jpg
 
 [Containments][18]
 activityId=
@@ -54,7 +54,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][18][Applets][20][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 
 [Containments][18][Applets][20][Configuration][ConfigDialog]
 DialogHeight=540

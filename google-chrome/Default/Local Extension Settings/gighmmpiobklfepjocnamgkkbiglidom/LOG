@@ -1,6 +1,23 @@
-2020/01/12-15:45:26.475 79b Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/12-15:45:26.475 79b Recovering log #632
-2020/01/12-15:45:26.475 79b Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000632.log 
-2020/01/12-15:46:28.087 bb2 Level-0 table #638: started
-2020/01/12-15:46:28.190 bb2 Level-0 table #638: 5141988 bytes OK
-2020/01/12-15:46:28.195 bb2 Delete type=0 #632
+2020/01/13-18:49:23.450 9682 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/13-18:49:23.451 9682 Recovering log #736
+2020/01/13-18:49:23.451 9682 Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000736.log 
+2020/01/13-18:50:25.037 98fc Level-0 table #740: started
+2020/01/13-18:50:25.145 98fc Level-0 table #740: 5133587 bytes OK
+2020/01/13-18:50:25.149 98fc Delete type=0 #736
+2020/01/13-18:50:30.866 98fc Level-0 table #742: started
+2020/01/13-18:50:31.061 98fc Level-0 table #742: 5133343 bytes OK
+2020/01/13-18:50:31.070 98fc Delete type=0 #739
+2020/01/13-18:57:29.203 98fc Level-0 table #744: started
+2020/01/13-18:57:29.313 98fc Level-0 table #744: 5133073 bytes OK
+2020/01/13-18:57:29.317 98fc Delete type=0 #741
+2020/01/13-18:57:29.320 98fc Compacting 4@0 + 2@1 files
+2020/01/13-18:57:29.501 98fc Generated table #745@0: 1 keys, 5133073 bytes
+2020/01/13-18:57:29.508 98fc Generated table #746@0: 5 keys, 446 bytes
+2020/01/13-18:57:29.508 98fc Compacted 4@0 + 2@1 files => 5133519 bytes
+2020/01/13-18:57:29.511 98fc compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/13-18:57:29.511 98fc Delete type=2 #734
+2020/01/13-18:57:29.512 98fc Delete type=2 #740
+2020/01/13-18:57:29.512 98fc Delete type=2 #744
+2020/01/13-18:57:29.512 98fc Delete type=2 #737
+2020/01/13-18:57:29.512 98fc Delete type=2 #735
+2020/01/13-18:57:29.512 98fc Delete type=2 #742

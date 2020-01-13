@@ -1,20 +1,23 @@
-2020/01/12-15:26:37.896 67f Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/12-15:26:37.896 67f Recovering log #627
-2020/01/12-15:26:37.896 67f Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000627.log 
-2020/01/12-15:27:38.993 948 Level-0 table #631: started
-2020/01/12-15:27:39.057 948 Level-0 table #631: 5141929 bytes OK
-2020/01/12-15:27:39.060 948 Delete type=0 #627
-2020/01/12-15:31:27.140 948 Level-0 table #633: started
-2020/01/12-15:31:27.280 948 Level-0 table #633: 5142081 bytes OK
-2020/01/12-15:31:27.284 948 Delete type=0 #630
-2020/01/12-15:31:27.287 948 Compacting 4@0 + 2@1 files
-2020/01/12-15:31:27.553 948 Generated table #634@0: 1 keys, 5141819 bytes
-2020/01/12-15:31:27.561 948 Generated table #635@0: 5 keys, 445 bytes
-2020/01/12-15:31:27.561 948 Compacted 4@0 + 2@1 files => 5142264 bytes
-2020/01/12-15:31:27.563 948 compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/01/12-15:31:27.564 948 Delete type=2 #622
-2020/01/12-15:31:27.564 948 Delete type=2 #631
-2020/01/12-15:31:27.564 948 Delete type=2 #628
-2020/01/12-15:31:27.564 948 Delete type=2 #626
-2020/01/12-15:31:27.564 948 Delete type=2 #633
-2020/01/12-15:31:27.564 948 Delete type=2 #623
+2020/01/13-17:53:00.418 641d Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/13-17:53:00.419 641d Recovering log #727
+2020/01/13-17:53:00.419 641d Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000727.log 
+2020/01/13-17:54:04.195 666d Level-0 table #731: started
+2020/01/13-17:54:04.311 666d Level-0 table #731: 5133254 bytes OK
+2020/01/13-17:54:04.316 666d Delete type=0 #727
+2020/01/13-17:54:08.939 666d Level-0 table #733: started
+2020/01/13-17:54:09.034 666d Level-0 table #733: 5133360 bytes OK
+2020/01/13-17:54:09.039 666d Delete type=0 #730
+2020/01/13-17:54:09.040 666d Compacting 4@0 + 2@1 files
+2020/01/13-17:54:09.172 666d Generated table #734@0: 1 keys, 5133097 bytes
+2020/01/13-17:54:09.176 666d Generated table #735@0: 5 keys, 446 bytes
+2020/01/13-17:54:09.176 666d Compacted 4@0 + 2@1 files => 5133543 bytes
+2020/01/13-17:54:09.179 666d compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/13-17:54:09.179 666d Delete type=2 #728
+2020/01/13-17:54:09.179 666d Delete type=2 #723
+2020/01/13-17:54:09.179 666d Delete type=2 #724
+2020/01/13-17:54:09.179 666d Delete type=2 #726
+2020/01/13-17:54:09.179 666d Delete type=2 #733
+2020/01/13-17:54:09.179 666d Delete type=2 #731
+2020/01/13-18:06:35.823 666d Level-0 table #737: started
+2020/01/13-18:06:35.947 666d Level-0 table #737: 5133078 bytes OK
+2020/01/13-18:06:35.952 666d Delete type=0 #732

@@ -1,3 +1,6 @@
-2020/01/12-15:26:38.667 67f Reusing MANIFEST /home/harold/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2020/01/12-15:26:38.668 67f Recovering log #56
-2020/01/12-15:26:38.671 67f Reusing old log /home/harold/.config/google-chrome/Default/Extension State/000056.log 
+2020/01/13-17:53:01.134 6415 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2020/01/13-17:53:01.134 6415 Recovering log #81
+2020/01/13-17:53:01.136 6415 Reusing old log /home/harold/.config/google-chrome/Default/Extension State/000081.log 
+2020/01/13-18:27:36.971 666d Level-0 table #85: started
+2020/01/13-18:27:37.014 666d Level-0 table #85: 4141682 bytes OK
+2020/01/13-18:27:37.020 666d Delete type=0 #81

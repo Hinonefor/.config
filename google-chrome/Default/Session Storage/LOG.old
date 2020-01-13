@@ -1,6 +1,9 @@
-2020/01/12-15:26:37.315 655 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/01/12-15:26:37.315 655 Recovering log #174
-2020/01/12-15:26:37.316 655 Reusing old log /home/harold/.config/google-chrome/Default/Session Storage/000174.log 
-2020/01/12-15:39:25.310 e65 Level-0 table #178: started
-2020/01/12-15:39:25.315 e65 Level-0 table #178: 22110 bytes OK
-2020/01/12-15:39:25.317 e65 Delete type=0 #174
+2020/01/13-17:52:59.711 642d Reusing MANIFEST /home/harold/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/01/13-17:52:59.712 642d Recovering log #3
+2020/01/13-17:52:59.712 642d Reusing old log /home/harold/.config/google-chrome/Default/Session Storage/000003.log 
+2020/01/13-18:02:26.020 6f1f Level-0 table #5: started
+2020/01/13-18:02:26.030 6f1f Level-0 table #5: 41564 bytes OK
+2020/01/13-18:02:26.034 6f1f Delete type=0 #3
+2020/01/13-18:37:02.563 6f1f Level-0 table #7: started
+2020/01/13-18:37:02.565 6f1f Level-0 table #7: 24465 bytes OK
+2020/01/13-18:37:02.571 6f1f Delete type=0 #4

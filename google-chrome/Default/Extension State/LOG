@@ -1,3 +1,18 @@
-2020/01/12-15:45:27.248 77c Reusing MANIFEST /home/harold/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2020/01/12-15:45:27.248 77c Recovering log #56
-2020/01/12-15:45:27.252 77c Reusing old log /home/harold/.config/google-chrome/Default/Extension State/000056.log 
+2020/01/13-18:49:24.238 9661 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2020/01/13-18:49:24.239 9661 Recovering log #84
+2020/01/13-18:49:24.240 9661 Reusing old log /home/harold/.config/google-chrome/Default/Extension State/000084.log 
+2020/01/13-18:52:27.470 98fc Level-0 table #88: started
+2020/01/13-18:52:27.491 98fc Level-0 table #88: 4181960 bytes OK
+2020/01/13-18:52:27.494 98fc Delete type=0 #84
+2020/01/13-18:57:22.370 98fc Level-0 table #90: started
+2020/01/13-18:57:22.409 98fc Level-0 table #90: 4206464 bytes OK
+2020/01/13-18:57:22.416 98fc Delete type=0 #87
+2020/01/13-18:57:22.417 98fc Compacting 4@0 + 1@1 files
+2020/01/13-18:57:22.451 98fc Generated table #91@0: 9 keys, 46330 bytes
+2020/01/13-18:57:22.451 98fc Compacted 4@0 + 1@1 files => 46330 bytes
+2020/01/13-18:57:22.454 98fc compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/01/13-18:57:22.454 98fc Delete type=2 #88
+2020/01/13-18:57:22.454 98fc Delete type=2 #82
+2020/01/13-18:57:22.454 98fc Delete type=2 #85
+2020/01/13-18:57:22.454 98fc Delete type=2 #80
+2020/01/13-18:57:22.454 98fc Delete type=2 #90
