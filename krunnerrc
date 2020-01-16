@@ -1,5 +1,5 @@
 [General]
-history=y -Syu,s
+history=e,y -Syu,s
 
 [PlasmaRunnerManager]
 LaunchCounts=

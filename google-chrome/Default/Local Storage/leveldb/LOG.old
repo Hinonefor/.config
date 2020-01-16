@@ -1,33 +1,18 @@
-2020/01/13-17:53:00.131 641e Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/01/13-17:53:00.131 641e Recovering log #3
-2020/01/13-17:53:00.131 641e Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
-2020/01/13-18:02:33.833 6f1f Level-0 table #5: started
-2020/01/13-18:02:33.845 6f1f Level-0 table #5: 54000 bytes OK
-2020/01/13-18:02:33.851 6f1f Delete type=0 #3
-2020/01/13-18:02:34.723 6f1f Level-0 table #7: started
-2020/01/13-18:02:34.728 6f1f Level-0 table #7: 44995 bytes OK
-2020/01/13-18:02:34.731 6f1f Delete type=0 #4
-2020/01/13-18:17:26.931 6f1f Level-0 table #9: started
-2020/01/13-18:17:26.941 6f1f Level-0 table #9: 85606 bytes OK
-2020/01/13-18:17:26.945 6f1f Delete type=0 #6
-2020/01/13-18:17:27.264 6f1f Level-0 table #11: started
-2020/01/13-18:17:27.273 6f1f Level-0 table #11: 79466 bytes OK
-2020/01/13-18:17:27.277 6f1f Delete type=0 #8
-2020/01/13-18:19:21.927 6f1f Level-0 table #13: started
-2020/01/13-18:19:21.938 6f1f Level-0 table #13: 80914 bytes OK
-2020/01/13-18:19:21.943 6f1f Delete type=0 #10
-2020/01/13-18:20:33.618 6f1f Level-0 table #15: started
-2020/01/13-18:20:33.628 6f1f Level-0 table #15: 80825 bytes OK
-2020/01/13-18:20:33.631 6f1f Delete type=0 #12
-2020/01/13-18:20:33.632 6f1f Compacting 4@0 + 1@1 files
-2020/01/13-18:20:33.644 6f1f Generated table #16@0: 91 keys, 367552 bytes
-2020/01/13-18:20:33.644 6f1f Compacted 4@0 + 1@1 files => 367552 bytes
-2020/01/13-18:20:33.647 6f1f compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/01/13-18:20:33.647 6f1f Delete type=2 #9
-2020/01/13-18:20:33.647 6f1f Delete type=2 #15
-2020/01/13-18:20:33.647 6f1f Delete type=2 #7
-2020/01/13-18:20:33.647 6f1f Delete type=2 #11
-2020/01/13-18:20:33.647 6f1f Delete type=2 #13
-2020/01/13-18:27:53.251 6f1f Level-0 table #18: started
-2020/01/13-18:27:53.261 6f1f Level-0 table #18: 58337 bytes OK
-2020/01/13-18:27:53.264 6f1f Delete type=0 #14
+2020/01/16-20:24:55.369 3063 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/16-20:24:55.370 3063 Recovering log #136
+2020/01/16-20:24:55.371 3063 Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000136.log 
+2020/01/16-20:25:09.071 36a1 Level-0 table #140: started
+2020/01/16-20:25:09.078 36a1 Level-0 table #140: 55158 bytes OK
+2020/01/16-20:25:09.082 36a1 Delete type=0 #136
+2020/01/16-20:26:03.850 36a1 Level-0 table #142: started
+2020/01/16-20:26:03.857 36a1 Level-0 table #142: 52729 bytes OK
+2020/01/16-20:26:03.860 36a1 Delete type=0 #139
+2020/01/16-20:26:03.860 36a1 Compacting 4@0 + 1@1 files
+2020/01/16-20:26:03.907 36a1 Generated table #143@0: 550 keys, 911364 bytes
+2020/01/16-20:26:03.907 36a1 Compacted 4@0 + 1@1 files => 911364 bytes
+2020/01/16-20:26:03.910 36a1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/16-20:26:03.910 36a1 Delete type=2 #132
+2020/01/16-20:26:03.910 36a1 Delete type=2 #135
+2020/01/16-20:26:03.910 36a1 Delete type=2 #142
+2020/01/16-20:26:03.910 36a1 Delete type=2 #140
+2020/01/16-20:26:03.910 36a1 Delete type=2 #137

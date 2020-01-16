@@ -1,23 +1,19 @@
-2020/01/13-18:49:23.450 9682 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/13-18:49:23.451 9682 Recovering log #736
-2020/01/13-18:49:23.451 9682 Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000736.log 
-2020/01/13-18:50:25.037 98fc Level-0 table #740: started
-2020/01/13-18:50:25.145 98fc Level-0 table #740: 5133587 bytes OK
-2020/01/13-18:50:25.149 98fc Delete type=0 #736
-2020/01/13-18:50:30.866 98fc Level-0 table #742: started
-2020/01/13-18:50:31.061 98fc Level-0 table #742: 5133343 bytes OK
-2020/01/13-18:50:31.070 98fc Delete type=0 #739
-2020/01/13-18:57:29.203 98fc Level-0 table #744: started
-2020/01/13-18:57:29.313 98fc Level-0 table #744: 5133073 bytes OK
-2020/01/13-18:57:29.317 98fc Delete type=0 #741
-2020/01/13-18:57:29.320 98fc Compacting 4@0 + 2@1 files
-2020/01/13-18:57:29.501 98fc Generated table #745@0: 1 keys, 5133073 bytes
-2020/01/13-18:57:29.508 98fc Generated table #746@0: 5 keys, 446 bytes
-2020/01/13-18:57:29.508 98fc Compacted 4@0 + 2@1 files => 5133519 bytes
-2020/01/13-18:57:29.511 98fc compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/01/13-18:57:29.511 98fc Delete type=2 #734
-2020/01/13-18:57:29.512 98fc Delete type=2 #740
-2020/01/13-18:57:29.512 98fc Delete type=2 #744
-2020/01/13-18:57:29.512 98fc Delete type=2 #737
-2020/01/13-18:57:29.512 98fc Delete type=2 #735
-2020/01/13-18:57:29.512 98fc Delete type=2 #742
+2020/01/16-20:53:47.666 4f60 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/16-20:53:47.667 4f60 Recovering log #875
+2020/01/16-20:53:47.741 4f60 Level-0 table #878: started
+2020/01/16-20:53:47.835 4f60 Level-0 table #878: 5136204 bytes OK
+2020/01/16-20:53:47.840 4f60 Delete type=0 #875
+2020/01/16-20:54:49.008 5c14 Level-0 table #881: started
+2020/01/16-20:54:49.067 5c14 Level-0 table #881: 5136275 bytes OK
+2020/01/16-20:54:49.070 5c14 Delete type=0 #879
+2020/01/16-20:54:49.071 5c14 Compacting 4@0 + 2@1 files
+2020/01/16-20:54:49.204 5c14 Generated table #882@0: 1 keys, 5136202 bytes
+2020/01/16-20:54:49.208 5c14 Generated table #883@0: 5 keys, 444 bytes
+2020/01/16-20:54:49.208 5c14 Compacted 4@0 + 2@1 files => 5136646 bytes
+2020/01/16-20:54:49.210 5c14 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/01/16-20:54:49.211 5c14 Delete type=2 #871
+2020/01/16-20:54:49.211 5c14 Delete type=2 #872
+2020/01/16-20:54:49.211 5c14 Delete type=2 #876
+2020/01/16-20:54:49.211 5c14 Delete type=2 #874
+2020/01/16-20:54:49.211 5c14 Delete type=2 #881
+2020/01/16-20:54:49.211 5c14 Delete type=2 #878

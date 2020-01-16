@@ -1,0 +1,182 @@
+{
+   "changeViewBtn": {
+      "message": "Switch"
+   },
+   "closeAllBtn": {
+      "message": "Reset"
+   },
+   "defaultGroupName": {
+      "message": "Default"
+   },
+   "emptyShowListCon": {
+      "message": "No enabled extensions in this group!"
+   },
+   "extDesr": {
+      "message": "Manage extensions, Quickly enable/disable, Support batching operation, Smart sorting. Fast, Simple and Secure."
+   },
+   "extName": {
+      "message": "Extension Manager"
+   },
+   "extNameShort": {
+      "message": "Extension Manager"
+   },
+   "iconSize": {
+      "message": "Icon Size:  "
+   },
+   "iconSizeMenu": {
+      "message": "Icon Size"
+   },
+   "newGroupName": {
+      "message": "New Group"
+   },
+   "optionGroupDelete": {
+      "message": "Are you sure to delete this group?"
+   },
+   "optionGroupDeleteAtLeaseOne": {
+      "message": "Keep at least one group!"
+   },
+   "optionGroupDesc": {
+      "message": "Using grouping, you can flexibly switch to different scenes such as home or company, to make management more convenient"
+   },
+   "optionGroupModifyName": {
+      "message": "Enter the group name please"
+   },
+   "optionGroupOperat": {
+      "message": "Under the selected group, click the extension ico to colorize to lock it into the group"
+   },
+   "optionGroupTitle": {
+      "message": "Group Management"
+   },
+   "optionGroupTitleMenu": {
+      "message": "Group"
+   },
+   "optionName": {
+      "message": "Options"
+   },
+   "otherDesc": {
+      "message": "you can also give a favorable comment or provide support suggestions at the \u003Ca>Chrome Web Store\u003C/a>."
+   },
+   "otherDonate": {
+      "message": "If you are satisfied with it, you can give me a donation and encourage me to continue to improve it for free :-)"
+   },
+   "otherName": {
+      "message": "Support:"
+   },
+   "rankBtn": {
+      "message": "Reset"
+   },
+   "rankName": {
+      "message": "Auto Order:"
+   },
+   "rankNameMenu": {
+      "message": "Order"
+   },
+   "rightAppLaunch": {
+      "message": "Launch"
+   },
+   "rightHomepage": {
+      "message": "Homepage"
+   },
+   "rightLock_lock": {
+      "message": "Lock"
+   },
+   "rightLock_unlock": {
+      "message": "Unlock"
+   },
+   "rightMoreDesc": {
+      "message": "To get more functions by right-clicking the extension icon"
+   },
+   "rightMoreName": {
+      "message": "Right-click Menu:"
+   },
+   "rightOption": {
+      "message": "Options"
+   },
+   "rightUninstall": {
+      "message": "Uninstall"
+   },
+   "searcherEmpty": {
+      "message": "No results"
+   },
+   "searcherPlaceholder": {
+      "message": "Search extension"
+   },
+   "showBadgeDesc": {
+      "message": "Show the total number of the temporarily enabled extensions (enabled but unlocked extensions) in the toolbar ico, i.e. extension badge"
+   },
+   "showBadgeName": {
+      "message": "Show Badge:"
+   },
+   "showBadgeNameMenu": {
+      "message": "Badge"
+   },
+   "showCols": {
+      "message": "Columns Number:  "
+   },
+   "showColsMenu": {
+      "message": "Columns"
+   },
+   "showExtName": {
+      "message": "Show Extension Name:"
+   },
+   "showExtNameDesc": {
+      "message": "Show its name when hovering over extension icon"
+   },
+   "showGridMod": {
+      "message": "Grid View"
+   },
+   "showListMod": {
+      "message": "List View"
+   },
+   "showMod": {
+      "message": "Display Mode: "
+   },
+   "showModMenu": {
+      "message": "Mode"
+   },
+   "sizeBig": {
+      "message": "large"
+   },
+   "sizeNormal": {
+      "message": "normal"
+   },
+   "sizeSmall": {
+      "message": "small"
+   },
+   "sortByName": {
+      "message": "Order by name"
+   },
+   "sortByRank": {
+      "message": "Order by enble times"
+   },
+   "speedManageDesc": {
+      "message": "Click once to disable all (except for themes & locked extensions)"
+   },
+   "speedManageLock": {
+      "message": "Click the Extension Icon to Lock/Unlock it:"
+   },
+   "speedManageName": {
+      "message": "Quick Management:"
+   },
+   "supportMenu": {
+      "message": "Support"
+   },
+   "tipResetRank": {
+      "message": "Order reseted !"
+   },
+   "tipSetSuc": {
+      "message": "Settings saved !"
+   },
+   "tipsCon": {
+      "message": "Explore more"
+   },
+   "tipsTitle": {
+      "message": "No installed extensions :-)"
+   },
+   "tipsUrl": {
+      "message": "Chrome Web Store"
+   },
+   "viewSetMenu": {
+      "message": "View"
+   }
+}

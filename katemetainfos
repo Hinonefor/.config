@@ -22,6 +22,30 @@ Mode Set By User=false
 Time=2020,1,11,11,24,57
 URL=file:///etc/bash.bashrc
 
+[file:///etc/profile]
+Bookmarks=
+Checksum=98d59243627808cc5bdc3c2d5f24e65dc511a5aa
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,16,20,32,29
+URL=file:///etc/profile
+
+[file:///home/harold/.bashrc]
+Bookmarks=
+Checksum=a355b0cd3267334cbec1a524ec024d59d5b5e0b2
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,16,20,33,8
+URL=file:///home/harold/.bashrc
+
 [file:///home/harold/.config/polybar/config]
 Bookmarks=
 Checksum=ffb2fab81a59082b347c762f6e21409f56539bbc
@@ -58,6 +82,18 @@ Mode Set By User=false
 Time=2019,12,29,18,38,54
 URL=file:///home/harold/.gnupg/gpg.conf
 
+[file:///home/harold/.xinitrc]
+Bookmarks=
+Checksum=ff65408abb8456304fc682696571ad170fba63d3
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,16,20,33,52
+URL=file:///home/harold/.xinitrc
+
 [file:///home/harold/.zsh_history]
 Bookmarks=
 Checksum=3603dba92a9096a15d6e5b58bbd01495da6ecc80
@@ -72,14 +108,14 @@ URL=file:///home/harold/.zsh_history
 
 [file:///home/harold/.zshrc]
 Bookmarks=
-Checksum=fc470c247e059712cc4a2ed4346495e9a31a2a62
+Checksum=95cb10c9e5ed700509f88fa671a4600c4ad66a5f
 Encoding=UTF-8
 Highlighting=Zsh
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Zsh
 Mode Set By User=false
-Time=2019,12,31,22,0,4
+Time=2020,1,16,20,33,8
 URL=file:///home/harold/.zshrc
 
 [file:///home/harold/Desktop/config/polybar/config]
@@ -94,6 +130,18 @@ Mode Set By User=false
 Time=2019,12,29,19,25,16
 URL=file:///home/harold/Desktop/config/polybar/config
 
+[file:///home/harold/Documents/Bilibili]
+Bookmarks=
+Checksum=da44e41038ffd393b6e563c97af7c3723b96bcfa
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,13,21,19,13
+URL=file:///home/harold/Documents/Bilibili
+
 [file:///home/harold/Documents/zshrc]
 Bookmarks=
 Checksum=5bcbe13a738273a39a6d700628b056ab4f41bcd1
@@ -106,6 +154,18 @@ Mode Set By User=false
 Time=2019,12,31,21,57,43
 URL=file:///home/harold/Documents/zshrc
 
+[file:///home/harold/Downloads/Harold's Blog.html]
+Bookmarks=
+Checksum=508df03f0dde13a78449ddc257429121d63a9b9a
+Encoding=UTF-8
+Highlighting=HTML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=HTML
+Mode Set By User=false
+Time=2020,1,14,10,16,49
+URL=file:///home/harold/Downloads/Harold's Blog.html
+
 [file:///home/harold/Downloads/Pop_OS-GrubTheme/theme.txt]
 Bookmarks=
 Checksum=5f7acdc8a64f0cd0fd44042da3f6c412b02bd337
@@ -117,6 +177,18 @@ Mode=Normal
 Mode Set By User=false
 Time=2020,1,5,13,21,47
 URL=file:///home/harold/Downloads/Pop_OS-GrubTheme/theme.txt
+
+[file:///home/harold/Downloads/dwm-master/config.mk]
+Bookmarks=
+Checksum=4c401592f6f01d4df00a0a52dceb010bc408d75b
+Encoding=UTF-8
+Highlighting=Makefile
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Makefile
+Mode Set By User=false
+Time=2020,1,16,20,28,37
+URL=file:///home/harold/Downloads/dwm-master/config.mk
 
 [file:///home/harold/Downloads/ranger/scope.sh]
 Bookmarks=
@@ -180,14 +252,14 @@ URL=file:///home/harold/default.txt
 
 [file:///home/harold/github token]
 Bookmarks=
-Checksum=2b1c353f9696d057213a0e72de175cef58737a26
+Checksum=2896416efd301cedda791bc57dc5572393d70f03
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2020,1,12,19,55,22
+Time=2020,1,14,10,55,29
 URL=file:///home/harold/github token
 
 [file:///home/harold/scripts/i3exit]
@@ -226,6 +298,42 @@ Mode Set By User=false
 Time=2020,1,5,15,24,54
 URL=file:///home/harold/st/config.h
 
+[file:///home/harold/sunloginclient_for_deepin-master/install.sh]
+Bookmarks=
+Checksum=9b6784738ceb859e6649ec6b386e4c0bb7c70f9c
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,16,11,45,34
+URL=file:///home/harold/sunloginclient_for_deepin-master/install.sh
+
+[file:///home/harold/sunloginclient_for_deepin-master/scripts/common.sh]
+Bookmarks=
+Checksum=35be30095b22e7bc286a4ea27550c44cd2cb21d7
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,16,11,45,16
+URL=file:///home/harold/sunloginclient_for_deepin-master/scripts/common.sh
+
+[file:///home/harold/sunloginclient_for_deepin-master/scripts/depends.sh]
+Bookmarks=
+Checksum=94be3310b0c7ed087a3b90ca22838edb6e27de79
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,16,11,45,2
+URL=file:///home/harold/sunloginclient_for_deepin-master/scripts/depends.sh
+
 [file:///home/harold/zshrc]
 Bookmarks=
 Checksum=080361e88d2a61d8bd6cf51a99486e221a2050dd
@@ -237,3 +345,15 @@ Mode=Normal
 Mode Set By User=false
 Time=2020,1,12,15,56,23
 URL=file:///home/harold/zshrc
+
+[file:///usr/bin/neofetch]
+Bookmarks=
+Checksum=d94945013b67d5ca2594028adcfcd34eaab9720b
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,1,13,21,24,19
+URL=file:///usr/bin/neofetch

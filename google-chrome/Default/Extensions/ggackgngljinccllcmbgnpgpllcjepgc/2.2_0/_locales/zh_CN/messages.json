@@ -1,0 +1,23 @@
+{
+   "global_direction": {
+      "message": "ltr"
+   },
+   "global_float": {
+      "message": "right"
+   },
+   "global_fontFamily": {
+      "message": "auto"
+   },
+   "global_textAlign": {
+      "message": "left"
+   },
+   "manifest_appDescription": {
+      "message": "风车云马一款最佳的网络安全解决方案的产品。可以安全加密您的连接，简单易用的智能上网服务。支持多平台，插件、安卓、苹果和桌面版。"
+   },
+   "manifest_appName": {
+      "message": "风车云马  - 最快，更安全，最好的VPN、代理工具、解封网站"
+   },
+   "manifest_iconTitle": {
+      "message": "[载入中……]"
+   }
+}

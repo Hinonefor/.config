@@ -3,6 +3,7 @@
     "openedPathsList": {
         "workspaces3": [],
         "files2": [
+            "file:///home/harold/.zshrc",
             "file:///home/harold/zshrc"
         ]
     },
@@ -11,10 +12,10 @@
             "backupPath": "/home/harold/.config/Code - Insiders/Backups/1578844615350",
             "uiState": {
                 "mode": 1,
-                "x": 422,
-                "y": 203,
-                "width": 963,
-                "height": 777
+                "x": 965,
+                "y": 44,
+                "width": 945,
+                "height": 1026
             }
         },
         "openedWindows": []
@@ -53,11 +54,21 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/harold/.zshrc",
+                                        "path": "/home/harold/.zshrc",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.zshrc"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -570,8 +581,7 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back",
-                        "enabled": false
+                        "label": "&&Back"
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1462,5 +1472,6 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e1e"
+    "themeBackground": "#1e1e1e",
+    "pickerWorkingDir": "/home/harold"
 }

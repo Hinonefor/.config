@@ -1,6 +1,9 @@
 [Applications][electron]
 Seen=true
 
+[Applications][google-chrome]
+Seen=true
+
 [Applications][hyper]
 Seen=true
 

@@ -26,3 +26,135 @@ b9acce142d1d29d88c632143151849e7|file:///home/harold/.config/i3/config|49|1|v|co
 	bindkey -M vicmd "=" vi-repeat-search
 d385fa8dba9616085b6b60cbf8118636|file:///home/harold/.config/nvim/init.vim|469|1|V|vim
 	"let g:ale_virtualtext_cursor = 1
+cc4323ccc86123ef1b20c4127352108c|file:///home/harold/.config/nvim/init.vim|389|1|V|vim
+	" File navigation
+	"Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
+	"Plug 'Xuyuanp/nerdtree-git-plugin'
+	Plug 'junegunn/fzf.vim'
+	"Plug 'yuki-ycino/fzf-preview.vim'
+	"Plug 'junegunn/fzf', {'dir': '~/.fzf', 'do': './install --all'}
+	"Plug 'junegunn/fzf'
+	Plug 'francoiscabrol/ranger.vim'
+	
+	" Taglist
+	Plug 'liuchengxu/vista.vim'
+	
+	" Error checking, handled by coc
+	
+	" Auto Complete
+	Plug 'neoclide/coc.nvim', {'branch': 'release'}
+	
+	" Snippets
+	Plug 'SirVer/ultisnips'
+	Plug 'honza/vim-snippets'
+	
+	" Undo Tree
+	Plug 'mbbill/undotree'
+	
+	" Git
+	Plug 'theniceboy/vim-gitignore', { 'for': ['gitignore', 'vim-plug'] }
+	Plug 'fszymanski/fzf-gitignore', { 'do': ':UpdateRemotePlugins' }
+	"Plug 'mhinz/vim-signify'
+	Plug 'airblade/vim-gitgutter'
+	
+	" Tex
+	Plug 'lervag/vimtex'
+	
+	" CSharp
+	Plug 'OmniSharp/omnisharp-vim'
+	Plug 'ctrlpvim/ctrlp.vim' , { 'for': ['cs', 'vim-plug'] } " omnisharp-vim dependency
+	
+	" HTML, CSS, JavaScript, PHP, JSON, etc.
+	Plug 'elzr/vim-json'
+	Plug 'hail2u/vim-css3-syntax', { 'for': ['vim-plug', 'php', 'html', 'javascript', 'css', 'less'] }
+	Plug 'spf13/PIV', { 'for' :['php', 'vim-plug'] }
+	Plug 'pangloss/vim-javascript', { 'for': ['vim-plug', 'php', 'html', 'javascript', 'css', 'less'] }
+	Plug 'yuezk/vim-js', { 'for': ['vim-plug', 'php', 'html', 'javascript', 'css', 'less'] }
+	Plug 'MaxMEllon/vim-jsx-pretty', { 'for': ['vim-plug', 'php', 'html', 'javascript', 'css', 'less'] }
+	Plug 'jelera/vim-javascript-syntax', { 'for': ['vim-plug', 'php', 'html', 'javascript', 'css', 'less'] }
+	Plug 'jaxbot/browserlink.vim'
+	
+	" Go
+	Plug 'fatih/vim-go' , { 'for': ['go', 'vim-plug'], 'tag': '*' }
+	
+	" Python
+	Plug 'tmhedberg/SimpylFold', { 'for' :['python', 'vim-plug'] }
+	Plug 'Vimjas/vim-python-pep8-indent', { 'for' :['python', 'vim-plug'] }
+	Plug 'numirias/semshi', { 'do': ':UpdateRemotePlugins', 'for' :['python', 'vim-plug'] }
+	"Plug 'vim-scripts/indentpython.vim', { 'for' :['python', 'vim-plug'] }
+	"Plug 'plytophogy/vim-virtualenv', { 'for' :['python', 'vim-plug'] }
+	Plug 'tweekmonster/braceless.vim'
+	
+	" Markdown
+	Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install_sync() }, 'for' :['markdown', 'vim-plug'] }
+	Plug 'dhruvasagar/vim-table-mode', { 'on': 'TableModeToggle' }
+	Plug 'theniceboy/bullets.vim'
+	
+	" Editor Enhancement
+	"Plug 'Raimondi/delimitMate'
+	Plug 'jiangmiao/auto-pairs'
+	Plug 'terryma/vim-multiple-cursors'
+	Plug 'scrooloose/nerdcommenter' " in <space>cn to comment a line
+	Plug 'AndrewRadev/switch.vim' " gs to switch
+	Plug 'tpope/vim-surround' " type yskw' to wrap the word with '' or type cs'` to change 'word' to `word`
+	Plug 'gcmt/wildfire.vim' " in Visual mode, type k' to select all text in '', or type k) k] k} kp
+	Plug 'junegunn/vim-after-object' " da= to delete what's after =
+	Plug 'junegunn/vim-easy-align' " gaip= to align the = in paragraph, 
+	Plug 'tpope/vim-capslock'	" Ctrl+L (insert) to toggle capslock
+	Plug 'easymotion/vim-easymotion'
+	Plug 'Konfekt/FastFold'
+	Plug 'junegunn/vim-peekaboo'
+	
+	" Input Method Autoswitch
+	"Plug 'rlue/vim-barbaric' " slowing down vim-multiple-cursors
+	
+	" Formatter
+	Plug 'Chiel92/vim-autoformat'
+	
+	" For general writing
+	Plug 'junegunn/goyo.vim'
+	"Plug 'reedes/vim-wordy'
+	"Plug 'ron89/thesaurus_query.vim'
+	
+	" Bookmarks
+	"Plug 'kshenoy/vim-signature'
+	Plug 'MattesGroeger/vim-bookmarks'
+	
+	" Find & Replace
+	Plug 'brooth/far.vim', { 'on': ['F', 'Far', 'Fardo'] }
+	Plug 'osyo-manga/vim-anzu'
+	
+	" Documentation
+	"Plug 'KabbAmine/zeavim.vim' " <LEADER>z to find doc
+	
+	" Mini Vim-APP
+	"Plug 'voldikss/vim-floaterm'
+	"Plug 'liuchengxu/vim-clap'
+	"Plug 'jceb/vim-orgmode'
+	"Plug 'mhinz/vim-startify'
+	Plug 'theniceboy/vim-leader-mapper'
+	
+	" Vim Applications
+	Plug 'itchyny/calendar.vim'
+	
+	" Other visual enhancement
+	Plug 'ryanoasis/vim-devicons'
+	Plug 'luochen1990/rainbow'
+	
+	" Other useful utilities
+	Plug 'tpope/vim-eunuch' " do stuff like :SudoWrite
+	Plug 'makerj/vim-pdf'
+	
+	" Dependencies
+	Plug 'MarcWeber/vim-addon-mw-utils'
+	Plug 'kana/vim-textobj-user'
+	Plug 'roxma/nvim-yarp'
+	Plug 'rbgrouleff/bclose.vim' " For ranger.vim
+	
+	call plug#end()
+	
+	" experimental
+	set lazyredraw
+	"set regexpengine=1
+566c673ba6c9b7998906059f641ee83f|file:///home/harold/.config/dwm/config.h|1|1|v|cpp
+	include <X11/XF86keysym.h>

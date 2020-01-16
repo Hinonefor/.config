@@ -1,0 +1,182 @@
+{
+   "changeViewBtn": {
+      "message": "切换"
+   },
+   "closeAllBtn": {
+      "message": "重置"
+   },
+   "defaultGroupName": {
+      "message": "默认分组"
+   },
+   "emptyShowListCon": {
+      "message": "没有启用的扩展"
+   },
+   "extDesr": {
+      "message": "一键管理所有扩展，快速开启/禁用、批量闪电管理，智能排序，右键卸载、锁定、选项配置，角标提醒，大小布局随心配。快捷、简单、安全。"
+   },
+   "extName": {
+      "message": "扩展管理器（Extension Manager）"
+   },
+   "extNameShort": {
+      "message": "扩展管理器"
+   },
+   "iconSize": {
+      "message": "图标大小："
+   },
+   "iconSizeMenu": {
+      "message": "图标大小"
+   },
+   "newGroupName": {
+      "message": "新分组"
+   },
+   "optionGroupDelete": {
+      "message": "确定要删除该分组吗？"
+   },
+   "optionGroupDeleteAtLeaseOne": {
+      "message": "至少保留一个分组！"
+   },
+   "optionGroupDesc": {
+      "message": "通过分组闪电管理扩展状态，适配不同场景，比如家、公司"
+   },
+   "optionGroupModifyName": {
+      "message": "请输入分组名称，最好请保持在2~6个汉字"
+   },
+   "optionGroupOperat": {
+      "message": "在当前分组下，通过点击扩展图标点亮后进行分组锁定"
+   },
+   "optionGroupTitle": {
+      "message": "分组管理"
+   },
+   "optionGroupTitleMenu": {
+      "message": "分组管理"
+   },
+   "optionName": {
+      "message": "选项配置"
+   },
+   "otherDesc": {
+      "message": "同时，也可以登陆 \u003Ca>Chrome 网上应用店\u003C/a> 给予好评 或 提供支持性建议"
+   },
+   "otherDonate": {
+      "message": "如果您对它还算满意，可以给予我一点赞赏，激励我持续免费的完善它 :-)"
+   },
+   "otherName": {
+      "message": "支持："
+   },
+   "rankBtn": {
+      "message": "重置排序"
+   },
+   "rankName": {
+      "message": "扩展排序："
+   },
+   "rankNameMenu": {
+      "message": "扩展排序"
+   },
+   "rightAppLaunch": {
+      "message": "运行"
+   },
+   "rightHomepage": {
+      "message": "主页"
+   },
+   "rightLock_lock": {
+      "message": "锁定"
+   },
+   "rightLock_unlock": {
+      "message": "解锁"
+   },
+   "rightMoreDesc": {
+      "message": "在扩展图标上右键可操作更多功能"
+   },
+   "rightMoreName": {
+      "message": "右键菜单："
+   },
+   "rightOption": {
+      "message": "选项"
+   },
+   "rightUninstall": {
+      "message": "卸载"
+   },
+   "searcherEmpty": {
+      "message": "没有找到相关扩展或应用"
+   },
+   "searcherPlaceholder": {
+      "message": "搜索扩展"
+   },
+   "showBadgeDesc": {
+      "message": "通过角标显示临时启用的扩展数量(已经启用，但未被锁定）"
+   },
+   "showBadgeName": {
+      "message": "显示角标："
+   },
+   "showBadgeNameMenu": {
+      "message": "显示角标"
+   },
+   "showCols": {
+      "message": "显示列数："
+   },
+   "showColsMenu": {
+      "message": "显示列数"
+   },
+   "showExtName": {
+      "message": "显示扩展名："
+   },
+   "showExtNameDesc": {
+      "message": "鼠标滑过扩展图标时显示其名称"
+   },
+   "showGridMod": {
+      "message": "网格视图"
+   },
+   "showListMod": {
+      "message": "列表视图"
+   },
+   "showMod": {
+      "message": "显示模式："
+   },
+   "showModMenu": {
+      "message": "显示模式"
+   },
+   "sizeBig": {
+      "message": "放大"
+   },
+   "sizeNormal": {
+      "message": "标准"
+   },
+   "sizeSmall": {
+      "message": "缩小"
+   },
+   "sortByName": {
+      "message": "根据扩展名称排序"
+   },
+   "sortByRank": {
+      "message": "根据开启频率排序"
+   },
+   "speedManageDesc": {
+      "message": "一键禁用全部扩展（已被锁定的扩展+主题插件除外）"
+   },
+   "speedManageLock": {
+      "message": "点击下面的图标“锁定”或“解锁”扩展"
+   },
+   "speedManageName": {
+      "message": "闪电管理："
+   },
+   "supportMenu": {
+      "message": "支持"
+   },
+   "tipResetRank": {
+      "message": "已重置排序！"
+   },
+   "tipSetSuc": {
+      "message": "设置成功！"
+   },
+   "tipsCon": {
+      "message": "去逛一逛"
+   },
+   "tipsTitle": {
+      "message": "未安装任何扩展 :-)"
+   },
+   "tipsUrl": {
+      "message": "Chrome 网上应用店"
+   },
+   "viewSetMenu": {
+      "message": "视图设置"
+   }
+}

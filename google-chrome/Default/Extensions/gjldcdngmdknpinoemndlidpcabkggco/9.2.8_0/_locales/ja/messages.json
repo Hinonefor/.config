@@ -1,0 +1,182 @@
+{
+   "changeViewBtn": {
+      "message": "切り替え"
+   },
+   "closeAllBtn": {
+      "message": "リセット"
+   },
+   "defaultGroupName": {
+      "message": "デフォルト"
+   },
+   "emptyShowListCon": {
+      "message": "拡張機能が有効になっていません"
+   },
+   "extDesr": {
+      "message": "オン/オフ迅速なすべての拡張機能を管理するためのキー、高速バッチ管理、インテリジェントな仕分け、右無負荷、ロックされ、コンフィギュレーションオプションは、心を思い出させたサイズのレイアウトを添字。、高速、シンプルで安全な。"
+   },
+   "extName": {
+      "message": "拡張機能マネージャー"
+   },
+   "extNameShort": {
+      "message": "拡張機能マネージャー"
+   },
+   "iconSize": {
+      "message": "アイコン サイズ："
+   },
+   "iconSizeMenu": {
+      "message": "アイコン サイズ"
+   },
+   "newGroupName": {
+      "message": "新しいグループ化"
+   },
+   "optionGroupDelete": {
+      "message": "このグループを削除してもよろしいですか？"
+   },
+   "optionGroupDeleteAtLeaseOne": {
+      "message": "少なくとも1つのグループを維持してください！"
+   },
+   "optionGroupDesc": {
+      "message": "家や会社などの雷管理をグループ化して、さまざまなシナリオに対応"
+   },
+   "optionGroupModifyName": {
+      "message": "グループ名を入力してください"
+   },
+   "optionGroupOperat": {
+      "message": "現在のグループ化では、拡張アイコンをクリックして照明後にグループをロックします"
+   },
+   "optionGroupTitle": {
+      "message": "グループ管理"
+   },
+   "optionGroupTitleMenu": {
+      "message": "グループ管理"
+   },
+   "optionName": {
+      "message": "オプション"
+   },
+   "otherDesc": {
+      "message": "同時に、\u003Ca>Chrome ウェブストア\u003C/a>で好意的なコメントをしたり、サポート提案を投稿したりすることもできます。"
+   },
+   "otherDonate": {
+      "message": "あなたがそれに満足しているならば、あなたは私にいくらかの感謝を与えて、無料でそれを改善し続けるように私に励ますことができます:-)"
+   },
+   "otherName": {
+      "message": "サポート："
+   },
+   "rankBtn": {
+      "message": "リセット"
+   },
+   "rankName": {
+      "message": "自動並べ替え："
+   },
+   "rankNameMenu": {
+      "message": "自動並べ替え"
+   },
+   "rightAppLaunch": {
+      "message": "スタート"
+   },
+   "rightHomepage": {
+      "message": "ホーム"
+   },
+   "rightLock_lock": {
+      "message": "ロッキング"
+   },
+   "rightLock_unlock": {
+      "message": "アンロック"
+   },
+   "rightMoreDesc": {
+      "message": "拡張アイコンを右作動より多くの機能"
+   },
+   "rightMoreName": {
+      "message": "右メニュー："
+   },
+   "rightOption": {
+      "message": "オプション"
+   },
+   "rightUninstall": {
+      "message": "卸売"
+   },
+   "searcherEmpty": {
+      "message": "結果がありません"
+   },
+   "searcherPlaceholder": {
+      "message": "検索拡張"
+   },
+   "showBadgeDesc": {
+      "message": "添字で有効になって一時的な拡張子の数を示す（有効にしますが、ロックされていません）"
+   },
+   "showBadgeName": {
+      "message": "視野角マーク："
+   },
+   "showBadgeNameMenu": {
+      "message": "視野角マーク"
+   },
+   "showCols": {
+      "message": "ディスプレイ列数："
+   },
+   "showColsMenu": {
+      "message": "ディスプレイ列数"
+   },
+   "showExtName": {
+      "message": "表示拡張機能："
+   },
+   "showExtNameDesc": {
+      "message": "アイコンの拡大の上にマウスの名前を表示します"
+   },
+   "showGridMod": {
+      "message": "グリッド表示"
+   },
+   "showListMod": {
+      "message": "リストビュー"
+   },
+   "showMod": {
+      "message": "表示モード："
+   },
+   "showModMenu": {
+      "message": "表示モード"
+   },
+   "sizeBig": {
+      "message": "大きい"
+   },
+   "sizeNormal": {
+      "message": "普通"
+   },
+   "sizeSmall": {
+      "message": "小さい"
+   },
+   "sortByName": {
+      "message": "拡張名で並べ替え"
+   },
+   "sortByRank": {
+      "message": "開始頻度に応じてソートする"
+   },
+   "speedManageDesc": {
+      "message": "すべての拡張機能を無効にするボタン（拡張子がロックされている場合を除き+テーマプラグイン）"
+   },
+   "speedManageLock": {
+      "message": "拡張機能をロック/アンロックしたいときは対応のアイコンをクリックしてください："
+   },
+   "speedManageName": {
+      "message": "速整理："
+   },
+   "supportMenu": {
+      "message": "サポート"
+   },
+   "tipResetRank": {
+      "message": "リセットしました！"
+   },
+   "tipSetSuc": {
+      "message": "セッティング応用されました！"
+   },
+   "tipsCon": {
+      "message": "の周りに行きます"
+   },
+   "tipsTitle": {
+      "message": "他の拡張機能をインストールしません :-)"
+   },
+   "tipsUrl": {
+      "message": "Chrome ウェブストア"
+   },
+   "viewSetMenu": {
+      "message": "設定を表示"
+   }
+}

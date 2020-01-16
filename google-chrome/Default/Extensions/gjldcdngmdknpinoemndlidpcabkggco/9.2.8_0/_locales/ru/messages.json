@@ -1,0 +1,182 @@
+{
+   "changeViewBtn": {
+      "message": "переключатель"
+   },
+   "closeAllBtn": {
+      "message": "сброс"
+   },
+   "defaultGroupName": {
+      "message": "дефолт"
+   },
+   "emptyShowListCon": {
+      "message": "Расширение не включен"
+   },
+   "extDesr": {
+      "message": "Ключ для управления всеми расширениями, быстро вкл выкл, молния управление партиями, интеллектуальная сортировка, правильно выгружается, запертый, параметры конфигурации, нижний индекс напомнило макет / размера с сердцем. Быстро, просто и безопасно."
+   },
+   "extName": {
+      "message": "Extension Manager"
+   },
+   "extNameShort": {
+      "message": "Extension Manager"
+   },
+   "iconSize": {
+      "message": "Размер иконок:"
+   },
+   "iconSizeMenu": {
+      "message": "размер"
+   },
+   "newGroupName": {
+      "message": "Новая группировка"
+   },
+   "optionGroupDelete": {
+      "message": "Вы действительно хотите удалить эту группу?"
+   },
+   "optionGroupDeleteAtLeaseOne": {
+      "message": "Держите хотя бы одну группу!"
+   },
+   "optionGroupDesc": {
+      "message": "Приспосабливайтесь к различным сценариям, группируя управление молнией, например, дома и компании"
+   },
+   "optionGroupModifyName": {
+      "message": "Введите название группы"
+   },
+   "optionGroupOperat": {
+      "message": "При текущей группировке блокировка группы после освещения путем нажатия значка расширения"
+   },
+   "optionGroupTitle": {
+      "message": "Управление группой"
+   },
+   "optionGroupTitleMenu": {
+      "message": "группа"
+   },
+   "optionName": {
+      "message": "параметры конфигурации"
+   },
+   "otherDesc": {
+      "message": "В то же время вы можете оставить положительный комментарий или предложить поддержку в \u003Ca>Интернет-магазин Chrome\u003C/a>"
+   },
+   "otherDonate": {
+      "message": "Если вас это устраивает, вы можете сделать мне пожертвование и посоветовать мне продолжать улучшать его бесплатно :-)"
+   },
+   "otherName": {
+      "message": "поддержка："
+   },
+   "rankBtn": {
+      "message": "Сбросить"
+   },
+   "rankName": {
+      "message": "Авто-сортировка:"
+   },
+   "rankNameMenu": {
+      "message": "Авто-сортировка"
+   },
+   "rightAppLaunch": {
+      "message": "начало"
+   },
+   "rightHomepage": {
+      "message": "Домашняя страница"
+   },
+   "rightLock_lock": {
+      "message": "Заблокировать"
+   },
+   "rightLock_unlock": {
+      "message": "Разблокировать"
+   },
+   "rightMoreDesc": {
+      "message": "Клик правой клавишей по увеличенной иконке для использования большего количества функций"
+   },
+   "rightMoreName": {
+      "message": "Клик правой клавишей"
+   },
+   "rightOption": {
+      "message": "Параметры"
+   },
+   "rightUninstall": {
+      "message": "Удалить"
+   },
+   "searcherEmpty": {
+      "message": "Нет результатов"
+   },
+   "searcherPlaceholder": {
+      "message": "Найди расширение"
+   },
+   "showBadgeDesc": {
+      "message": "Показывать количество включенных расширений (кроме заблокированных)"
+   },
+   "showBadgeName": {
+      "message": "Показывать значок:"
+   },
+   "showBadgeNameMenu": {
+      "message": "знак"
+   },
+   "showCols": {
+      "message": "Показать колонки:"
+   },
+   "showColsMenu": {
+      "message": "ряд"
+   },
+   "showExtName": {
+      "message": "Показывать название:"
+   },
+   "showExtNameDesc": {
+      "message": "Отображать название при наведении мышки на иконку расширения"
+   },
+   "showGridMod": {
+      "message": "Вид сетки"
+   },
+   "showListMod": {
+      "message": "Представление списка"
+   },
+   "showMod": {
+      "message": "Режим отображения:"
+   },
+   "showModMenu": {
+      "message": "режим"
+   },
+   "sizeBig": {
+      "message": "большие"
+   },
+   "sizeNormal": {
+      "message": "нормальные"
+   },
+   "sizeSmall": {
+      "message": "маленькие"
+   },
+   "sortByName": {
+      "message": "Сортировать по имени расширения"
+   },
+   "sortByRank": {
+      "message": "Сортировать по частоте открытия"
+   },
+   "speedManageDesc": {
+      "message": "Кнопка для отключения всех расширений (кроме тем и заблокированых расширений)"
+   },
+   "speedManageLock": {
+      "message": "Клик по иконке блокирует/разблокирует расширение"
+   },
+   "speedManageName": {
+      "message": "Быстрое управление:"
+   },
+   "supportMenu": {
+      "message": "поддержка"
+   },
+   "tipResetRank": {
+      "message": "большие успеха!"
+   },
+   "tipSetSuc": {
+      "message": "Установка успеха!"
+   },
+   "tipsCon": {
+      "message": "идти"
+   },
+   "tipsTitle": {
+      "message": "Не устанавливать другие расширения :-)"
+   },
+   "tipsUrl": {
+      "message": "Интернет-магазин Chrome"
+   },
+   "viewSetMenu": {
+      "message": "вид"
+   }
+}

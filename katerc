@@ -7,6 +7,11 @@ Show Menu Bar=true
 Show Status Bar=true
 Show Tab Bar=true
 
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/Bilibili,file:$HOME/.xinitrc,file:$HOME/.bashrc,file:$HOME/.zshrc,file:///etc/profile,file:///usr/bin/neofetch
+Recent URLs[$e]=file:///etc/,file:///run/media/harold/94DE2F1DDE2EF760/
+detailViewIconSize=0
+
 [KTextEditor Document]
 Allow End of Line Detection=true
 BOM=false

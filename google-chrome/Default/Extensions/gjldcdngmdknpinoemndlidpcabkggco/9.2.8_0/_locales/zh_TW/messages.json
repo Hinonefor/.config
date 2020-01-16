@@ -1,0 +1,182 @@
+{
+   "changeViewBtn": {
+      "message": "切換"
+   },
+   "closeAllBtn": {
+      "message": "重置"
+   },
+   "defaultGroupName": {
+      "message": "默認分組"
+   },
+   "emptyShowListCon": {
+      "message": "沒有啟用的擴展"
+   },
+   "extDesr": {
+      "message": "一鍵管理所有擴充功能，快速開啟/禁用、批量閃電管理，智能排序，右鍵卸載、鎖定、選項配置，角標提醒，大小佈局隨心配。快捷、簡單、安全。"
+   },
+   "extName": {
+      "message": "擴充功能/擴展管理器（Extension Manager）"
+   },
+   "extNameShort": {
+      "message": "擴充功能/擴展管理器"
+   },
+   "iconSize": {
+      "message": "圖標大小："
+   },
+   "iconSizeMenu": {
+      "message": "圖標大小"
+   },
+   "newGroupName": {
+      "message": "新分组"
+   },
+   "optionGroupDelete": {
+      "message": "確定要刪除該分組嗎？"
+   },
+   "optionGroupDeleteAtLeaseOne": {
+      "message": "至少保留一個分組！"
+   },
+   "optionGroupDesc": {
+      "message": "通過分組閃電管理擴展狀態，適配不同場景，比如家、公司"
+   },
+   "optionGroupModifyName": {
+      "message": "請輸入分組名稱，最好請保持在2~6個漢字"
+   },
+   "optionGroupOperat": {
+      "message": "在當前分組下，通過點擊擴展圖標點亮後進行分組鎖定"
+   },
+   "optionGroupTitle": {
+      "message": "分組管理"
+   },
+   "optionGroupTitleMenu": {
+      "message": "分組管理"
+   },
+   "optionName": {
+      "message": "選項配置"
+   },
+   "otherDesc": {
+      "message": "同時，也可以登陸 \u003Ca>Chrome 線上應用程式商店\u003C/a> 給予好評 或 提供支持性建議"
+   },
+   "otherDonate": {
+      "message": "如果您對它還算滿意，可以給予我一點讚賞，激勵我持續免費的完善它 :-)"
+   },
+   "otherName": {
+      "message": "支持："
+   },
+   "rankBtn": {
+      "message": "重置排序"
+   },
+   "rankName": {
+      "message": "擴展排序："
+   },
+   "rankNameMenu": {
+      "message": "擴展排序"
+   },
+   "rightAppLaunch": {
+      "message": "啟動"
+   },
+   "rightHomepage": {
+      "message": "主頁"
+   },
+   "rightLock_lock": {
+      "message": "鎖定"
+   },
+   "rightLock_unlock": {
+      "message": "解鎖"
+   },
+   "rightMoreDesc": {
+      "message": "在擴展圖標上右鍵可操作更多功能"
+   },
+   "rightMoreName": {
+      "message": "右鍵菜單："
+   },
+   "rightOption": {
+      "message": "選項"
+   },
+   "rightUninstall": {
+      "message": "刪除"
+   },
+   "searcherEmpty": {
+      "message": "沒有找到相關擴展或應用"
+   },
+   "searcherPlaceholder": {
+      "message": "搜索擴展"
+   },
+   "showBadgeDesc": {
+      "message": "通過角標顯示臨時啟用的擴展數量(已經啟用，但未被鎖定）"
+   },
+   "showBadgeName": {
+      "message": "顯示角標："
+   },
+   "showBadgeNameMenu": {
+      "message": "顯示角標"
+   },
+   "showCols": {
+      "message": "顯示列數："
+   },
+   "showColsMenu": {
+      "message": "顯示列數"
+   },
+   "showExtName": {
+      "message": "顯示名称："
+   },
+   "showExtNameDesc": {
+      "message": "鼠標滑過擴充功能圖標時顯示其名稱"
+   },
+   "showGridMod": {
+      "message": "網格視圖"
+   },
+   "showListMod": {
+      "message": "列表視圖"
+   },
+   "showMod": {
+      "message": "顯示模式："
+   },
+   "showModMenu": {
+      "message": "顯示模式"
+   },
+   "sizeBig": {
+      "message": "放大"
+   },
+   "sizeNormal": {
+      "message": "標準"
+   },
+   "sizeSmall": {
+      "message": "縮小"
+   },
+   "sortByName": {
+      "message": "根據擴展名稱排序"
+   },
+   "sortByRank": {
+      "message": "根據開啟頻率排序"
+   },
+   "speedManageDesc": {
+      "message": "一鍵禁用全部擴展（已被鎖定的擴展+主題插件除外）"
+   },
+   "speedManageLock": {
+      "message": "點擊下面的圖標“鎖定”或“解鎖”擴展"
+   },
+   "speedManageName": {
+      "message": "閃電管理："
+   },
+   "supportMenu": {
+      "message": "支持"
+   },
+   "tipResetRank": {
+      "message": "已重置排序！"
+   },
+   "tipSetSuc": {
+      "message": "設置成功！"
+   },
+   "tipsCon": {
+      "message": "去逛一逛"
+   },
+   "tipsTitle": {
+      "message": "未安裝任何擴展 :-)"
+   },
+   "tipsUrl": {
+      "message": "Chrome 線上應用程式商店"
+   },
+   "viewSetMenu": {
+      "message": "視圖設置"
+   }
+}

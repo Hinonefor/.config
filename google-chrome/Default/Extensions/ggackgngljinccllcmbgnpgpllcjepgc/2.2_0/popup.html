@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="assets/styles/font-awesome.min.css"/>
+	<link rel="stylesheet" href="assets/styles/main.css"/>
+	<link rel="stylesheet" href="assets/styles/popup.css"/>
+    
+    <title>风车</title>
+</head>
+<body style="overflow-x: hidden;">
+<div class="wrapper"  >
+	<div id="header" ><span class="website" data-toggle="tooltip" data-placement="bottom" title="访问官网">WindmillVPN<small id="ext-version"></small></span>
+			<i class="fa fa-whatsapp service" data-toggle="tooltip" data-placement="left" title="在线客服"></i>
+			<i class="fa fa-question-circle help-page" data-toggle="tooltip" data-placement="right" title="帮助页面"></i>
+	</div>
+	
+	 <section class="login-content">
+      <div class="login-box">
+        <div class="login-form"  >
+          <h3 class="login-head"><i class="fa fa-lg fa-fw fa-user"></i>登入</h3>
+          <div class="form-group">
+            <label class="control-label">账号</label>
+            <input id="login-email" class="form-control" type="text" placeholder="Email" autofocus="">
+          </div>
+          <div class="form-group">
+            <label class="control-label">密码</label>
+            <input id="login-pwd" class="form-control" type="password" placeholder="Password">
+          </div>
+          <div class="form-group">
+            <div class="utility">
+              <div class="animated-checkbox">
+                <a class="semibold-text change-page" id="reg-link" data-toggle="reg">
+                   <span class="label-text">注册账号</span>
+                </a>
+              </div>
+              <p class="semibold-text mb-0"><a id="forget-password">忘记密码 ?</a></p>
+            </div>
+          </div>
+          <div class="form-group btn-container">
+            <button id="login-btn" class="btn btn-primary btn-block"><i class="fa fa-sign-in fa-lg fa-fw"></i>登入</button>
+          </div> 
+          <p class="text-danger bottom-text" style="text-align: center;">如有问题，请联系我们：windmillvpn@gmail.com</p>
+        </div> 
+        
+<!--         <div class="forget-form"  >
+          <h3 class="login-head"><i class="fa fa-lg fa-fw fa-lock"></i>忘记密码 ?</h3>
+          <div class="form-group">
+            <label class="control-label">账号</label>
+            <input id="findPwd-email" class="form-control" type="text" placeholder="Email">
+          </div>
+          <div class="form-group btn-container">
+            <button id="findPwd-btn" class="btn btn-primary btn-block"><i class="fa fa-unlock fa-lg fa-fw"></i>重置</button>
+          </div>
+          <div class="form-group mt-20">
+            <p class="semibold-text mb-0"><a class="change-page" data-toggle="flip"><i class="fa fa-angle-left fa-fw"></i> 返回登入</a></p>
+          </div>
+        </div> -->
+        
+        <div class="reg-form forget-form"  >
+          <h3 class="login-head"><i class="fa fa-lg fa-fw fa-user-plus"></i>注册账号</h3>
+          <span class="text-danger">某些邮箱（hotmail,outlook,cloud）可能收不到邮件。若没收到激活邮件，请发邮件到windmillvpn@gmail.com协助激活。</span>
+          <div class="form-group">
+            <input id="reg-email" class="form-control" type="text" placeholder="账号/Email">
+          </div>
+          <div class="form-group">
+            <input id="reg-pwd" class="form-control" type="password" placeholder="密码/Password">
+          </div>
+          <div class="form-group">
+            <input id="reg-pwd2" class="form-control" type="password" placeholder="确认密码/Password again">
+          </div>
+          <div class="form-group">
+            <input id="reg-code" class="form-control" type="text" placeholder="邀请码(选填)/optional">
+          </div>
+          <div class="form-group">
+            <input id="auth-code" class="form-control" type="text" placeholder="验证码/Auth code">
+          </div>
+          <div class="form-group">
+            <img id="active-code"  style="cursor: pointer;">
+          </div>
+          <div class="form-group btn-container">
+            <button id="reg-btn" class="btn btn-primary btn-block"><i class="fa fa-user-plus fa-lg fa-fw"></i>注册</button>
+          </div>
+          <div style=" float:right; "><p class="semibold-text mb-0 bottom-text"><a id="not-received-email">没收到邮件？</a></p></div>
+          <div class="form-group mt-20">
+            <p class="semibold-text mb-0"><a class="change-page" data-toggle="flip"><i class="fa fa-angle-left fa-fw"></i> 返回登入</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+	
+	<div class="main-page" style="display: none;">
+	<div class="overlay">
+	<div id="ext-loading" class="loading">
+		<div class="m-loader mr-20">
+        <svg class="m-circular" viewBox="25 25 50 50">
+        	<circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="4" stroke-miterlimit="10"></circle>
+        </svg>
+      </div>
+      <h4 class="l-text">正在登入...</h4>
+	</div>
+	<div id="err-loading" class="loading hide">
+     	<h4 class="l-text"><i class="fa fa-exclamation-circle"></i><span></span></h4>
+	</div>
+      
+    </div>
+	<div class="content-wrapper"  >
+	<div class="content-page" id="home-page">
+		<p style="color:#2196F3;" class="hide" id="tips-p"><i class="fa fa-info-circle"></i> <span></span></p>
+       <div class="card">
+       			<div class="card-title-w-btn">
+	                <h5 class="title">域名管理</h5>
+	                <div class="btn-group"><a href="#" class="switch-page" switch-page="domain"><i class="fa fa-lg fa-chevron-circle-right"></i></a></div>
+              	</div>
+       		
+       			<div class="card-content">
+	       			<div><b class="text-primary" id="current-domain-label">添加当前域名到个人列表</b></div>
+					<div class="input-group">
+                   		<input class="form-control" id="current-domain" type="text" readonly="readonly" value=""><span class="input-group-btn">
+                     	<button class="btn btn-success" type="button" id="add-domain1"><i class="fa fa-plus"></i></button></span>
+                 	</div>   		
+       			</div>
+       </div>
+       <div class="card">
+       		<div>
+       			<div class="card-title-w-btn">
+                <h5 class="title">模式|节点</h5>
+              </div>
+       			
+       			<div class="card-content">	
+       				<!-- <p><label class="text-primary" >模式选择</label></p> -->
+       				<div class="btn-group btn-group-justified">
+	       				<a id="NModel" class="btn btn-success model" href="#">科学<i class="active fa fa-check-square"></i></a>
+	       				<a id="AModel" class="btn btn-warning model" href="#">全局<i class="active fa fa-check-square"></i></a>
+	       				<a id="CModel" class="btn btn-default model" href="#">关闭<i class="active fa fa-check-square"></i></a>
+       				</div>
+					<div class="input-group">
+                   		<input class="form-control" type="text" readonly="readonly" id="select-node" value="请选择节点"><span class="input-group-btn">
+                     	<button class="btn btn-success switch-page" type="button" switch-page="node" ><i class="fa fa-chevron-circle-right"></i></button></span>
+                 	</div>   		
+       			</div>
+       		</div>
+       	
+       </div>
+       <div class="card" style="margin-bottom: 0px !important;">
+       		<div>
+       			<div class="card-title-w-btn">
+	                <h5 class="title">个人信息</h5>
+	                <div class="btn-group">
+	                <a href="#" class="refresh-user"><i class="fa fa-lg fa-refresh"></i></a>
+	                <a href="#" class="switch-page" switch-page="user"><i class="fa fa-lg fa-chevron-circle-right"></i></a>
+	                </div>	
+              	</div>
+       			
+       			<div class="card-content">	
+       				<ul class="list-group personal-info">
+	       				<li class="list-group-item active"><b class="user-email"></b><i class="fa fa-sign-out logout" data-toggle="tooltip" data-placement="left" title="退出账号"></i></li>
+	       				<li class="list-group-item"><span class="btn label label-primary pull-right personal-home" delayAction="purchase">购买</span><span class="badge vip-time"></span>VIP到期</li>
+	       				<li class="list-group-item"><span id="checkin-btn"  class="checkin-btn btn label label-warning pull-right ">签到</span><span class="badge free-time"></span>免费到期</li>
+	       				<li class="list-group-item"><span class="btn label label-primary pull-right switch-page" switch-page="user">兑换</span><span class="badge integral"></span>可用积分 <b class="text-primary">(可兑换<span  id="exchange-days">0</span>天VIP)</b></li>
+       				</ul>
+       				<!-- <p class="text-muted info-p"><label >Email:<b ></b></label></p>
+       				<p class="text-muted info-p"><label >VIP时间:<b class="vip-time"></b></label><span class="btn label label-primary pull-right">购买</span></p>
+       				<p class="text-muted info-p"><label >免费时间:<b class="free-time"></b></label><span class="btn label label-primary pull-right">签到</span></p>
+       				<p class="text-muted info-p"><label >积分：<b class="integral"></b></label><span class="btn label label-primary pull-right">兑换</span></p> -->
+       			</div>
+       		</div>
+       	
+       </div>
+      </div>
+      
+      <div class="content-page hide" id="node-page">
+       <div class="card">
+       			<div class="card-title-w-btn center">
+       				<div class="btn-group"><a href="#" class="back-home" ><i class="fa fa-lg fa-arrow-left"></i></a></div>
+	                <h5 class="title">节点选择</h5>
+	                <div class="btn-group" ><a href="#" class="refresh-node"><i class="fa fa-lg fa-refresh"></i></a></div>
+              	</div>
+       			<div class="card-content">
+       				<div class="bs-component">
+		       				<div class="toggle-flip" style="height: 30px; line-height: 30px;"> 
+		       				<b>当前节点模式</b><b style="color:red">(点击按钮切换)</b>
+		       				<label style="float:right"> <input type="checkbox" id="node-model"><span id="node-enabled-span" class="flip-indecator" data-toggle-on="自动选择" data-toggle-off="手动选择"></span> </label>
+	                  		</div>
+                    </div>
+               	</div>
+       			<div class="card-content ">
+	       			<div class="bs-component">
+                      <ul class="list-group node-content" id="node-content">
+                      </ul>
+                      <!-- 1.您的免费时间已用完，请明天再来签到吧！2.请签到获取免费时间来使用免费节点！ -->
+                      <div id="checkin-message"><b class="text-primary"></b><span  class="checkin-btn btn label label-warning hide">签到</span></div>
+                    </div>	
+       			</div>
+       </div>
+       </div>
+      
+      <div class="content-page hide" id="domain-page">
+       <div class="card">
+       			<div class="card-title-w-btn center">
+       				<div class="btn-group"><a href="#" class="back-home" ><i class="fa fa-lg fa-arrow-left"></i></a></div>
+	                <h5 class="title">域名管理</h5>
+	                <div class="btn-group" ><a href="#" class="refresh-domain" ><i class="fa fa-lg fa-refresh"></i></a></div>
+              	</div>
+       		
+       			<div class="card-content ">
+	       			<div class="bs-component">
+		       				<div class="toggle-flip" style="height: 30px; line-height: 30px;"> 
+		       				<b>系统域名状态</b>
+		       				<label style="float:right"> <input type="checkbox" id="sys-enabled"><span id="enabled-span" class="flip-indecator" data-toggle-on="已开启" data-toggle-off="已关闭"></span> </label>
+	                  		</div>
+                    </div>	
+       			</div>
+       			<div class="card-content ">
+	       			<div class="bs-component">
+	                    <div class="input-group">
+	                   		<input class="form-control" type="text"   placeHolder="查找、添加个人域名" id="input-domain"><span class="input-group-btn">
+	                     	<button class="btn btn-info " type="button" id="query-domain"><i class="fa fas fa-search"></i></button> 
+	                     	<button class="btn btn-success " type="button" id="add-domain2" ><i class="fa fa-plus"></i></button></span>
+	                 	</div>
+	                    <ul class="list-group" id="domain-list">
+	                       <!--  <li class="list-group-item domain-item">
+	                        <div class="read-mode"><i class="fa fa-trash"></i><i class="fa fa-edit"></i><span class="domain-text"></span></div><div class="edit-mode hidden"><input class="domain-input" spellcheck="false" type="text" value="www.baidu.com"><i class="fa fa-ban"></i><i class="fa fa-check"></i></div>
+	                        </li> -->
+	                      </ul>
+                    </div>
+       			</div>
+       </div>
+       </div>
+      
+      <div class="content-page hide" id="user-page">
+       <div class="card">
+       			<div class="card-title-w-btn center">
+       				<div class="btn-group"><a href="#" class="back-home" ><i class="fa fa-lg fa-arrow-left"></i></a></div>
+	                <h5 class="title">个人信息</h5>
+	                <div class="btn-group" ><a href="#" class="refresh-user"><i class="fa fa-lg fa-refresh"></i></a></div>
+              	</div>
+       			<div class="card-content ">
+	       			<div class="bs-component">
+	       				<div class="widget-small primary">
+                   		<i class="icon fa fa-user fa-2x" style="min-width: 30px;padding: 5px;"></i>
+			              <div class="info">
+			                <span class="user-email"></span>
+			              </div>
+			            </div>
+	                    <div class="input-group">
+	                   		<input class="form-control" type="number" id="exchang-input" max="100" min="1"  placeHolder="积分兑换(#1#积分=1天VIP)" >
+	                   		<span class="input-group-btn"><button class="btn btn-success " id="exchang-btn" type="button" ><i class="fa fa-exchange"></i></button></span>
+	                 	</div>
+	                    <ul class="list-group"  >
+	                        <li class="list-group-item  ">
+	                        	<span class="badge integral"></span>我的积分
+	                        </li>
+	                        <li class="list-group-item  ">
+	                        	<span class="badge vip-time"></span>VIP到期
+	                        </li>
+	                        <li class="list-group-item  ">
+	                        	<span class="badge invite-code"></span>我的邀请码
+	                        </li>
+	                        <li class="list-group-item  hover-item personal-home" delayAction="purchase">
+	                        	 购买套餐
+	                        	 <i class="fa fa-shopping-cart"></i>
+	                        </li>
+	                        <li class="list-group-item  hover-item personal-home" delayAction="modifyPWD">
+	                        	修改密码
+	                        	<i class="fa fa-unlock-alt"></i>
+	                        </li>
+	                        <li class="list-group-item  hover-item logout">
+	                        	退出登入
+	                        	<i class="fa fa-sign-out"></i>
+	                        </li>
+                      	</ul>
+                    </div>
+       			</div>
+       </div>
+       </div>
+      
+	</div>
+	<div class="footer">
+		<ul class="nav nav-tabs">
+	       <li class="page-tab switch-page" switch-page="node" id="node-tab"><a href="#">节点选择</a></li>
+	       <li class="page-tab switch-page" switch-page="domain" id="domain-tab"><a href="#">域名管理</a></li>
+	       <li class="page-tab switch-page" switch-page="user" id="user-tab"><a href="#">个人信息</a></li>
+	       <li class="page-tab personal-home"><a href="#">个人主页</a></li>
+		</ul>
+	</div>
+	</div>
+</div>
+<div id="model-tip" class="NModel-tip" >
+<div id="tooltip-content"></div>
+</div>
+<script type="text/javascript" src="assets/libs/jquery-2.1.3.min.js"></script>
+<script src="assets/libs/md5.js" type="text/javascript"></script>
+<script type="text/javascript" src="assets/libs/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/libs/bootstrap-notify.min.js"></script>
+<script type="text/javascript" src="assets/libs/pace.min.js"></script>
+<script type="text/javascript" src="assets/libs/main.js"></script>
+<script type="text/javascript" src="assets/scripts/popup.js"></script>
+</body>
+</html>

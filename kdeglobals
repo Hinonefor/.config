@@ -147,7 +147,7 @@ Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=false
+Show hidden files=true
 Sort by=Name
 Sort directories first=true
 Sort reversed=false
@@ -156,7 +156,7 @@ View Style=DetailTree
 
 [KScreen]
 ScaleFactor=1
-ScreenScaleFactors=default=1;
+ScreenScaleFactors=eDP1=1;HDMI1=1;VIRTUAL1=1;
 
 [KShortcutsDialog Settings]
 Dialog Size=600,480

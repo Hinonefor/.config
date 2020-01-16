@@ -1,18 +1,18 @@
-2020/01/13-18:49:24.238 9661 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2020/01/13-18:49:24.239 9661 Recovering log #84
-2020/01/13-18:49:24.240 9661 Reusing old log /home/harold/.config/google-chrome/Default/Extension State/000084.log 
-2020/01/13-18:52:27.470 98fc Level-0 table #88: started
-2020/01/13-18:52:27.491 98fc Level-0 table #88: 4181960 bytes OK
-2020/01/13-18:52:27.494 98fc Delete type=0 #84
-2020/01/13-18:57:22.370 98fc Level-0 table #90: started
-2020/01/13-18:57:22.409 98fc Level-0 table #90: 4206464 bytes OK
-2020/01/13-18:57:22.416 98fc Delete type=0 #87
-2020/01/13-18:57:22.417 98fc Compacting 4@0 + 1@1 files
-2020/01/13-18:57:22.451 98fc Generated table #91@0: 9 keys, 46330 bytes
-2020/01/13-18:57:22.451 98fc Compacted 4@0 + 1@1 files => 46330 bytes
-2020/01/13-18:57:22.454 98fc compacted to: files[ 0 1 0 0 0 0 0 ]
-2020/01/13-18:57:22.454 98fc Delete type=2 #88
-2020/01/13-18:57:22.454 98fc Delete type=2 #82
-2020/01/13-18:57:22.454 98fc Delete type=2 #85
-2020/01/13-18:57:22.454 98fc Delete type=2 #80
-2020/01/13-18:57:22.454 98fc Delete type=2 #90
+2020/01/16-20:53:48.457 4f33 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2020/01/16-20:53:48.457 4f33 Recovering log #137
+2020/01/16-20:53:48.463 4f33 Reusing old log /home/harold/.config/google-chrome/Default/Extension State/000137.log 
+2020/01/16-20:58:20.706 5c14 Level-0 table #141: started
+2020/01/16-20:58:20.736 5c14 Level-0 table #141: 3051287 bytes OK
+2020/01/16-20:58:20.746 5c14 Delete type=0 #137
+2020/01/16-20:58:20.747 5c14 Compacting 4@0 + 1@1 files
+2020/01/16-20:58:20.806 5c14 Generated table #142@0: 11 keys, 54098 bytes
+2020/01/16-20:58:20.806 5c14 Compacted 4@0 + 1@1 files => 54098 bytes
+2020/01/16-20:58:20.811 5c14 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/01/16-20:58:20.812 5c14 Delete type=2 #135
+2020/01/16-20:58:20.812 5c14 Delete type=2 #141
+2020/01/16-20:58:20.812 5c14 Delete type=2 #133
+2020/01/16-20:58:20.812 5c14 Delete type=2 #130
+2020/01/16-20:58:20.812 5c14 Delete type=2 #138
+2020/01/16-20:58:44.297 5c14 Level-0 table #144: started
+2020/01/16-20:58:44.324 5c14 Level-0 table #144: 4070584 bytes OK
+2020/01/16-20:58:44.328 5c14 Delete type=0 #140
