@@ -94,6 +94,18 @@ Mode Set By User=false
 Time=2020,1,16,20,33,52
 URL=file:///home/harold/.xinitrc
 
+[file:///home/harold/.xprofile]
+Bookmarks=
+Checksum=b59e525f4f1f9adbeaf09db1971667a14d38e516
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,17,11,40,27
+URL=file:///home/harold/.xprofile
+
 [file:///home/harold/.zsh_history]
 Bookmarks=
 Checksum=3603dba92a9096a15d6e5b58bbd01495da6ecc80

@@ -1,12 +1,12 @@
-2020/01/16-20:53:47.457 4f62 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/01/16-20:53:47.457 4f62 Recovering log #141
-2020/01/16-20:53:47.457 4f62 Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000141.log 
-2020/01/16-20:54:22.916 53c3 Level-0 table #146: started
-2020/01/16-20:54:22.927 53c3 Level-0 table #146: 58387 bytes OK
-2020/01/16-20:54:22.931 53c3 Delete type=0 #141
-2020/01/16-20:58:17.733 53c3 Level-0 table #148: started
-2020/01/16-20:58:17.737 53c3 Level-0 table #148: 56142 bytes OK
-2020/01/16-20:58:17.740 53c3 Delete type=0 #145
-2020/01/16-20:59:17.728 53c3 Level-0 table #150: started
-2020/01/16-20:59:17.738 53c3 Level-0 table #150: 53686 bytes OK
-2020/01/16-20:59:17.743 53c3 Delete type=0 #147
+2020/01/18-16:08:18.276 8154 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/18-16:08:18.276 8154 Recovering log #184
+2020/01/18-16:08:18.276 8154 Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000184.log 
+2020/01/18-16:18:54.960 9072 Level-0 table #189: started
+2020/01/18-16:18:54.969 9072 Level-0 table #189: 61952 bytes OK
+2020/01/18-16:18:54.976 9072 Delete type=0 #184
+2020/01/18-16:19:44.499 9072 Level-0 table #191: started
+2020/01/18-16:19:44.505 9072 Level-0 table #191: 50670 bytes OK
+2020/01/18-16:19:44.509 9072 Delete type=0 #188
+2020/01/18-16:21:05.731 9072 Level-0 table #193: started
+2020/01/18-16:21:05.740 9072 Level-0 table #193: 51960 bytes OK
+2020/01/18-16:21:05.746 9072 Delete type=0 #190

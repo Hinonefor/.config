@@ -1,21 +1,15 @@
-2020/01/16-20:53:47.094 4f3a Reusing MANIFEST /home/harold/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/01/16-20:53:47.094 4f3a Recovering log #68
-2020/01/16-20:53:47.095 4f3a Reusing old log /home/harold/.config/google-chrome/Default/Session Storage/000068.log 
-2020/01/16-20:54:01.512 53c3 Level-0 table #72: started
-2020/01/16-20:54:01.519 53c3 Level-0 table #72: 48227 bytes OK
-2020/01/16-20:54:01.522 53c3 Delete type=0 #68
-2020/01/16-20:54:01.523 53c3 Compacting 4@0 + 1@1 files
-2020/01/16-20:54:01.528 53c3 Generated table #73@0: 598 keys, 42067 bytes
-2020/01/16-20:54:01.528 53c3 Compacted 4@0 + 1@1 files => 42067 bytes
-2020/01/16-20:54:01.531 53c3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/01/16-20:54:01.532 53c3 Delete type=2 #72
-2020/01/16-20:54:01.532 53c3 Delete type=2 #63
-2020/01/16-20:54:01.532 53c3 Delete type=2 #61
-2020/01/16-20:54:01.532 53c3 Delete type=2 #69
-2020/01/16-20:54:01.532 53c3 Delete type=2 #66
-2020/01/16-20:58:17.725 53c3 Level-0 table #75: started
-2020/01/16-20:58:17.731 53c3 Level-0 table #75: 71503 bytes OK
-2020/01/16-20:58:17.733 53c3 Delete type=0 #71
-2020/01/16-20:58:40.998 53c3 Level-0 table #77: started
-2020/01/16-20:58:41.006 53c3 Level-0 table #77: 47183 bytes OK
-2020/01/16-20:58:41.010 53c3 Delete type=0 #74
+2020/01/18-16:08:17.847 8136 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/01/18-16:08:17.847 8136 Recovering log #90
+2020/01/18-16:08:17.847 8136 Reusing old log /home/harold/.config/google-chrome/Default/Session Storage/000090.log 
+2020/01/18-16:20:56.930 9072 Level-0 table #94: started
+2020/01/18-16:20:56.939 9072 Level-0 table #94: 51755 bytes OK
+2020/01/18-16:20:56.943 9072 Delete type=0 #90
+2020/01/18-16:20:56.944 9072 Compacting 4@0 + 1@1 files
+2020/01/18-16:20:56.958 9072 Generated table #95@0: 796 keys, 75627 bytes
+2020/01/18-16:20:56.958 9072 Compacted 4@0 + 1@1 files => 75627 bytes
+2020/01/18-16:20:56.961 9072 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/01/18-16:20:56.962 9072 Delete type=2 #94
+2020/01/18-16:20:56.962 9072 Delete type=2 #86
+2020/01/18-16:20:56.962 9072 Delete type=2 #91
+2020/01/18-16:20:56.962 9072 Delete type=2 #83
+2020/01/18-16:20:56.962 9072 Delete type=2 #89

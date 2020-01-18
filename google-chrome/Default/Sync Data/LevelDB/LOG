@@ -1,3 +1,6 @@
-2020/01/16-20:53:46.864 4f3a Reusing MANIFEST /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/01/16-20:53:46.864 4f3a Recovering log #101
-2020/01/16-20:53:46.867 4f3a Reusing old log /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/000101.log 
+2020/01/18-16:08:17.609 8136 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/01/18-16:08:17.609 8136 Recovering log #111
+2020/01/18-16:08:17.610 8136 Reusing old log /home/harold/.config/google-chrome/Default/Sync Data/LevelDB/000111.log 
+2020/01/18-16:10:47.339 83b2 Level-0 table #115: started
+2020/01/18-16:10:47.348 83b2 Level-0 table #115: 100933 bytes OK
+2020/01/18-16:10:47.354 83b2 Delete type=0 #111

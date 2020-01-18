@@ -1,0 +1,6 @@
+2020/01/18-15:57:52.606 6f8f Reusing MANIFEST /home/harold/.config/google-chrome/Default/IndexedDB/chrome-extension_fjnbnpbmkenffdnngjfgmeleoegfcffe_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/18-15:57:52.606 6f8f Recovering log #3
+2020/01/18-15:57:52.622 6f8f Reusing old log /home/harold/.config/google-chrome/Default/IndexedDB/chrome-extension_fjnbnpbmkenffdnngjfgmeleoegfcffe_0.indexeddb.leveldb/000003.log 
+2020/01/18-15:57:52.640 7899 Level-0 table #5: started
+2020/01/18-15:57:52.659 7899 Level-0 table #5: 1104203 bytes OK
+2020/01/18-15:57:52.662 7899 Delete type=0 #3

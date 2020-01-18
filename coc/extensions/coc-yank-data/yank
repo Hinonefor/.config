@@ -158,3 +158,8 @@ cc4323ccc86123ef1b20c4127352108c|file:///home/harold/.config/nvim/init.vim|389|1
 	"set regexpengine=1
 566c673ba6c9b7998906059f641ee83f|file:///home/harold/.config/dwm/config.h|1|1|v|cpp
 	include <X11/XF86keysym.h>
+a9269e686b6b3be6152ca13f98e907e8|file:///home/harold/.Xmodmap-cn|29|15|v|
+	Return NoSymbol Return
+	
+3218c7a5a52b88b0916c76692d284df2|file:///home/harold/scripts/autostart.sh|9|1|V|sh
+	/bin/bash ~/scripts/setxmodmap-colemak.sh &

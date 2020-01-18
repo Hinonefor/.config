@@ -31,7 +31,7 @@ positions=1,16,desktop:/steam.desktop,0,0
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/harold/.config/variety/wallpaper/wallpaper-clock-c2ad9b12206969103e07658de10d0ad2.jpg
+Image=file:///home/harold/.config/variety/wallpaper/wallpaper-clock-5f773e6539477b62e6df896c4491df2f.jpg
 
 [Containments][18]
 activityId=
@@ -54,7 +54,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][18][Applets][20][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][18][Applets][20][Configuration][ConfigDialog]
 DialogHeight=540
@@ -96,7 +96,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][18][Applets][24][Configuration]
-PreloadWeight=4
+PreloadWeight=13
 SystrayContainmentId=25
 
 [Containments][18][Applets][37]
@@ -234,7 +234,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][25][Applets][30][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][25][Applets][31]
 immutability=1
@@ -269,7 +269,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][25][Applets][39][Configuration]
-PreloadWeight=2
+PreloadWeight=6
 
 [Containments][25][Applets][40][Configuration]
 PreloadWeight=59
@@ -296,5 +296,5 @@ extraItems=org.kde.plasma.mediacontroller,org.kde.plasma.notifications,org.kde.p
 knownItems=org.kde.plasma.mediacontroller,org.kde.ktp-contactlist,org.kde.plasma.printmanager,org.kde.plasma.notifications,org.kde.plasma.vault,org.kde.plasma.keyboardindicator,org.kde.plasma.devicenotifier,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.volume
 
 [ScreenMapping]
-itemsOnDisabledScreens=0,2,desktop:/Arch Linux,desktop:/steam.desktop
+itemsOnDisabledScreens=
 screenMapping=desktop:/Arch Linux,0,desktop:/steam.desktop,0

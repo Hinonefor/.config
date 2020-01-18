@@ -1,6 +1,6 @@
 [ActivityManager]
-_k_friendly_name=Activity Manager
-switch-to-activity-47d7bdce-9a33-4332-b691-78ded8a0ff3a=none,none,Switch to activity "默认"
+_k_friendly_name=活动管理器
+switch-to-activity-47d7bdce-9a33-4332-b691-78ded8a0ff3a=none,none,切换到活动“默认”
 
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to 汉语=none,none,切换到键盘布局 汉语
@@ -296,6 +296,7 @@ activate task manager entry 6=Meta+6,Meta+6,激活任务管理器条目 6
 activate task manager entry 7=Meta+7,Meta+7,激活任务管理器条目 7
 activate task manager entry 8=Meta+8,Meta+8,激活任务管理器条目 8
 activate task manager entry 9=Meta+9,Meta+9,激活任务管理器条目 9
+activate widget 20=Meta+Ctrl+Space,none,激活 程序启动器 部件
 clear-history=none,none,清除剪贴板历史(L)
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,启用剪贴板动作
 cycleNextAction=none,none,下一个历史项
