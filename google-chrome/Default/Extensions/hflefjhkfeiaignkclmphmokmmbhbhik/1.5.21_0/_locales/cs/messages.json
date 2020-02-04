@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Tento reklamy blokátor odstraňuje všechny reklamy na Youtube. videoreklamy před videem, textové a bannerové reklamy."
+   },
+   "name": {
+      "message": "Reklamy blokátor pro YouTube ™"
+   },
+   "short_name": {
+      "message": "Adblocker for Youtube™"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "這個廣告攔截器會刪除YouTube上的所有廣告。前貼片視頻廣告，文字和橫幅廣告。"
+   },
+   "name": {
+      "message": "YouTube™廣告攔截器"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

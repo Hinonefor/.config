@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ši skelbimai blokatorius pašalina visus skelbimus YouTube. Pradžioje rodomi vaizdo skelbimai, teksto ir Banner skelbimai."
+   },
+   "name": {
+      "message": "Skelbimai blokavimo Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblocker for Youtube™"
+   }
+}

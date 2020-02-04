@@ -3,14 +3,14 @@ Height 1080=484
 Width 1920=700
 
 [KPropertiesDialog]
-Height 1080=493
-Width 1920=419
+Height 1080=490
+Width 1920=450
 
 [Notification Messages]
 really_clear_history=true
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_compton.desktop,4 services_gridea.desktop,4 services_alacritty.desktop,1 services_jetbrains-idea-ce.desktop,2 services_mcpelauncher-ui-qt.desktop,1 services_deepin-music.desktop,2 services_sunlogin.desktop,2 shell_hmcl,1 services_org.kde.latte-dock.desktop,1 services_org.octave.Octave.desktop,1 services_conky-manager.desktop,11 services_gparted.desktop,2 services_cocomusic.desktop,2 services_synapse.desktop,1 services_multimc.desktop,1 services_screenkey.desktop,1 services_org.kde.kalgebra.desktop,1 services_deepin-editor.desktop,1 services_emacs.desktop,1 services_uxterm.desktop,1 services_hmcl.desktop,2 services_deepin-calculator.desktop,1 services_xterm.desktop,2 services_org.kde.yakuake.desktop,2 services_org.kde.kcalc.desktop,2 services_vmware-workstation.desktop,1 services_st.desktop,1 services_galculator.desktop,1 services_conky.desktop,1 services_deepin-terminal.desktop,2 services_vmware-player.desktop,1 services_appimagekit-listen1.desktop,2 shell_numlockx,1 services_gimp.desktop,2 services_electronic-wechat.desktop,1 services_xfce4-terminal.desktop,1 services_org.kde.kate.desktop,1 services_speedcrunch.desktop,1 services_deepin-system-monitor.desktop,1 services_deepin-boot-maker.desktop,1 services_qq.desktop,1 services_org.kde.kgpg.desktop,2 services_variety.desktop
+LaunchCounts=1 services_appimagekit-listen1.desktop,1 services_deepin-editor.desktop,1 shell_jekyll,2 shell_hmcl,1 services_org.kde.kate.desktop,2 services_uxterm.desktop,1 services_galculator.desktop,2 services_mcpelauncher-ui-qt.desktop,4 services_alacritty.desktop,2 services_vmware-player.desktop,1 services_emacs.desktop,1 services_cool-retro-term.desktop,2 services_org.kde.kcalc.desktop,1 services_multimc.desktop,1 services_org.kde.kgpg.desktop,1 services_deepin-music.desktop,2 services_variety.desktop,2 shell_numlockx,3 services_visual-studio-code-insiders.desktop,1 services_org.kde.kalgebra.desktop,1 services_screenkey.desktop,1 services_jetbrains-idea-ce.desktop,11 services_gparted.desktop,1 services_conky.desktop,1 services_org.kde.latte-dock.desktop,2 services_cocomusic.desktop,1 services_st.desktop,1 services_hmcl.desktop,1 services_conky-manager.desktop,1 services_qq.desktop,2 services_synapse.desktop,1 services_deepin-system-monitor.desktop,1 services_deepin-terminal.desktop,2 services_sunlogin.desktop,1 services_deepin-boot-maker.desktop,2 services_electronic-wechat.desktop,1 services_xfce4-terminal.desktop,1 services_terminator.desktop,4 services_gridea.desktop,1 services_xterm.desktop,2 services_redshift-gtk.desktop,1 services_speedcrunch.desktop,1 services_gimp.desktop,2 services_vmware-workstation.desktop,1 services_wps-office-prometheus.desktop,1 services_org.octave.Octave.desktop,2 services_org.kde.yakuake.desktop,1 services_org.kde.konsole.desktop,1 services_compton.desktop,2 services_deepin-calculator.desktop
 pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 17][Defaults]
@@ -20,13 +20,13 @@ thickness=44
 thickness=44
 
 [PlasmaViews][Panel 18][Defaults]
-thickness=34
+thickness=38
 
 [PlasmaViews][Panel 18][Horizontal1902]
 thickness=34
 
 [PlasmaViews][Panel 18][Horizontal1920]
-thickness=34
+thickness=38
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=36

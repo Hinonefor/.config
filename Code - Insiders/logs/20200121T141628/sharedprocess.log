@@ -1,0 +1,8 @@
+[2020-01-21 14:16:32.630] [sharedprocess] [info] main {"machineId":"7b24b9d28d7f91a62ea7704d23ee820576abdad1581ab36add4818cf96fa1047","windowId":2}
+[2020-01-21 14:17:12.552] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-01-21 14:17:42.429] [sharedprocess] [info] Installing extension: fisheva.eva-theme
+[2020-01-21 14:17:43.611] [sharedprocess] [info] Downloaded extension: fisheva.eva-theme /tmp/b6770762-5642-45aa-9def-ee0d405ce316
+[2020-01-21 14:17:46.512] [sharedprocess] [info] Extracted extension to /home/harold/.vscode-insiders/extensions/.fisheva.eva-theme-0.7.9: fisheva.eva-theme
+[2020-01-21 14:17:46.515] [sharedprocess] [info] Renamed to /home/harold/.vscode-insiders/extensions/fisheva.eva-theme-0.7.9
+[2020-01-21 14:17:46.517] [sharedprocess] [info] Installation completed. fisheva.eva-theme
+[2020-01-21 14:17:46.534] [sharedprocess] [info] Extensions installed successfully: fisheva.eva-theme

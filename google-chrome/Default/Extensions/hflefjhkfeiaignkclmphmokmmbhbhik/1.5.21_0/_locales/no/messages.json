@@ -1,0 +1,11 @@
+{
+    "name": {
+        "message": "Annonser blocker for Youtube ™"
+    },
+    "short_name": {
+        "message": "Adblocker for Youtube™"
+    },
+    "description": {
+        "message": "Dette annonser blocker fjerner alle reklame på Youtube. Pre-roll videoannonser, tekst og bannerannonser."
+    }
+}

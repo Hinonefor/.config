@@ -1,12 +1,21 @@
-2020/01/18-16:08:18.276 8154 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/01/18-16:08:18.276 8154 Recovering log #184
-2020/01/18-16:08:18.276 8154 Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000184.log 
-2020/01/18-16:18:54.960 9072 Level-0 table #189: started
-2020/01/18-16:18:54.969 9072 Level-0 table #189: 61952 bytes OK
-2020/01/18-16:18:54.976 9072 Delete type=0 #184
-2020/01/18-16:19:44.499 9072 Level-0 table #191: started
-2020/01/18-16:19:44.505 9072 Level-0 table #191: 50670 bytes OK
-2020/01/18-16:19:44.509 9072 Delete type=0 #188
-2020/01/18-16:21:05.731 9072 Level-0 table #193: started
-2020/01/18-16:21:05.740 9072 Level-0 table #193: 51960 bytes OK
-2020/01/18-16:21:05.746 9072 Delete type=0 #190
+2020/02/03-21:17:17.966 30a53 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/02/03-21:17:17.967 30a53 Recovering log #317
+2020/02/03-21:17:17.967 30a53 Reusing old log /home/harold/.config/google-chrome/Default/Local Storage/leveldb/000317.log 
+2020/02/03-21:19:09.469 33e2d Level-0 table #321: started
+2020/02/03-21:19:09.477 33e2d Level-0 table #321: 19522 bytes OK
+2020/02/03-21:19:09.483 33e2d Delete type=0 #317
+2020/02/03-21:19:25.401 33e2d Level-0 table #323: started
+2020/02/03-21:19:25.412 33e2d Level-0 table #323: 58296 bytes OK
+2020/02/03-21:19:25.417 33e2d Delete type=0 #320
+2020/02/03-21:19:44.658 33e2d Level-0 table #325: started
+2020/02/03-21:19:44.666 33e2d Level-0 table #325: 74151 bytes OK
+2020/02/03-21:19:44.670 33e2d Delete type=0 #322
+2020/02/03-21:19:44.670 33e2d Compacting 4@0 + 1@1 files
+2020/02/03-21:19:44.777 33e2d Generated table #326@0: 1105 keys, 2273018 bytes
+2020/02/03-21:19:44.777 33e2d Compacted 4@0 + 1@1 files => 2273018 bytes
+2020/02/03-21:19:44.780 33e2d compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/02/03-21:19:44.781 33e2d Delete type=2 #323
+2020/02/03-21:19:44.781 33e2d Delete type=2 #316
+2020/02/03-21:19:44.781 33e2d Delete type=2 #321
+2020/02/03-21:19:44.781 33e2d Delete type=2 #325
+2020/02/03-21:19:44.781 33e2d Delete type=2 #318

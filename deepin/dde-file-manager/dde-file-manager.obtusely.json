@@ -1,0 +1,21 @@
+{
+    "FileViewState": {
+        "standard://downloads/VSCode-linux-x64": {
+            "sortOrder": 0,
+            "sortRole": 265
+        },
+        "standard://downloads/scripts-master": {
+            "sortOrder": 0,
+            "sortRole": 265
+        }
+    },
+    "WindowManager": {
+        "SplitterState": {
+            "sidebar": 200
+        },
+        "WindowState": {
+            "height": 600,
+            "width": 800
+        }
+    }
+}

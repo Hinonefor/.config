@@ -1,3 +1,10 @@
-2020/01/18-15:33:45.408 5868 Recovering log #238
-2020/01/18-15:33:45.417 5868 Delete type=0 #238
-2020/01/18-15:33:45.417 5868 Delete type=3 #237
+2020/02/03-20:56:13.870 f88f Recovering log #288
+2020/02/03-20:56:13.870 f88f Level-0 table #290: started
+2020/02/03-20:56:13.874 f88f Level-0 table #290: 715 bytes OK
+2020/02/03-20:56:13.891 f88f Delete type=0 #288
+2020/02/03-20:56:13.891 f88f Delete type=3 #287
+2020/02/03-20:56:13.896 fd30 Expanding@0 1+1 (715+2713 bytes) to 4+1 (52878+2713 bytes)
+2020/02/03-20:56:13.896 fd30 Compacting 4@0 + 1@1 files
+2020/02/03-20:56:13.901 fd30 Generated table #292@0: 5 keys, 639 bytes
+2020/02/03-20:56:13.902 fd30 Compacted 4@0 + 1@1 files => 639 bytes
+2020/02/03-20:56:13.904 fd30 compacted to: files[ 0 1 4 0 0 0 0 ]

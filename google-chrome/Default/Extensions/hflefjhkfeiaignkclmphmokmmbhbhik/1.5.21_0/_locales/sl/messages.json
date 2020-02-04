@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "To oglasi oken odstrani vse oglasov na Youtube. video oglasi pre-roll, besedila in banner oglasi."
+   },
+   "name": {
+      "message": "Oglasi oken za YouTube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

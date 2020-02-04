@@ -14,7 +14,7 @@ detailViewIconSize=0
 Height 1032=480
 Height 1080=732
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA0EAAAK1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA0EAAAK2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1902=888
 Width 1920=833
@@ -22,10 +22,12 @@ Width 1920=833
 [Recent Files]
 File1[$e]=$HOME/Pictures/壁纸A/bilibili(1).jpg
 File2[$e]=$HOME/Pictures/修改logo/UefiLogo/splash.bmp
-File3[$e]=$HOME/Pictures/修改logo/UefiLogo/all.jpg
+File3[$e]=/run/media/harold/D4FA828F299D817A/chart/abilixChart.ico
+File4[$e]=/usr/share/backgrounds/gnome/Acrylic.jpg
 Name1[$e]=bilibili(1).jpg
 Name2[$e]=splash.bmp
-Name3[$e]=all.jpg
+Name3[$e]=abilixChart.ico
+Name4[$e]=Acrylic.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,588

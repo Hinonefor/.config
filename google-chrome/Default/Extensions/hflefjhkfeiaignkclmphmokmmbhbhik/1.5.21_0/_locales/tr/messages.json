@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Bu reklam engelleyici, Youtube'daki tüm reklamları kaldırır. Videodan önce gösterilen video reklamlar, metin ve banner reklamları."
+   },
+   "name": {
+      "message": "Youtube ™ için reklam engelleyici"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

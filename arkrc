@@ -1,23 +1,23 @@
 [ExtractDialog]
-DirHistory[$e]=$HOME/Pictures/,$HOME/Downloads/,$HOME/Desktop/
+DirHistory[$e]=$HOME/Downloads/,$HOME/Pictures/,$HOME/Desktop/
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME
-Recent URLs[$e]=file:$HOME/Pictures/
+Recent URLs[$e]=file:$HOME/Downloads/
 detailViewIconSize=0
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAAoAAAAG6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
-splitterSizes=426,213
+splitterSizes=424,212
 
 [Recent Files]
 File1[$e]=$HOME/Downloads/SunloginClient-10.0.2.24779_amd64.rpm
-File2[$e]=$HOME/Downloads/SunloginClient-10.0.2.24779_amd64.deb
+File2[$e]=$HOME/Downloads/scripts-master.zip
 Name1[$e]=SunloginClient-10.0.2.24779_amd64.rpm
-Name2[$e]=SunloginClient-10.0.2.24779_amd64.deb
+Name2[$e]=scripts-master.zip
 
 [Viewer]
 Height 1080=158

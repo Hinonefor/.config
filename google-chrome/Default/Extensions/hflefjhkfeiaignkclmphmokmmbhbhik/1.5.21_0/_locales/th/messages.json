@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "ตัวบล็อกโฆษณานี้จะนำโฆษณาทั้งหมดใน Youtube ออก โฆษณาวิดีโอตอนต้นโฆษณาแบบข้อความและแบนเนอร์"
+   },
+   "name": {
+      "message": "ตัวบล็อกโฆษณาสำหรับ Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

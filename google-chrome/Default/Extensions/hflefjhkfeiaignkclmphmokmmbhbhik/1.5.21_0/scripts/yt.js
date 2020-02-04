@@ -1,0 +1,1 @@
+window['_ytBlockAds'] = 1;

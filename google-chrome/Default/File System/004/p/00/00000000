@@ -6,12 +6,12 @@ url=http://sub.adtchrome.com/adt-chinalist-easylist.txt
 title=ChinaList+EasyList(修正)
 fixedTitle=true
 homepage=http://www.adtchrome.com/extension/adt-chinalist-easylist.html
-lastDownload=1579206017
+lastDownload=1580759470
 downloadStatus=synchronize_ok
-lastSuccess=1579206017
-lastCheck=1579364058
-expires=1579551617
-softExpiration=1579481590
+lastSuccess=1580759470
+lastCheck=1580759469
+expires=1581105070
+softExpiration=1580955810
 version=202001062019
 requiredVersion=2.0
 

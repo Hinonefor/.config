@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html class="no-js" id="extension">
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>YT AdBlocker Ultimate</title>
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link type="text/css" href="css/bootstrap.min.css" rel="stylesheet" />
+		<link type="text/css" href="css/options.css" rel="stylesheet" />
+		<script src="scripts/jquery.min.js"></script>
+		<script src="scripts/bootstrap.min.js"></script>
+		<script src="scripts/icheck.js"></script>
+		<script type="text/javascript" src="scripts/options.js"></script>
+	</head>
+	<body>
+		<div class="top">
+			<img src="imgs/header.png">
+		</div>
+		<section class="main-list">
+			<div class="tg-onoff">
+				<label class="tgl" style="font-size:17px">  
+			    <input type="checkbox" id="isEnabled" checked="">
+			    <span data-on="Enabled" data-off="Disabled"></span>
+			  </label>
+			</div>
+			<div class="funkyradio funkyradio-default">
+	            <input type="checkbox" name="chAllow" id="chAllow" checked="">
+	            <label for="chAllow"><span id="chAllowS"><img src="imgs/settings.png"></span><span id="allowText">Allow ads on this Channel</span></label>
+	        </div>
+	        
+	        <div class="funkyradio funkyradio-default">
+	            <input type="checkbox" name="blockFb" id="blockFb" checked="">
+	            <label for="blockFb"><span id="blockFbS"><img src="imgs/settings.png"></span>Block FB Ads</label>
+	        </div>		
+	     	<div class="body blink">
+				<div class="txt tb">Total ads blocked:</div>
+				<div class="red" id="YTAdBlocked">0</div>
+				<div class="txt tb tb2">Total time saved:</div>
+				<div class="txt" id="TTAdBlocked">nothing yet</div>
+			</div>
+		</section>
+		<section class="send-bug">
+			<form id="form-bugs">
+			<div class="body">
+				<div class="txt">Tell us about your problems:</div>
+			</div>
+			<div class="divopts indent">
+		        <input type="checkbox" name="bugs-video-ads" id="bugs-video-ads">
+		        <label for="bugs-video-ads">I'm seeing video ads</label>
+			</div>
+			<div class="divopts indent">
+		        <input type="checkbox" name="bugs-text-ads" id="bugs-text-ads">
+		        <label for="bugs-text-ads">I'm seeing text ads</label>
+			</div>
+			<div class="divopts indent">
+		        <input type="checkbox" name="bugs-video-breaks" id="bugs-video-breaks">
+		        <label for="bugs-video-breaks">Video stream breaks</label>
+			</div>
+			<label class="lb">Other:</label>
+			<textarea id="bug_msg"></textarea>
+			<div class="divopts">
+		        <input type="checkbox" name="send_info" id="send_info" checked>
+		        <label for="send_info">Send Diagnostic Data</label>
+		        <div class="sml">(must be on the tab where you had problems)</div>
+			</div>
+			</form>
+			<div class="buttons">
+				<button class="btn btn-info btn-sm" id="send-bug">Send</button>
+				<button class="btn btn-default btn-sm" id="cancel-bug">Cancel</button>
+			</div>
+			<div id="thankyou" style="display: none">Thank You!</div>			
+		</section>
+		<section class="fb-list">
+			<div id="fbList">
+				<h2>Whitelisted Channels</h2>				
+			    <div class="funkyradio funkyradio-primary">
+		            <input type="checkbox" name="checkbox" id="blockSponsored" checked="">
+		            <label for="blockSponsored">Block Sponsored Stories</label>
+				</div>
+				<div class="funkyradio funkyradio-primary">
+		            <input type="checkbox" name="checkbox" id="blockAds" checked="">
+		            <label for="blockAds">Block Sponsored Ads</label>
+				</div>		
+				<div class="funkyradio funkyradio-primary">
+		            <input type="checkbox" name="checkbox" id="blockPUMK" checked="">
+		            <label for="blockPUMK">Block People You May Know</label>
+				</div>
+				<div class="funkyradio funkyradio-primary">
+		            <input type="checkbox" name="checkbox" id="blockRG" checked="">
+		            <label for="blockRG">Block Recommended Games</label>
+				</div>
+				<div class="funkyradio funkyradio-primary">
+		            <input type="checkbox" name="checkbox" id="highlightAds" checked="">
+		            <label for="highlightAds">Highlight Ads, do NOT block</label>
+				</div>
+			</div>
+			<div class="center_btn"><button class="btn btn-success btn-sm" id="backMainF">Back</button></div>
+		</section>		
+		<section class="channel-list">
+			<div class="channel-uls">
+				<h2>Whitelisted Channels</h2>
+				<div class="below"><ul id="channelList"><div class="nouls">No Whitelisted Channels<br>Block ads on all Channels</div></ul></div>
+			</div>
+			<div class="center_btn"><button class="btn btn-success btn-sm" id="backMain">Back</button></div>
+		</section>
+		<div class="sharebuttons" id="share">
+			<div class="share_facebook"><a href="http://bit.ly/2nfKujK" target="_blank"> </a></div>
+			<div class="share_google"><a href="http://bit.ly/2mHgUad" target="_blank"> </a></div>
+			<div class="share_twitter"><a href="http://bit.ly/2nfMzfr" target="_blank"> </a></div>
+		</div>
+		<div class="review">
+			<div id="problems" target="_blank">Still seeing ads? Click here!</div>
+		</div>
+
+	</body>
+</html>

@@ -1,0 +1,423 @@
+{
+   "autoTakeVipPrivilege_name": {
+      "message": "自動領取大會員福利"
+   },
+   "autoTakeVipPrivilege_notification": {
+      "message": "推送通知"
+   },
+   "autoTakeVipPrivilege_notification_description": {
+      "message": "領取成功後通過推送通知提醒"
+   },
+   "autoTakeVipPrivilege_notification_successfully": {
+      "message": "自動領取大會員福利成功！"
+   },
+   "charFilter_UI_listName": {
+      "message": "屏蔽列表"
+   },
+   "charFilter_description": {
+      "message": "過濾直播區聊天區域的顯示內容，也包括一些播放器上的廣告推送"
+   },
+   "charFilter_name": {
+      "message": "去污粉"
+   },
+   "charFilter_subPage_description": {
+      "message": "請注意b站自帶的\"關閉禮物特效\"功能"
+   },
+   "charFilter_subPage_options_2233": {
+      "message": "2233娘"
+   },
+   "charFilter_subPage_options_achievement": {
+      "message": "成就頭銜"
+   },
+   "charFilter_subPage_options_announcement": {
+      "message": "系統公告"
+   },
+   "charFilter_subPage_options_announcement_description": {
+      "message": "系统公告"
+   },
+   "charFilter_subPage_options_chat": {
+      "message": "聊天內容"
+   },
+   "charFilter_subPage_options_enterMsg": {
+      "message": "進場信息"
+   },
+   "charFilter_subPage_options_gift": {
+      "message": "禮物信息"
+   },
+   "charFilter_subPage_options_level": {
+      "message": "用戶等級"
+   },
+   "charFilter_subPage_options_medal": {
+      "message": "粉絲勛章"
+   },
+   "charFilter_subPage_options_small": {
+      "message": "小型標誌"
+   },
+   "charFilter_subPage_options_small_description": {
+      "message": "如：姥爺標誌，艦長等"
+   },
+   "charFilter_subPage_title": {
+      "message": "開啟聊天過濾"
+   },
+   "checkVersionGetUpdateError": {
+      "description": "Notification: Extension Update Error",
+      "message": "獲取更新信息失敗"
+   },
+   "checkVersionNewVersion": {
+      "description": "Notification: new version detected",
+      "message": "檢測到新版本："
+   },
+   "checkVersionNoNewVersion": {
+      "description": "Notification: no new version detected",
+      "message": "當前已經是最新版本 :)"
+   },
+   "config_checking": {
+      "message": "检查更新"
+   },
+   "config_commonNotify": {
+      "description": "Extension: config page notify",
+      "message": "如果您的版本显示为测试版或者出现了问题，请尝试卸载本扩展后重新安装"
+   },
+   "config_thank": {
+      "message": "感谢支持"
+   },
+   "config_type_about": {
+      "message": "关于"
+   },
+   "config_type_live": {
+      "message": "直播"
+   },
+   "config_type_main": {
+      "message": "主站"
+   },
+   "config_type_menu": {
+      "message": "菜单栏"
+   },
+   "config_type_other": {
+      "message": "其他"
+   },
+   "config_version": {
+      "message": "版本"
+   },
+   "config_websiteNotify": {
+      "description": "Extension: config page website notify",
+      "message": "哔哩哔哩助手官网已经更新为："
+   },
+   "cvImages_UI_downloadBtn": {
+      "message": "下載圖片"
+   },
+   "cvImages_name": {
+      "message": "專欄圖片保存於解除文字選中限制"
+   },
+   "danmu_description": {
+      "message": "查詢彈幕傳送者，支援歷史彈幕，分P，視訊切換等場景"
+   },
+   "danmu_name": {
+      "message": "視訊彈幕查詢及下載"
+   },
+   "doSign_name": {
+      "message": "自動每日簽到"
+   },
+   "doSign_notification": {
+      "message": "推送通知"
+   },
+   "doSign_notification_description": {
+      "message": "簽到成功後通過推送通知提醒"
+   },
+   "doSign_notification_successfully": {
+      "message": "自动签到成功！"
+   },
+   "dynamicCheck_description": {
+      "message": "视频消息、小视频、专栏、番剧自动推送，每分钟检测一次"
+   },
+   "dynamicCheck_name": {
+      "message": "视频动态推送"
+   },
+   "dynamicCheck_options_dynamicCheckBox": {
+      "message": "最近推送列表"
+   },
+   "dynamicCheck_options_dynamicCheckBox_description": {
+      "message": "在擴展菜單顯示$MAX$條最近推送的視屏",
+      "placeholders": {
+         "max": {
+            "content": "$1"
+         }
+      }
+   },
+   "dynamicCheck_options_notification": {
+      "message": "推送通知"
+   },
+   "dynamicCheck_subPage_description": {
+      "message": "如果都選擇關閉，將不會進行檢測"
+   },
+   "dynamicCheck_subPage_options_bangumi": {
+      "message": "番劇"
+   },
+   "dynamicCheck_subPage_options_cv": {
+      "message": "專欄"
+   },
+   "dynamicCheck_subPage_options_smallVideo": {
+      "message": "小視頻"
+   },
+   "dynamicCheck_subPage_options_video": {
+      "message": "視頻投稿"
+   },
+   "dynamicCheck_subPage_title": {
+      "message": "動態推送"
+   },
+   "enterID": {
+      "description": "Popup Button: enter_id",
+      "message": "請輸入ID"
+   },
+   "extensionDescription": {
+      "description": "Extension: Description",
+      "message": "嗶哩嗶哩彈幕網輔助擴充套件，擁有視訊區和直播區的人性化功能"
+   },
+   "extensionName": {
+      "description": "Extension: Name",
+      "message": "嗶哩嗶哩助手：bilibili.com 綜合輔助擴充套件"
+   },
+   "extensionNotificationExtensionUpdate": {
+      "description": "Notification: Extension Update",
+      "message": "嗶哩嗶哩助手已自動更新到 v%v！"
+   },
+   "extensionNotificationNewFeatures": {
+      "description": "Notification: New Features",
+      "message": "檢視更新內容"
+   },
+   "extensionNotificationTitle": {
+      "description": "Notification: Title",
+      "message": "嗶哩嗶哩助手提醒"
+   },
+   "extensionNotificationWatch": {
+      "description": "Notification: Watch",
+      "message": "觀看"
+   },
+   "extensionShortName": {
+      "description": "Extension: Short Name",
+      "message": "嗶哩嗶哩助手"
+   },
+   "extensionVersionTypeOfficialVersion": {
+      "description": "Version Type: official",
+      "message": "正式版"
+   },
+   "extensionVersionTypeTestVersion": {
+      "description": "Version Type: test",
+      "message": "測試版"
+   },
+   "followingLiveUpdateMessage": {
+      "description": "Notification: Following Live Up Available",
+      "message": "主播「$UPPER$」开播啦! ",
+      "placeholders": {
+         "upper": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "followingUpdateMessage": {
+      "description": "Notification: Following Update Message",
+      "message": "您的嗶哩嗶哩關注更新了（%n 個新動態）！\n%uploader 剛剛發布了「%title」！"
+   },
+   "goBili": {
+      "description": "Popup Button: go_bili",
+      "message": "主站"
+   },
+   "goBiliLive": {
+      "description": "Popup Button: go_bili_live",
+      "message": "直播"
+   },
+   "goBiliShort": {
+      "description": "Popup Button: go_bili",
+      "message": "視訊區"
+   },
+   "goDynamic": {
+      "description": "Popup Button: go_dynamic",
+      "message": "动态"
+   },
+   "goFavourite": {
+      "description": "Popup Button: go_favourite",
+      "message": "收藏"
+   },
+   "goOption": {
+      "description": "Popup Button: go_option",
+      "message": "设置"
+   },
+   "goVideo": {
+      "description": "Popup Button: go_video",
+      "message": "跳轉"
+   },
+   "googleAnalytics_description": {
+      "message": "匿名統計功能的使用情況，幫助開發者改進程序為您提供更好的體驗"
+   },
+   "googleAnalytics_name": {
+      "message": "數據統計"
+   },
+   "liveChatMode_UI_buttonOFF": {
+      "message": "關閉版聊模式"
+   },
+   "liveChatMode_UI_buttonON": {
+      "message": "開啟版聊模式"
+   },
+   "liveChatMode_description": {
+      "message": "在直播間開啟網頁全屏或全屏模式時以縱向排列的方式顯示聊天內容，同時隱藏彈幕"
+   },
+   "liveChatMode_name": {
+      "message": "版聊模式"
+   },
+   "livePictureInPicture_UI_buttonTitle": {
+      "message": "点击开启画中画"
+   },
+   "livePictureInPicture_name": {
+      "description": "Menu: Picture in picture",
+      "message": "子母畫面"
+   },
+   "liveUpCheck_description": {
+      "message": "主播新开播后$TIME$分钟内进行推送",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "liveUpCheck_name": {
+      "message": "直播开播推送"
+   },
+   "liveUpCheck_options_dynamicCheckBox": {
+      "message": "最近推送列表"
+   },
+   "liveUpCheck_options_dynamicCheckBox_description": {
+      "message": "在扩展菜单显示$MAX$条最近推送的直播",
+      "placeholders": {
+         "max": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "liveUpCheck_options_notification": {
+      "message": "推送通知"
+   },
+   "menu_description": {
+      "message": "選擇您需要在擴展菜單中顯示的常用功能"
+   },
+   "menu_name": {
+      "message": "擴展程序菜單欄"
+   },
+   "menu_options_oldWatchPage": {
+      "message": "舊關注頁面"
+   },
+   "menu_options_shortMode": {
+      "message": "較短按鈕寬度"
+   },
+   "menu_options_shortMode_description": {
+      "message": "開啟後菜單按鈕將會縮短"
+   },
+   "menu_subPage_options_dynamic": {
+      "message": "我的關注"
+   },
+   "menu_subPage_options_favourite": {
+      "message": "我的收藏"
+   },
+   "menu_subPage_options_linker": {
+      "message": "視頻快速跳轉"
+   },
+   "menu_subPage_options_linker_description": {
+      "message": "窄模式下，需要按回车键进行跳转"
+   },
+   "menu_subPage_options_live": {
+      "message": "前往直播區"
+   },
+   "menu_subPage_options_video": {
+      "message": "前往主站"
+   },
+   "menu_subPage_title": {
+      "message": "啟用菜單欄"
+   },
+   "notLogin": {
+      "description": "Popup Button: not login",
+      "message": "未登錄"
+   },
+   "permissionManager_login_description": {
+      "description": "您需要登錄Bilibili的賬號",
+      "message": "您需要登錄Bilibili的賬號"
+   },
+   "permissionManager_login_error_massage": {
+      "description": "未登錄",
+      "message": "未登錄"
+   },
+   "permissionManager_notifications_description": {
+      "description": "需要獲得通知功能的權限以便開啟相關功能",
+      "message": "需要獲得通知功能的權限以便開啟相關功能"
+   },
+   "permissionManager_notifications_error_massage": {
+      "description": "未獲得通知功能的權限",
+      "message": "未獲得通知功能的權限"
+   },
+   "pictureInPicture_UI_buttonTitle": {
+      "message": "点击开启画中画"
+   },
+   "pictureInPicture_name": {
+      "description": "Menu: Picture in picture",
+      "message": "子母畫面"
+   },
+   "quickSearch_name": {
+      "message": "右鍵用嗶哩嗶哩搜索"
+   },
+   "searchBili": {
+      "description": "Context Menu: Title",
+      "message": "用 嗶哩嗶哩 搜尋 “%s”"
+   },
+   "showDisabledVideo_name": {
+      "message": "顯示失效視頻部分信息"
+   },
+   "treasure_description": {
+      "message": "打開直播間就會自動領瓜子"
+   },
+   "treasure_name": {
+      "message": "自動領瓜子"
+   },
+   "treasure_notification": {
+      "message": "推送通知"
+   },
+   "treasure_notification_description": {
+      "message": "領取成功後通過推送通知提示"
+   },
+   "videoDarkMode_name": {
+      "message": "深色模式"
+   },
+   "videoDownload_description": {
+      "message": "支援新播放頁面影片下載，分段合併下載，分段單獨下載功能"
+   },
+   "videoDownload_name": {
+      "message": "視訊下載"
+   },
+   "videoDownload_options_showFLVSegment": {
+      "message": "顯示 FLV 分段"
+   },
+   "videoDownload_options_showFLVSegment_description": {
+      "message": "影片源包含多個分段時，顯示分段下載按鈕"
+   },
+   "videoHideDanmu_name": {
+      "message": "預設關閉彈幕顯示"
+   },
+   "videoSubtitleDownload_name": {
+      "message": "影片字幕下載"
+   },
+   "videoWiden_name": {
+      "message": "寬屏模式"
+   },
+   "videoWiden_subPage_options_default": {
+      "message": "預設"
+   },
+   "videoWiden_subPage_options_normalWiden": {
+      "message": "寬屏"
+   },
+   "videoWiden_subPage_options_webFullscreen": {
+      "message": "網頁全屏"
+   },
+   "videoWiden_subPage_title": {
+      "message": "預設使用寬屏模式"
+   }
+}

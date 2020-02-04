@@ -21,24 +21,24 @@ done=filepicker-remove-old-previews-entry
 mtime=1578228389
 
 [fonts_akregator.upd]
-ctime=1578581530
+ctime=1580376734
 done=Plasma_Fonts_Akregator
-mtime=1578414321
+mtime=1580154621
 
 [fonts_global.upd]
-ctime=1578581530
+ctime=1580376734
 done=Fonts_Global
-mtime=1578414321
+mtime=1580154621
 
 [fonts_global_toolbar.upd]
-ctime=1578581530
+ctime=1580376734
 done=Fonts_Global_Toolbar
-mtime=1578414321
+mtime=1580154621
 
 [fonts_kate.upd]
-ctime=1578581530
+ctime=1580376734
 done=Plasma_Fonts_Kate
-mtime=1578414321
+mtime=1580154621
 
 [gtkbreeze5.5.upd]
 ctime=1578581524
@@ -170,14 +170,14 @@ done=LibraryPathWipeOut
 mtime=1578857166
 
 [krunnerglobalshortcuts.upd]
-ctime=1578581530
+ctime=1579686336
 done=5.17KRunnerGlobalShortcuts
-mtime=1578414374
+mtime=1579608086
 
 [krunnerplugins.upd]
-ctime=1578581530
+ctime=1579686336
 done=5.9KRunnerPlugins
-mtime=1578414374
+mtime=1579608086
 
 [kscreenlocker.upd]
 ctime=1578581529
@@ -185,9 +185,9 @@ done=0.1-autolock
 mtime=1578413798
 
 [kwin.upd]
-ctime=1578581529
+ctime=1580376734
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize
-mtime=1578414012
+mtime=1580118370
 
 [languagetool_kmail.upd]
 ctime=1578669396
@@ -199,8 +199,8 @@ done=messageviewer_move_gravatar
 mtime=1578385245
 
 [okular.upd]
-ctime=1578669411
-mtime=1578393502
+ctime=1580043911
+mtime=1579948254
 
 [pimsettingexporter.upd]
 ctime=1578669401

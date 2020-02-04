@@ -1,15 +1,3 @@
-[file:///boot/grub/themes/Vimix/theme.txt]
-Bookmarks=
-Checksum=c4b688274df528a7dbd8f997804138ca0e39a022
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,29,20,50,31
-URL=file:///boot/grub/themes/Vimix/theme.txt
-
 [file:///etc/bash.bashrc]
 Bookmarks=
 Checksum=01732cfd76bff114b3f27a4e4b50c3a564223953
@@ -46,41 +34,41 @@ Mode Set By User=false
 Time=2020,1,16,20,33,8
 URL=file:///home/harold/.bashrc
 
-[file:///home/harold/.config/polybar/config]
+[file:///home/harold/.config/nvim/init.vim]
 Bookmarks=
-Checksum=ffb2fab81a59082b347c762f6e21409f56539bbc
+Checksum=a0d07cc5e69899d44eb5eea78adc5d0647f033eb
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,12,29,19,25,16
-URL=file:///home/harold/.config/polybar/config
+Time=2020,2,3,20,52,59
+URL=file:///home/harold/.config/nvim/init.vim
 
-[file:///home/harold/.config/zsh/zshrc]
+[file:///home/harold/.config/nvim/md-snippets.vim]
 Bookmarks=
-Checksum=44a46197d62878b6f0dd8e0e4c4241d8d23358ee
+Checksum=ea21ef01a3d629aa597e0a666e459a81c0ec59ba
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,12,29,19,14,53
-URL=file:///home/harold/.config/zsh/zshrc
+Time=2020,2,3,20,53,10
+URL=file:///home/harold/.config/nvim/md-snippets.vim
 
-[file:///home/harold/.gnupg/gpg.conf]
+[file:///home/harold/.config/ranger/rc-sample.conf]
 Bookmarks=
-Checksum=8d1c8b69c3fce7bea45c73efd06983e3c419a92f
+Checksum=f07ee5caab32d9cfa53fbfb771cafaf4a290400c
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,12,29,18,38,54
-URL=file:///home/harold/.gnupg/gpg.conf
+Time=2020,1,18,22,5,46
+URL=file:///home/harold/.config/ranger/rc-sample.conf
 
 [file:///home/harold/.xinitrc]
 Bookmarks=
@@ -106,18 +94,6 @@ Mode Set By User=false
 Time=2020,1,17,11,40,27
 URL=file:///home/harold/.xprofile
 
-[file:///home/harold/.zsh_history]
-Bookmarks=
-Checksum=3603dba92a9096a15d6e5b58bbd01495da6ecc80
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,31,21,53,39
-URL=file:///home/harold/.zsh_history
-
 [file:///home/harold/.zshrc]
 Bookmarks=
 Checksum=95cb10c9e5ed700509f88fa671a4600c4ad66a5f
@@ -130,18 +106,6 @@ Mode Set By User=false
 Time=2020,1,16,20,33,8
 URL=file:///home/harold/.zshrc
 
-[file:///home/harold/Desktop/config/polybar/config]
-Bookmarks=
-Checksum=f7a9d455c485af8d6f5a3379d7d87d10b212f4a5
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,29,19,25,16
-URL=file:///home/harold/Desktop/config/polybar/config
-
 [file:///home/harold/Documents/Bilibili]
 Bookmarks=
 Checksum=da44e41038ffd393b6e563c97af7c3723b96bcfa
@@ -153,18 +117,6 @@ Mode=Normal
 Mode Set By User=false
 Time=2020,1,13,21,19,13
 URL=file:///home/harold/Documents/Bilibili
-
-[file:///home/harold/Documents/zshrc]
-Bookmarks=
-Checksum=5bcbe13a738273a39a6d700628b056ab4f41bcd1
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,31,21,57,43
-URL=file:///home/harold/Documents/zshrc
 
 [file:///home/harold/Downloads/Harold's Blog.html]
 Bookmarks=
@@ -202,6 +154,42 @@ Mode Set By User=false
 Time=2020,1,16,20,28,37
 URL=file:///home/harold/Downloads/dwm-master/config.mk
 
+[file:///home/harold/Downloads/nvim/default_configs/_machine_specific_default.vim]
+Bookmarks=
+Checksum=94b043c8f9d421f48860a476025197f769868d19
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,2,3,20,50,25
+URL=file:///home/harold/Downloads/nvim/default_configs/_machine_specific_default.vim
+
+[file:///home/harold/Downloads/nvim/init.vim]
+Bookmarks=
+Checksum=a0d07cc5e69899d44eb5eea78adc5d0647f033eb
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,2,3,20,52,58
+URL=file:///home/harold/Downloads/nvim/init.vim
+
+[file:///home/harold/Downloads/nvim/md-snippets.vim]
+Bookmarks=
+Checksum=ea21ef01a3d629aa597e0a666e459a81c0ec59ba
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,2,3,20,53,21
+URL=file:///home/harold/Downloads/nvim/md-snippets.vim
+
 [file:///home/harold/Downloads/ranger/scope.sh]
 Bookmarks=
 Checksum=6709bf9132c6c22b0299a9e0b835d08df3e50e51
@@ -213,6 +201,78 @@ Mode=Bash
 Mode Set By User=false
 Time=2020,1,5,15,8,6
 URL=file:///home/harold/Downloads/ranger/scope.sh
+
+[file:///home/harold/Downloads/scripts/autostart.sh]
+Bookmarks=
+Checksum=d283607287ef1fbfd745cdd9d22c43014de7c888
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,58,26
+URL=file:///home/harold/Downloads/scripts/autostart.sh
+
+[file:///home/harold/Downloads/scripts/autostart_wait.sh]
+Bookmarks=
+Checksum=28f03766d1451c429913e4c389ab509395c7c863
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,58,53
+URL=file:///home/harold/Downloads/scripts/autostart_wait.sh
+
+[file:///home/harold/Downloads/scripts/dwm-status-refresh.sh]
+Bookmarks=
+Checksum=c5e801d0115f77576f168f8777301e1771d78f6d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,55,54
+URL=file:///home/harold/Downloads/scripts/dwm-status-refresh.sh
+
+[file:///home/harold/Downloads/scripts/dwm-status.sh]
+Bookmarks=
+Checksum=64f058f5f19745b7e96d979830a0c240b7d62322
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,55,28
+URL=file:///home/harold/Downloads/scripts/dwm-status.sh
+
+[file:///home/harold/Downloads/scripts/wp-autochange.sh]
+Bookmarks=
+Checksum=4bd17adc4d636dc46bc506c004fd77ae46e15e8d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,54,27
+URL=file:///home/harold/Downloads/scripts/wp-autochange.sh
+
+[file:///home/harold/Downloads/scripts/wp-change.sh]
+Bookmarks=
+Checksum=3535a971d86b6a0c6466cb1cc941bdf78d187c49
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,54,18
+URL=file:///home/harold/Downloads/scripts/wp-change.sh
 
 [file:///home/harold/Downloads/说明.txt]
 Bookmarks=
@@ -226,18 +286,6 @@ Mode Set By User=false
 Time=2020,1,10,15,29,7
 URL=file:///home/harold/Downloads/说明.txt
 
-[file:///home/harold/Text File]
-Bookmarks=
-Checksum=f87cc1faf5828b014b91b1e3ad2f09e5f4c3668a
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,29,20,35,56
-URL=file:///home/harold/Text File
-
 [file:///home/harold/config.sh]
 Bookmarks=
 Checksum=b85a55d41a46f444c2e4a948160f119cd0474608
@@ -250,17 +298,17 @@ Mode Set By User=false
 Time=2020,1,12,14,8,55
 URL=file:///home/harold/config.sh
 
-[file:///home/harold/default.txt]
+[file:///home/harold/dwm/config.h]
 Bookmarks=
-Checksum=8b137891791fe96927ad78e64b0aad7bded08bdc
+Checksum=0f77cec87e779f34bcab545c520994a2292adcf5
 Encoding=UTF-8
-Highlighting=None
+Highlighting=C++
 Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
+Indentation Mode=cstyle
+Mode=C++
 Mode Set By User=false
-Time=2019,12,31,17,35,7
-URL=file:///home/harold/default.txt
+Time=2020,2,3,21,4,56
+URL=file:///home/harold/dwm/config.h
 
 [file:///home/harold/github token]
 Bookmarks=
@@ -274,6 +322,54 @@ Mode Set By User=false
 Time=2020,1,14,10,55,29
 URL=file:///home/harold/github token
 
+[file:///home/harold/scripts/autostart.sh]
+Bookmarks=
+Checksum=fba75c3487ae49d80741f1fa44d69e19361c8830
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,21,6,41
+URL=file:///home/harold/scripts/autostart.sh
+
+[file:///home/harold/scripts/autostart_wait.sh]
+Bookmarks=
+Checksum=8e0d102e1702eda73a224359c88aa85676ed8f2b
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,21,5,59
+URL=file:///home/harold/scripts/autostart_wait.sh
+
+[file:///home/harold/scripts/dwm-status-refresh.sh]
+Bookmarks=
+Checksum=c5e801d0115f77576f168f8777301e1771d78f6d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,55,47
+URL=file:///home/harold/scripts/dwm-status-refresh.sh
+
+[file:///home/harold/scripts/dwm-status.sh]
+Bookmarks=
+Checksum=64f058f5f19745b7e96d979830a0c240b7d62322
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,55,39
+URL=file:///home/harold/scripts/dwm-status.sh
+
 [file:///home/harold/scripts/i3exit]
 Bookmarks=
 Checksum=f2c4780bad38acf75027d652026387d439dcac79
@@ -285,6 +381,42 @@ Mode=Normal
 Mode Set By User=false
 Time=2020,1,9,18,49,14
 URL=file:///home/harold/scripts/i3exit
+
+[file:///home/harold/scripts/setxmodmap-colemak.sh]
+Bookmarks=
+Checksum=467964b1b9b6a5f94ab5afa00128f8c0f1dc25f4
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,21,6,51
+URL=file:///home/harold/scripts/setxmodmap-colemak.sh
+
+[file:///home/harold/scripts/setxmodmap-qwerty.sh]
+Bookmarks=
+Checksum=76c7c6db8b10c979a93b592ab7e961f2bc1dcc10
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,21,6,37
+URL=file:///home/harold/scripts/setxmodmap-qwerty.sh
+
+[file:///home/harold/scripts/wp-autochange.sh]
+Bookmarks=
+Checksum=4bd17adc4d636dc46bc506c004fd77ae46e15e8d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,2,3,20,54,41
+URL=file:///home/harold/scripts/wp-autochange.sh
 
 [file:///home/harold/setup.sh]
 Bookmarks=

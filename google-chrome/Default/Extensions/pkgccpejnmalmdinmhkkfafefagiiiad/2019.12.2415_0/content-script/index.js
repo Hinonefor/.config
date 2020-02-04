@@ -1,1 +1,0 @@
-import JsonAutoFormatter from"../json-format/automatic.js";import MSG_TYPE from"../static/js/common.js";export let init=function(){chrome.runtime.sendMessage({type:MSG_TYPE.JSON_PAGE_FORMAT_REQUEST}),chrome.runtime.onMessage.addListener(function(t,o,e){switch(t.type){case MSG_TYPE.JSON_PAGE_FORMAT:JsonAutoFormatter.format(t.options)}})};

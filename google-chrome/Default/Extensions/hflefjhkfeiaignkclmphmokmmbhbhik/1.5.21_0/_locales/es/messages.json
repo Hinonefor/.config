@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Este bloqueador de anuncios suprime todos los anuncios en Youtube. Pre-roll anuncios de vídeo, texto y anuncios de banner."
+   },
+   "name": {
+      "message": "Bloqueador de anuncios para Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblocker for Youtube™"
+   }
+}

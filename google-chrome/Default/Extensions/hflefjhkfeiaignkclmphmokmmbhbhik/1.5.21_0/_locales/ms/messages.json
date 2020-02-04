@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ini iklan blocker membuang semua iklan di Youtube. iklan video pra-roll, teks dan banner iklan."
+   },
+   "name": {
+      "message": "Iklan blocker untuk Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

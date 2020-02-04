@@ -1,6 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop,google-chrome.desktop
-recent=xfce-settings-manager.desktop,gparted.desktop,hmcl.desktop,exo-web-browser.desktop,firefox.desktop
-button-title=应用程序
+recent=xfce-settings-manager.desktop,xfce4-settings-editor.desktop,gparted.desktop,hmcl.desktop,exo-web-browser.desktop,firefox.desktop
 button-icon=distributor-logo-archlinux
 button-single-row=false
 show-button-title=false

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ovaj oglas bloker uklanja sve oglase na YouTubeu. Prije videozapisa oglase, tekstualne i banner oglase."
+   },
+   "name": {
+      "message": "Oglasi bloker za YouTube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

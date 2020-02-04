@@ -1,1 +1,0 @@
-(async()=>{const t=chrome.runtime.getURL("content-script/index.js");(await import(t)).init()})();

@@ -1,0 +1,29 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "img/music128.png"
+   },
+   "content_scripts": [ {
+      "js": [ "content.bundle.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "zh_CN",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "img/music128.png",
+      "16": "img/music16.png",
+      "48": "img/music48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNU0r6EBBcGP/kZCFQcWAESKsjcvJRPWRIU8YxTZRx01c/7OPPsz2wp5h0Bm4FJK8b7bvwBmWOGC+87feRxvs7m/5aRefLJJeOOMwsb8PBjn1mhIMH/AxHeten0QHq2LxbzJ1Z1ZXauaVLdV9bi4YQTREo9ikmMLzA+wXSd7izgwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "options.html",
+   "permissions": [ "webRequest", "activeTab", "tabs", "webRequestBlocking", "downloads", "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1.0",
+   "web_accessible_resources": [ "img/music16.png", "img/music24.png", "img/music32.png", "img/music48.png", "img/arrowl32.png", "img/arrowr32.png", "img/m4a32.png", "img/aac32.png", "img/mp432.png" ]
+}

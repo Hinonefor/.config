@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Trình chặn quảng cáo loại bỏ tất cả các quảng cáo trên Youtube. Quảng cáo video đầu tiên, quảng cáo văn bản và quảng cáo biểu ngữ."
+   },
+   "name": {
+      "message": "Trình chặn quảng cáo cho Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

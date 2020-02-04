@@ -1,28 +1,9 @@
-2020/01/18-15:33:33.769 5763 Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2020/01/18-15:33:33.769 5763 Recovering log #974
-2020/01/18-15:33:33.836 5763 Level-0 table #977: started
-2020/01/18-15:33:33.943 5763 Level-0 table #977: 5133772 bytes OK
-2020/01/18-15:33:33.947 5763 Delete type=0 #974
-2020/01/18-15:34:35.099 59ef Level-0 table #980: started
-2020/01/18-15:34:35.162 59ef Level-0 table #980: 5133623 bytes OK
-2020/01/18-15:34:35.165 59ef Delete type=0 #978
-2020/01/18-15:34:53.743 59ef Level-0 table #982: started
-2020/01/18-15:34:53.833 59ef Level-0 table #982: 5133775 bytes OK
-2020/01/18-15:34:53.837 59ef Delete type=0 #979
-2020/01/18-15:34:53.839 59ef Compacting 4@0 + 2@1 files
-2020/01/18-15:34:54.024 59ef Generated table #983@0: 1 keys, 5133508 bytes
-2020/01/18-15:34:54.029 59ef Generated table #984@0: 6 keys, 453 bytes
-2020/01/18-15:34:54.029 59ef Compacted 4@0 + 2@1 files => 5133961 bytes
-2020/01/18-15:34:54.032 59ef compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/01/18-15:34:54.032 59ef Delete type=2 #973
-2020/01/18-15:34:54.032 59ef Delete type=2 #980
-2020/01/18-15:34:54.032 59ef Delete type=2 #975
-2020/01/18-15:34:54.032 59ef Delete type=2 #982
-2020/01/18-15:34:54.032 59ef Delete type=2 #963
-2020/01/18-15:34:54.032 59ef Delete type=2 #977
-2020/01/18-15:36:43.468 59ef Level-0 table #986: started
-2020/01/18-15:36:43.533 59ef Level-0 table #986: 5146048 bytes OK
-2020/01/18-15:36:43.536 59ef Delete type=0 #981
-2020/01/18-15:37:36.797 59ef Level-0 table #988: started
-2020/01/18-15:37:36.916 59ef Level-0 table #988: 5145988 bytes OK
-2020/01/18-15:37:36.920 59ef Delete type=0 #985
+2020/01/20-10:34:18.882 2072f Reusing MANIFEST /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/01/20-10:34:18.882 2072f Recovering log #1020
+2020/01/20-10:34:18.882 2072f Reusing old log /home/harold/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/001020.log 
+2020/01/20-10:35:20.239 21466 Level-0 table #1024: started
+2020/01/20-10:35:20.306 21466 Level-0 table #1024: 5146324 bytes OK
+2020/01/20-10:35:20.309 21466 Delete type=0 #1020
+2020/01/20-10:35:22.328 21466 Level-0 table #1026: started
+2020/01/20-10:35:22.394 21466 Level-0 table #1026: 5146263 bytes OK
+2020/01/20-10:35:22.400 21466 Delete type=0 #1023

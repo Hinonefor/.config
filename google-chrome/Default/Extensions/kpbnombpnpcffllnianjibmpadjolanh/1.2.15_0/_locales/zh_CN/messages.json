@@ -1,0 +1,450 @@
+{
+   "autoTakeVipPrivilege_name": {
+      "message": "自动领取大会员福利"
+   },
+   "autoTakeVipPrivilege_notification": {
+      "message": "推送通知"
+   },
+   "autoTakeVipPrivilege_notification_description": {
+      "message": "领取成功后通过推送通知提醒"
+   },
+   "autoTakeVipPrivilege_notification_successfully": {
+      "message": "自动领取大会员福利成功！"
+   },
+   "charFilter_UI_listName": {
+      "message": "屏蔽列表"
+   },
+   "charFilter_description": {
+      "message": "过滤直播区聊天区域的显示内容，也包括一些播放器上的广告推送"
+   },
+   "charFilter_name": {
+      "message": "去污粉"
+   },
+   "charFilter_subPage_description": {
+      "message": "请注意b站自带的\"关闭礼物特效\"功能"
+   },
+   "charFilter_subPage_options_2233": {
+      "message": "2233娘"
+   },
+   "charFilter_subPage_options_achievement": {
+      "message": "成就头衔"
+   },
+   "charFilter_subPage_options_announcement": {
+      "message": "系统公告"
+   },
+   "charFilter_subPage_options_announcement_description": {
+      "message": "系统公告"
+   },
+   "charFilter_subPage_options_chat": {
+      "message": "聊天内容"
+   },
+   "charFilter_subPage_options_enterMsg": {
+      "message": "进场信息"
+   },
+   "charFilter_subPage_options_gift": {
+      "message": "礼物信息"
+   },
+   "charFilter_subPage_options_level": {
+      "message": "用户等级"
+   },
+   "charFilter_subPage_options_medal": {
+      "message": "粉丝勋章"
+   },
+   "charFilter_subPage_options_small": {
+      "message": "小型标志"
+   },
+   "charFilter_subPage_options_small_description": {
+      "message": "如：老爷标志，舰长等"
+   },
+   "charFilter_subPage_title": {
+      "message": "开启聊天过滤"
+   },
+   "checkVersionGetUpdateError": {
+      "description": "Notification: Extension Update Error",
+      "message": "获取更新信息失败"
+   },
+   "checkVersionNewVersion": {
+      "description": "Notification: new version detected",
+      "message": "检测到新版本："
+   },
+   "checkVersionNoNewVersion": {
+      "description": "Notification: no new version detected",
+      "message": "当前已经是最新版本 :)"
+   },
+   "common_version": {
+      "message": "版本"
+   },
+   "config_checking": {
+      "message": "检查更新"
+   },
+   "config_commonNotify": {
+      "description": "Extension: config page notify",
+      "message": "如果您的版本显示为测试版或者出现了问题，请尝试卸载本扩展后重新安装"
+   },
+   "config_thank": {
+      "message": "感谢支持"
+   },
+   "config_type_about": {
+      "message": "关于"
+   },
+   "config_type_live": {
+      "message": "直播"
+   },
+   "config_type_main": {
+      "message": "主站"
+   },
+   "config_type_menu": {
+      "message": "菜单栏"
+   },
+   "config_type_other": {
+      "message": "其他"
+   },
+   "config_version": {
+      "message": "版本"
+   },
+   "config_websiteNotify": {
+      "description": "Extension: config page website notify",
+      "message": "哔哩哔哩助手官网已经更新为："
+   },
+   "cvImages_UI_downloadBtn": {
+      "message": "下载图片"
+   },
+   "cvImages_name": {
+      "message": "专栏图片保存与去除文字可选中限制"
+   },
+   "danmu_description": {
+      "message": "查询弹幕发送者，支持历史弹幕，分P，视频切换等场景"
+   },
+   "danmu_name": {
+      "message": "视频弹幕查询及下载"
+   },
+   "doSign_name": {
+      "message": "自动每日签到"
+   },
+   "doSign_notification": {
+      "message": "推送通知"
+   },
+   "doSign_notification_description": {
+      "message": "签到成功后通过推送通知提醒"
+   },
+   "doSign_notification_successfully": {
+      "message": "自动签到成功！"
+   },
+   "dynamicCheck_description": {
+      "message": "视频消息、小视频、专栏、番剧自动推送，每分钟检测一次"
+   },
+   "dynamicCheck_name": {
+      "message": "视频动态推送"
+   },
+   "dynamicCheck_options_dynamicCheckBox": {
+      "message": "最近推送列表"
+   },
+   "dynamicCheck_options_dynamicCheckBox_description": {
+      "message": "在扩展菜单显示$MAX$条最近推送的视频",
+      "placeholders": {
+         "max": {
+            "content": "$1"
+         }
+      }
+   },
+   "dynamicCheck_options_notification": {
+      "message": "推送通知"
+   },
+   "dynamicCheck_subPage_description": {
+      "message": "如果都选择关闭，将不会进行进行检测"
+   },
+   "dynamicCheck_subPage_options_bangumi": {
+      "message": " 番剧"
+   },
+   "dynamicCheck_subPage_options_cv": {
+      "message": "专栏"
+   },
+   "dynamicCheck_subPage_options_smallVideo": {
+      "message": "小视频"
+   },
+   "dynamicCheck_subPage_options_video": {
+      "message": "视频投稿"
+   },
+   "dynamicCheck_subPage_title": {
+      "message": "动态推送"
+   },
+   "enterID": {
+      "description": "Popup Button: enter_id",
+      "message": "请输入ID"
+   },
+   "extensionDescription": {
+      "description": "Extension: Description",
+      "message": "哔哩哔哩弹幕网辅助扩展，拥有视频区和直播区的人性化功能"
+   },
+   "extensionName": {
+      "description": "Extension: Name",
+      "message": "哔哩哔哩助手：bilibili.com 综合辅助扩展"
+   },
+   "extensionNotificationExtensionUpdate": {
+      "description": "Notification: Extension Update",
+      "message": "哔哩哔哩助手已自动更新到 v%v！"
+   },
+   "extensionNotificationNewFeatures": {
+      "description": "Notification: New Features",
+      "message": "查看更新内容"
+   },
+   "extensionNotificationTitle": {
+      "description": "Notification: Title",
+      "message": "哔哩哔哩助手提醒"
+   },
+   "extensionNotificationWatch": {
+      "description": "Notification: Watch",
+      "message": "观看"
+   },
+   "extensionShortName": {
+      "description": "Extension: Short Name",
+      "message": "哔哩哔哩助手"
+   },
+   "extensionVersionTypeOfficialVersion": {
+      "description": "Version Type: official",
+      "message": "正式版"
+   },
+   "extensionVersionTypeTestVersion": {
+      "description": "Version Type: test",
+      "message": "测试版"
+   },
+   "followingLiveUpdateMessage": {
+      "description": "Notification: Following Live Up Available",
+      "message": "主播「$UPPER$」开播啦! ",
+      "placeholders": {
+         "upper": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "followingUpdateMessage": {
+      "description": "Notification: Following Update Message",
+      "message": "您的哔哩哔哩关注更新了（%n 个新动态）！\n%uploader 刚刚发布了「%title」！"
+   },
+   "goBili": {
+      "description": "Popup Button: go_bili",
+      "message": "主站"
+   },
+   "goBiliLive": {
+      "description": "Popup Button: go_bili_live",
+      "message": "直播"
+   },
+   "goBiliShort": {
+      "description": "Popup Button: go_bili",
+      "message": "主站"
+   },
+   "goDynamic": {
+      "description": "Popup Button: go_dynamic",
+      "message": "动态"
+   },
+   "goFavourite": {
+      "description": "Popup Button: go_favourite",
+      "message": "收藏"
+   },
+   "goOption": {
+      "description": "Popup Button: go_option",
+      "message": "设置"
+   },
+   "goVideo": {
+      "description": "Popup Button: go_video",
+      "message": "跳转"
+   },
+   "googleAnalytics_description": {
+      "message": "匿名统计功能的使用情况，帮助开发者改进程序为您提供更好的体验"
+   },
+   "googleAnalytics_name": {
+      "message": "数据统计"
+   },
+   "liveChatMode_UI_buttonOFF": {
+      "message": "关闭版聊模式"
+   },
+   "liveChatMode_UI_buttonON": {
+      "message": "开启版聊模式"
+   },
+   "liveChatMode_description": {
+      "message": "在直播间开启网页全屏模式时以纵向排列的方式显示聊天內容，同時隐藏弹幕"
+   },
+   "liveChatMode_name": {
+      "message": "版聊模式"
+   },
+   "livePictureInPicture_UI_buttonTitle": {
+      "message": "点击开启画中画"
+   },
+   "livePictureInPicture_name": {
+      "description": "Menu: Picture in picture",
+      "message": "画中画"
+   },
+   "liveUpCheck_description": {
+      "message": "主播新开播后$TIME$分钟内进行推送",
+      "placeholders": {
+         "time": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "liveUpCheck_name": {
+      "message": "直播开播推送"
+   },
+   "liveUpCheck_options_dynamicCheckBox": {
+      "message": "最近推送列表"
+   },
+   "liveUpCheck_options_dynamicCheckBox_description": {
+      "message": "在扩展菜单显示$MAX$条最近推送的直播",
+      "placeholders": {
+         "max": {
+            "content": "$1",
+            "example": ""
+         }
+      }
+   },
+   "liveUpCheck_options_notification": {
+      "message": "推送通知"
+   },
+   "menu_description": {
+      "message": "选择您需要在扩展菜单中显示的常用功能"
+   },
+   "menu_name": {
+      "message": "扩展程序菜单栏"
+   },
+   "menu_options_oldWatchPage": {
+      "message": "旧关注页面"
+   },
+   "menu_options_shortMode": {
+      "message": "较短按钮宽度"
+   },
+   "menu_options_shortMode_description": {
+      "message": "开启后菜单按钮将会缩短"
+   },
+   "menu_subPage_options_dynamic": {
+      "message": "我的关注"
+   },
+   "menu_subPage_options_favourite": {
+      "message": "我的收藏"
+   },
+   "menu_subPage_options_linker": {
+      "message": "视频快速跳转"
+   },
+   "menu_subPage_options_linker_description": {
+      "message": "窄模式下，需要按回车键进行跳转"
+   },
+   "menu_subPage_options_live": {
+      "message": "前往直播区"
+   },
+   "menu_subPage_options_video": {
+      "message": "前往主站"
+   },
+   "menu_subPage_title": {
+      "message": "启用菜单栏"
+   },
+   "notAutoPlay_name": {
+      "message": "关闭动态页面小视频自动播放"
+   },
+   "notLogin": {
+      "description": "Popup Button: not login",
+      "message": "未登录"
+   },
+   "permissionManager_login_description": {
+      "description": "您需要登录Bilibili的账号",
+      "message": "您需要登录Bilibili的账号"
+   },
+   "permissionManager_login_error_massage": {
+      "description": "未登录",
+      "message": "未登录"
+   },
+   "permissionManager_notifications_description": {
+      "description": "需要获得通知功能的权限以便开启相关功能",
+      "message": "需要获得通知功能的权限以便开启相关功能"
+   },
+   "permissionManager_notifications_error_massage": {
+      "description": "未获得通知功能的权限",
+      "message": "未获得通知功能的权限"
+   },
+   "pictureInPicture_UI_buttonTitle": {
+      "message": "点击开启画中画"
+   },
+   "pictureInPicture_name": {
+      "description": "Menu: Picture in picture",
+      "message": "画中画"
+   },
+   "quickSearch_name": {
+      "message": "右键用哔哩哔哩搜索"
+   },
+   "searchBili": {
+      "description": "Context Menu: Title",
+      "message": "使用 哔哩哔哩搜索 '%s'"
+   },
+   "showDisabledVideo_name": {
+      "message": "显示失效视频部分信息"
+   },
+   "silver2coin_name": {
+      "message": "银瓜子自动换硬币"
+   },
+   "silver2coin_notification_successfully": {
+      "message": "银瓜子换硬币成功！"
+   },
+   "silver2coin_options_notification": {
+      "message": "推送通知"
+   },
+   "silver2coin_options_notification_description": {
+      "message": "兑换成功后将会弹出代表成功的推送通知"
+   },
+   "treasure_description": {
+      "message": "打开直播间就会自动领瓜子"
+   },
+   "treasure_name": {
+      "message": "自动领瓜子"
+   },
+   "treasure_notification": {
+      "message": "推送通知"
+   },
+   "treasure_notification_description": {
+      "message": "领取成功后通过推送通知提示"
+   },
+   "versionManager_description": {
+      "message": "仅仅进行检测而并不进行更新操作"
+   },
+   "versionManager_name": {
+      "message": "自动检测更新"
+   },
+   "versionManager_options_notification": {
+      "message": "推送通知"
+   },
+   "videoDarkMode_name": {
+      "message": "深色模式"
+   },
+   "videoDownload_description": {
+      "message": "支持新播放页面视频下载，分段合并下载，分段单独下载功能"
+   },
+   "videoDownload_name": {
+      "message": "视频下载"
+   },
+   "videoDownload_options_showFLVSegment": {
+      "message": "显示 FLV 分段"
+   },
+   "videoDownload_options_showFLVSegment_description": {
+      "message": "视频源包含多个分段时，显示分段下载按钮"
+   },
+   "videoHideDanmu_name": {
+      "message": "默认关闭弹幕显示"
+   },
+   "videoSubtitleDownload_name": {
+      "message": "视频字幕下载"
+   },
+   "videoWiden_name": {
+      "message": "宽屏模式"
+   },
+   "videoWiden_subPage_options_default": {
+      "message": "默认"
+   },
+   "videoWiden_subPage_options_normalWiden": {
+      "message": "宽屏"
+   },
+   "videoWiden_subPage_options_webFullscreen": {
+      "message": "网页全屏"
+   },
+   "videoWiden_subPage_title": {
+      "message": "默认使用宽屏模式"
+   }
+}

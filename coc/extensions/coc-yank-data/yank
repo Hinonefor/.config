@@ -163,3 +163,44 @@ a9269e686b6b3be6152ca13f98e907e8|file:///home/harold/.Xmodmap-cn|29|15|v|
 	
 3218c7a5a52b88b0916c76692d284df2|file:///home/harold/scripts/autostart.sh|9|1|V|sh
 	/bin/bash ~/scripts/setxmodmap-colemak.sh &
+fefa02b5f2884ca9a5d2b94609f2a69b|file:///home/harold/.config/ranger/commands.py|5|1|V|python
+	import sys
+	sys.setrecursionlimit(1000000000)
+ab7b677f2cb254fcc6ae414cafe29184|file:///home/harold/Documents/Bilibili|20|1|V|
+	                            -`
+	                  .o+`
+	                 `ooo/
+	                `+oooo:
+	               `+oooooo:
+	               -+oooooo+:
+	             `/:-:++oooo+:
+	            `/++++/+++++++:
+	           `/++++++++++++++:
+	          `/+++o${c2}oooooooo${c1}oooo/`
+	${c2}         ${c1}./${c2}ooosssso++osssssso${c1}+`
+	${c2}        .oossssso-````/ossssss+`
+	       -osssssso.      :ssssssso.
+	      :osssssss/        osssso+++.
+	     /ossssssss/        +ssssooo/-
+	   `/ossssso+/:-        -:/+osssso+-
+	  `+sso+:-`                 `.-/+oso:
+	 `++:.                           `-/+/
+	 .`                                 `/
+02eda392deaf5d29b0d103e3a63eed45|file:///usr/bin/neofetch|5287|1|V|sh
+	    ##DDDDDDDDDDDDDDDDDDDDDD##
+710457c0d6373df835a768309b4b2f0a|file:///usr/bin/neofetch|5287|5|V|sh
+	    ## DDDDDDDDDDDDDDDDDDDD ##
+9d25531431281992265141afc16deee1|file:///usr/bin/neofetch|5287|5|V|sh
+	    ## hh                hh ##
+41fc1532bb5fac99c7b6d07461808e28|file:///usr/bin/neofetch|5287|5|V|sh
+	    ## hh    //    \\\\    hh ##
+1051bd0c57631183dfb9d9eac71273aa|file:///usr/bin/neofetch|5287|5|V|sh
+	    ## hh   //      \\\\   hh ##
+bf6235c76f3b2e326d11e33d1ad2ff4b|file:///usr/bin/neofetch|5287|5|V|sh
+	    ## hh      wwww      hh ##
+1c59c111ef50b7b4a718be953bb08af3|file:///usr/bin/neofetch|5287|5|V|sh
+	    ## MMMMMMMMMMMMMMMMMMMM ##
+1a021583ae957219f566ee9a33f88d8b|file:///usr/bin/neofetch|5287|5|V|sh
+	    ##MMMMMMMMMMMMMMMMMMMMMM##
+9a897215a8e90169bdc7d8c4024586e2|file:///usr/bin/neofetch|5287|10|V|sh
+	         \/            \/

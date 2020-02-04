@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "この広告ブロッカーはYouTubeのすべての広告を削除します。プレロールビデオ広告、テキスト広告、バナー広告。"
+   },
+   "name": {
+      "message": "Youtube™ の広告ブロッカー"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

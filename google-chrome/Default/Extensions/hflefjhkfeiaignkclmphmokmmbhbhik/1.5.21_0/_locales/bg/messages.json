@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Това обяви блокер премахва всички обяви на Youtube. Преди видеоклипа реклами, текстови и банер реклами."
+   },
+   "name": {
+      "message": "блокер Обяви за Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Aquest bloquejador d'anuncis elimina tots els anuncis a Youtube. Els anuncis de vídeo pre-roll, anuncis de text i banners."
+   },
+   "name": {
+      "message": "Anuncis bloquejador de Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblocker for Youtube™"
+   }
+}

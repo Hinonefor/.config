@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Dieser Anzeigenblocker entfernt alle Anzeigen auf Youtube Plus. Vorbereiten von Videoanzeigen, Text und Bannerwerbung."
+   },
+   "name": {
+      "message": "Anzeigenblocker für Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblocker for Youtube™"
+   }
+}

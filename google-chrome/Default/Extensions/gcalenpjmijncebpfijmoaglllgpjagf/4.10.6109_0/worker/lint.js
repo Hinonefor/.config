@@ -1,0 +1,1 @@
+'use strict';(()=>{let c="/";self.onmessage=a=>{a=a.data;if("base_uri"==a.method)c=a.value;else if("lint"==a.method)try{self.eslint||self.importScripts(c+"vendor/eslint/eslint.js");const b=(new self.eslint).verify(a.text,a.config,a.options);self.postMessage({results:b,id:a.id})}catch(b){self.postMessage({error:b,id:a.id})}}})();

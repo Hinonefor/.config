@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ten bloker reklam usuwa wszystkie reklamy na Youtube. Reklamy wideo przed reklamą, reklamy tekstowe i banerowe. "
+   },
+   "name": {
+      "message": "Blokada reklam dla serwisu Youtube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

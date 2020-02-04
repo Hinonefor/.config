@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Ez hirdetéseket blokkoló megszünteti reklámok Youtube. Pre videohirdetéseknek, szöveges és banner hirdetések."
+   },
+   "name": {
+      "message": "A hirdetések blokkoló YouTube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}

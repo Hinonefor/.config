@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Šo reklāmu bloķētājs likvidē visas reklāmas uz Youtube. Pre-roll video reklāmas, teksta un banner reklāmas."
+   },
+   "name": {
+      "message": "Reklāmas bloķētāju YouTube ™"
+   },
+   "short_name": {
+      "message": "Adblock Plus for YouTube"
+   }
+}
